@@ -1,0 +1,72 @@
+# Tarotoo Tarot Card Meanings Dataset
+
+A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana), based on the classic Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com) as part of its AI transparency initiative: these are the card meanings that ground the AI-generated readings on Tarotoo.com.
+
+## Contents
+
+| File               | Description                                            |
+| ------------------ | ------------------------------------------------------ |
+| `data/cards.json`  | Canonical dataset — array of 78 card objects           |
+| `data/cards.jsonl` | One card per line (Hugging Face-friendly)              |
+| `data/cards.csv`   | Flat CSV mirror                                        |
+| `data/src/`        | Per-suit source files (edit these, then run the build) |
+| `scripts/build.py` | Merges, validates, and regenerates the artifacts       |
+
+## Schema
+
+Each card record has the following fields:
+
+| Field               | Type         | Description                                                                      |
+| ------------------- | ------------ | -------------------------------------------------------------------------------- |
+| `id`                | int          | Stable identifier, 0–77 (0–21 Major Arcana, then Wands, Cups, Swords, Pentacles) |
+| `name`              | string       | Card name, e.g. `"The Fool"`, `"Ace of Cups"`                                    |
+| `arcana`            | string       | `"major"` or `"minor"`                                                           |
+| `suit`              | string\|null | `null` for Major Arcana; `"wands"`, `"cups"`, `"swords"`, `"pentacles"`          |
+| `number`            | int          | Card number (courts: Page=11, Knight=12, Queen=13, King=14)                      |
+| `element`           | string       | Classical element association                                                    |
+| `astrology`         | string       | Astrological association (Golden Dawn attributions; decans for pips)             |
+| `yes_no`            | string       | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings                              |
+| `keywords_upright`  | string[]     | 4–5 upright keywords                                                             |
+| `keywords_reversed` | string[]     | 4–5 reversed keywords                                                            |
+| `meaning_upright`   | string       | Two-sentence upright interpretation                                              |
+| `meaning_reversed`  | string       | Two-sentence reversed interpretation                                             |
+| `love`              | string       | One-sentence love/relationships context                                          |
+| `career`            | string       | One-sentence career/work context                                                 |
+
+## Usage
+
+```python
+import json
+
+with open("data/cards.json") as f:
+    cards = json.load(f)
+
+fool = next(c for c in cards if c["name"] == "The Fool")
+print(fool["meaning_upright"])
+```
+
+Regenerate artifacts after editing the source files:
+
+```bash
+python3 scripts/build.py
+```
+
+## Methodology
+
+Interpretations are grounded in the Rider–Waite–Smith tradition (A. E. Waite, _The Pictorial Key to the Tarot_, 1911, public domain) and written in Tarotoo's editorial voice. Astrological attributions follow the Golden Dawn system. Yes/no values follow the mapping used in Tarotoo's readings. The dataset text is original writing, not copied from other contemporary sources.
+
+## How Tarotoo uses this dataset
+
+When a reading is generated on Tarotoo.com, the meanings of the drawn cards are retrieved from this dataset and included in the model prompt, so interpretations are anchored to these published meanings rather than left entirely to the model. See [`docs/integration.md`](docs/integration.md).
+
+## License
+
+Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to use, share, and adapt this dataset, including commercially, with attribution to Tarotoo (tarotoo.com).
+
+## Citation
+
+See [`CITATION.cff`](CITATION.cff). A DOI via Zenodo is issued for each tagged release.
+
+## For entertainment and self-reflection purposes
+
+Tarot readings are for entertainment and self-reflection only — not medical, legal, financial, or mental-health advice.

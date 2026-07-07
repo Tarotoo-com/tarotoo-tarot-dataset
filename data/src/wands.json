@@ -1,0 +1,394 @@
+[
+  {
+    "id": 22,
+    "name": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 1,
+    "element": "Fire",
+    "astrology": "Root of Fire",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "inspiration",
+      "new opportunity",
+      "creative spark",
+      "enthusiasm",
+      "potential"
+    ],
+    "keywords_reversed": [
+      "delays",
+      "false start",
+      "lack of motivation",
+      "blocked creativity",
+      "hesitation"
+    ],
+    "meaning_upright": "The Ace of Wands is a spark of pure creative potential — a new idea, passion, or opportunity bursting with energy. It invites saying yes and acting while the fire is hot.",
+    "meaning_reversed": "Reversed, the Ace shows inspiration that stalls: false starts, delays, or enthusiasm that fizzles before it becomes action. The spark needs fuel and commitment to catch.",
+    "love": "In love, it signals a spark of fresh attraction or renewed passion in an existing bond.",
+    "career": "In career, it marks the ignition of a new project or venture — promising, if acted on quickly."
+  },
+  {
+    "id": 23,
+    "name": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 2,
+    "element": "Fire",
+    "astrology": "Mars in Aries",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "planning",
+      "future vision",
+      "decision",
+      "expansion",
+      "the world in hand"
+    ],
+    "keywords_reversed": [
+      "fear of the unknown",
+      "playing it safe",
+      "poor planning",
+      "restlessness",
+      "indecision"
+    ],
+    "meaning_upright": "The Two of Wands is the planner's card: standing at a threshold, world in hand, weighing how far to venture. It suggests bold vision paired with deliberate first steps.",
+    "meaning_reversed": "Reversed, it shows ambition trapped by fear of the unknown — staying in familiar territory while opportunity waits outside. Plans exist but the commitment to leave the castle does not.",
+    "love": "In love, it points to weighing a decision about the relationship's future direction.",
+    "career": "In career, it favors strategic planning and considering expansion beyond the current comfort zone."
+  },
+  {
+    "id": 24,
+    "name": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 3,
+    "element": "Fire",
+    "astrology": "Sun in Aries",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "progress",
+      "expansion",
+      "foresight",
+      "ships coming in",
+      "momentum"
+    ],
+    "keywords_reversed": [
+      "delays",
+      "obstacles to plans",
+      "limited vision",
+      "setbacks",
+      "impatience"
+    ],
+    "meaning_upright": "The Three of Wands shows plans in motion and horizons expanding — the ships are launched and beginning to return. It encourages confidence in the direction while staying alert for arriving opportunities.",
+    "meaning_reversed": "Reversed, it signals delays and shipments that haven't come in: plans meeting friction or vision proving too narrow. Reassess logistics rather than abandoning the voyage.",
+    "love": "In love, it suggests a relationship moving forward, sometimes across distance, with patience being rewarded.",
+    "career": "In career, it marks early results confirming a good strategy — think bigger and prepare for growth."
+  },
+  {
+    "id": 25,
+    "name": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 4,
+    "element": "Fire",
+    "astrology": "Venus in Aries",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "celebration",
+      "homecoming",
+      "milestone",
+      "community",
+      "stability"
+    ],
+    "keywords_reversed": [
+      "instability at home",
+      "postponed celebration",
+      "transition",
+      "lack of support",
+      "shaky foundations"
+    ],
+    "meaning_upright": "The Four of Wands is celebration and homecoming — a milestone reached and shared with the people who matter. It marks stability worth pausing to enjoy before the next stage.",
+    "meaning_reversed": "Reversed, it points to tension at home, a celebration delayed, or a sense of not quite belonging. The foundation wants attention before the party can happen.",
+    "love": "In love, it is a card of happy milestones — moving in together, engagements, or simply a joyful, secure phase.",
+    "career": "In career, it marks a completed stage worth celebrating and a supportive, stable team environment."
+  },
+  {
+    "id": 26,
+    "name": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 5,
+    "element": "Fire",
+    "astrology": "Saturn in Leo",
+    "yes_no": "no",
+    "keywords_upright": [
+      "conflict",
+      "competition",
+      "friction",
+      "clashing egos",
+      "scattered effort"
+    ],
+    "keywords_reversed": [
+      "avoiding conflict",
+      "resolution",
+      "inner conflict",
+      "release of tension",
+      "picking battles"
+    ],
+    "meaning_upright": "The Five of Wands is friction: competing voices, clashing egos, and energy scattered in a scramble. The conflict is usually more noise than damage, but nothing advances until efforts align.",
+    "meaning_reversed": "Reversed, it shows conflict either being dodged or finally winding down. It can also point inward — competing desires fighting inside one person.",
+    "love": "In love, it signals bickering, rivalry, or outside interference creating unnecessary tension.",
+    "career": "In career, it points to competition and disagreement over direction — channel it into healthy rivalry, not chaos."
+  },
+  {
+    "id": 27,
+    "name": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 6,
+    "element": "Fire",
+    "astrology": "Jupiter in Leo",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "victory",
+      "recognition",
+      "success",
+      "confidence",
+      "public acclaim"
+    ],
+    "keywords_reversed": [
+      "private victory",
+      "fall from grace",
+      "self-doubt",
+      "lack of recognition",
+      "ego inflation"
+    ],
+    "meaning_upright": "The Six of Wands is the victory parade: success achieved and publicly recognized. It confirms that effort has paid off and confidence is warranted.",
+    "meaning_reversed": "Reversed, it suggests success unacknowledged, confidence wobbling, or acclaim that went to the head. The win may be real but the applause is missing — or hollow.",
+    "love": "In love, it signals pride in the relationship and mutual admiration, being 'seen' by a partner.",
+    "career": "In career, it points to recognition, promotion, or a win that raises your profile."
+  },
+  {
+    "id": 28,
+    "name": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 7,
+    "element": "Fire",
+    "astrology": "Mars in Leo",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "defense",
+      "standing your ground",
+      "perseverance",
+      "conviction",
+      "holding advantage"
+    ],
+    "keywords_reversed": [
+      "overwhelm",
+      "giving up ground",
+      "exhaustion",
+      "defensiveness",
+      "yielding"
+    ],
+    "meaning_upright": "The Seven of Wands is the defense of hard-won ground: challengers press from below, but the higher position holds. It calls for conviction and stamina — the position is defensible if it's defended.",
+    "meaning_reversed": "Reversed, it shows defenses wearing thin: overwhelm, exhaustion, or surrendering ground that could have been held. It may also warn against defensiveness where none is needed.",
+    "love": "In love, it can mean protecting the relationship from outside pressure, or defending personal boundaries within it.",
+    "career": "In career, it points to defending your position, ideas, or territory against competition — persistence wins."
+  },
+  {
+    "id": 29,
+    "name": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 8,
+    "element": "Fire",
+    "astrology": "Mercury in Sagittarius",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "swift movement",
+      "momentum",
+      "news arriving",
+      "alignment",
+      "rapid progress"
+    ],
+    "keywords_reversed": [
+      "delays",
+      "frustration",
+      "scattered energy",
+      "missed timing",
+      "slowdown"
+    ],
+    "meaning_upright": "The Eight of Wands is speed: events accelerating, messages arriving, and obstacles clearing all at once. It advises readiness — things long awaited now move quickly.",
+    "meaning_reversed": "Reversed, it marks delays and misfires: momentum stalling, messages crossed, timing off. Rushing against the slowdown makes it worse; re-aim before re-launching.",
+    "love": "In love, it signals fast-moving romance, important messages, or a relationship suddenly gaining momentum.",
+    "career": "In career, it points to rapid developments, quick decisions, and news that sets things in motion."
+  },
+  {
+    "id": 30,
+    "name": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 9,
+    "element": "Fire",
+    "astrology": "Moon in Sagittarius",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "resilience",
+      "last stand",
+      "persistence",
+      "guardedness",
+      "nearly there"
+    ],
+    "keywords_reversed": [
+      "burnout",
+      "paranoia",
+      "giving up at the end",
+      "rigid defenses",
+      "battle fatigue"
+    ],
+    "meaning_upright": "The Nine of Wands is the wounded sentry still standing: battered by past battles but not beaten, with the finish line close. It counsels one more push — resilience now completes what persistence started.",
+    "meaning_reversed": "Reversed, it shows defenses built from old wounds doing more harm than protection, or collapse just short of the goal. Rest and reinforcement, not surrender, are what's needed.",
+    "love": "In love, it points to guardedness from past hurt — the walls that protected once may now be keeping love out.",
+    "career": "In career, it signals fatigue near the end of a long effort; endurance through this last stretch pays off."
+  },
+  {
+    "id": 31,
+    "name": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 10,
+    "element": "Fire",
+    "astrology": "Saturn in Sagittarius",
+    "yes_no": "no",
+    "keywords_upright": [
+      "burden",
+      "overload",
+      "responsibility",
+      "carrying too much",
+      "final effort"
+    ],
+    "keywords_reversed": [
+      "release",
+      "delegation",
+      "putting burdens down",
+      "collapse",
+      "learning to say no"
+    ],
+    "meaning_upright": "The Ten of Wands is success turned heavy: every wand carried alone, vision blocked by the load itself. The task is nearly done, but the card asks what can be delegated or dropped.",
+    "meaning_reversed": "Reversed, it is the moment of setting burdens down — delegating, quitting what isn't yours to carry, or collapsing under a load ignored too long. Release is overdue.",
+    "love": "In love, it warns of one partner shouldering the relationship's weight alone — rebalancing is needed.",
+    "career": "In career, it signals overload and burnout risk; delegate and prioritize before the load drops you."
+  },
+  {
+    "id": 32,
+    "name": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 11,
+    "element": "Fire",
+    "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "enthusiasm",
+      "exploration",
+      "free spirit",
+      "exciting news",
+      "curiosity"
+    ],
+    "keywords_reversed": [
+      "scattered energy",
+      "hasty starts",
+      "boredom",
+      "unreliable news",
+      "restlessness"
+    ],
+    "meaning_upright": "The Page of Wands is the eager explorer: curious, spontaneous, and carrying news of exciting possibilities. It encourages a playful, experimental approach to a new passion.",
+    "meaning_reversed": "Reversed, the Page starts everything and finishes nothing — enthusiasm without follow-through, or news that disappoints. Direction, not more sparks, is what's missing.",
+    "love": "In love, it brings flirtation, playful energy, or an admirer with an adventurous spirit.",
+    "career": "In career, it signals a new idea or opportunity worth exploring with fresh eyes and low stakes."
+  },
+  {
+    "id": 33,
+    "name": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 12,
+    "element": "Fire",
+    "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "action",
+      "adventure",
+      "passion",
+      "bold pursuit",
+      "charisma"
+    ],
+    "keywords_reversed": [
+      "impulsiveness",
+      "recklessness",
+      "scattered passion",
+      "delays in action",
+      "hot temper"
+    ],
+    "meaning_upright": "The Knight of Wands charges in with passion and flair — a card of bold, energetic pursuit of what excites. It favors decisive action, though the follow-through matters as much as the charge.",
+    "meaning_reversed": "Reversed, the Knight is all gallop and no direction: impulsive moves, burned bridges, or passion that flames out. Slow the horse enough to aim it.",
+    "love": "In love, it brings intense, fast-burning attraction or a charismatic pursuer — thrilling, but test the staying power.",
+    "career": "In career, it signals bold moves and fast opportunities; act decisively but don't skip the details."
+  },
+  {
+    "id": 34,
+    "name": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 13,
+    "element": "Fire",
+    "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "confidence",
+      "warmth",
+      "determination",
+      "magnetism",
+      "independence"
+    ],
+    "keywords_reversed": [
+      "insecurity",
+      "jealousy",
+      "demanding nature",
+      "burnout",
+      "dimmed confidence"
+    ],
+    "meaning_upright": "The Queen of Wands is warm, confident, and magnetic — someone who owns a room without demanding it. She encourages leading with authenticity, courage, and generous fire.",
+    "meaning_reversed": "Reversed, the Queen's fire turns inward or sour: insecurity behind bravado, jealousy, or warmth depleted by overextension. Her confidence returns when she stops performing it.",
+    "love": "In love, she signals passionate, self-assured energy — attraction rooted in independence rather than need.",
+    "career": "In career, she embodies confident leadership and creative drive that inspires others."
+  },
+  {
+    "id": 35,
+    "name": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "number": 14,
+    "element": "Fire",
+    "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "visionary leadership",
+      "boldness",
+      "entrepreneurship",
+      "mastery of fire",
+      "inspiration"
+    ],
+    "keywords_reversed": [
+      "arrogance",
+      "tyranny",
+      "impulsive leadership",
+      "unfulfilled vision",
+      "domineering"
+    ],
+    "meaning_upright": "The King of Wands is the visionary leader: fire mastered and directed at long-range goals. He inspires others to build his vision and rewards boldness backed by experience.",
+    "meaning_reversed": "Reversed, the King becomes domineering or erratic — vision without patience, authority without listening. Leadership recovers when ego steps aside for the mission.",
+    "love": "In love, he represents a confident, protective partner with big plans — generous, though he must share the wheel.",
+    "career": "In career, he signals entrepreneurial vision and decisive leadership — think big and commit fully."
+  }
+]

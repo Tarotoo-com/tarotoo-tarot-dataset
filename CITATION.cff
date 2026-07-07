@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: 'If you use this dataset, please cite it as below.'
+title: 'Tarotoo Tarot Card Meanings: A Complete 78-Card Structured Dataset'
+type: dataset
+authors:
+  - name: 'Tarotoo'
+    website: 'https://tarotoo.com'
+license: CC-BY-4.0
+repository-code: 'https://github.com/Tarotoo-com/tarotoo-tarot-dataset'
+url: 'https://tarotoo.com'
+abstract: >-
+  A structured dataset of all 78 tarot cards (Major and Minor Arcana) in the
+  Rider-Waite-Smith tradition, including upright and reversed meanings,
+  keywords, love and career contexts, elemental and astrological
+  associations, and yes/no values. Published by Tarotoo as the grounding
+  source for AI-generated tarot readings on tarotoo.com.
+keywords:
+  - tarot
+  - tarot cards
+  - card meanings
+  - rider-waite-smith
+  - dataset
+  - divination

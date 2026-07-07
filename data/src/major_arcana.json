@@ -1,0 +1,606 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "arcana": "major",
+    "suit": null,
+    "number": 0,
+    "element": "Air",
+    "astrology": "Uranus",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "new beginnings",
+      "spontaneity",
+      "innocence",
+      "leap of faith",
+      "free spirit"
+    ],
+    "keywords_reversed": [
+      "recklessness",
+      "hesitation",
+      "naivety",
+      "poor judgment",
+      "fear of change"
+    ],
+    "meaning_upright": "The Fool signals a fresh start taken with an open heart, stepping into the unknown with trust rather than a detailed plan. It points to spontaneity, beginner's mind, and the willingness to risk looking foolish in order to grow.",
+    "meaning_reversed": "Reversed, The Fool suggests either a reckless leap taken without thought or a journey postponed out of fear. It points to hesitation, naivety about real risks, or holding back from a beginning that is ready to happen.",
+    "love": "In love, The Fool suggests a fresh romantic chapter, playful energy, and following the heart without guarantees.",
+    "career": "In career, it points to a new venture, role, or idea that rewards courage and an open mind over rigid planning."
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "arcana": "major",
+    "suit": null,
+    "number": 1,
+    "element": "Air",
+    "astrology": "Mercury",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "manifestation",
+      "willpower",
+      "resourcefulness",
+      "skill",
+      "focused action"
+    ],
+    "keywords_reversed": [
+      "manipulation",
+      "untapped talent",
+      "scattered energy",
+      "trickery",
+      "illusion"
+    ],
+    "meaning_upright": "The Magician shows that every tool needed is already on the table; it is a card of manifestation through focused will and skill. It suggests aligning intention, words, and action to turn an idea into reality.",
+    "meaning_reversed": "Reversed, The Magician warns of scattered focus, wasted talent, or someone using charm and cleverness to manipulate. It can point to promises that sound impressive but lack substance.",
+    "love": "In love, The Magician suggests attraction built on confidence and communication, and the power to actively create the relationship you want.",
+    "career": "In career, it signals skill meeting opportunity — a strong moment to pitch, launch, or negotiate."
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "arcana": "major",
+    "suit": null,
+    "number": 2,
+    "element": "Water",
+    "astrology": "Moon",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "intuition",
+      "inner wisdom",
+      "mystery",
+      "the subconscious",
+      "stillness"
+    ],
+    "keywords_reversed": [
+      "ignored intuition",
+      "secrets",
+      "disconnection from self",
+      "hidden agendas",
+      "surface knowledge"
+    ],
+    "meaning_upright": "The High Priestess asks for stillness and listening; the answer is already known at an intuitive level even if it cannot yet be explained. She represents hidden knowledge, the subconscious, and truths that reveal themselves in their own time.",
+    "meaning_reversed": "Reversed, she suggests intuition being drowned out by noise, other people's opinions, or a refusal to look inward. Secrets may be at play, or an inner knowing is being ignored because it is inconvenient.",
+    "love": "In love, The High Priestess points to unspoken feelings and undercurrents — trust what is sensed rather than only what is said.",
+    "career": "In career, it advises watching and listening before acting; information is still hidden and patience reveals it."
+  },
+  {
+    "id": 3,
+    "name": "The Empress",
+    "arcana": "major",
+    "suit": null,
+    "number": 3,
+    "element": "Earth",
+    "astrology": "Venus",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "abundance",
+      "nurturing",
+      "fertility",
+      "creativity",
+      "sensuality"
+    ],
+    "keywords_reversed": [
+      "creative block",
+      "smothering",
+      "self-neglect",
+      "dependence",
+      "stagnation"
+    ],
+    "meaning_upright": "The Empress embodies abundance, nurture, and creative fertility — things growing because they are cared for. She encourages receiving pleasure, tending relationships and projects patiently, and trusting natural growth.",
+    "meaning_reversed": "Reversed, The Empress points to creative block, self-neglect, or care that has tipped into smothering or dependence. Growth stalls because the ground itself — body, home, heart — is being ignored.",
+    "love": "In love, The Empress is one of the warmest cards, indicating deepening affection, nurturing partnership, and sensual connection.",
+    "career": "In career, it favors creative projects and steady cultivation — what is tended now will bear fruit."
+  },
+  {
+    "id": 4,
+    "name": "The Emperor",
+    "arcana": "major",
+    "suit": null,
+    "number": 4,
+    "element": "Fire",
+    "astrology": "Aries",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "structure",
+      "authority",
+      "stability",
+      "leadership",
+      "discipline"
+    ],
+    "keywords_reversed": [
+      "rigidity",
+      "control issues",
+      "domination",
+      "lack of discipline",
+      "abuse of power"
+    ],
+    "meaning_upright": "The Emperor stands for structure, boundaries, and earned authority — building something stable through discipline and clear rules. He suggests taking charge, acting decisively, and protecting what has been built.",
+    "meaning_reversed": "Reversed, The Emperor warns of control hardening into rigidity or domination, or conversely a lack of structure that lets things drift. Power struggles and inflexibility may be blocking progress.",
+    "love": "In love, The Emperor points to a stabilizing, protective presence, though it cautions against controlling behavior replacing warmth.",
+    "career": "In career, it signals leadership, order, and long-term building — take responsibility and set the framework."
+  },
+  {
+    "id": 5,
+    "name": "The Hierophant",
+    "arcana": "major",
+    "suit": null,
+    "number": 5,
+    "element": "Earth",
+    "astrology": "Taurus",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "tradition",
+      "guidance",
+      "shared values",
+      "institutions",
+      "mentorship"
+    ],
+    "keywords_reversed": [
+      "rebellion",
+      "questioning convention",
+      "restriction",
+      "dogma",
+      "breaking rules"
+    ],
+    "meaning_upright": "The Hierophant represents tradition, teachers, and the wisdom of established paths — learning from those who walked the road before. It suggests seeking guidance, honoring commitments, and finding meaning in shared values or ritual.",
+    "meaning_reversed": "Reversed, The Hierophant points to chafing against convention — rules, institutions, or expectations that no longer fit. It can signal the need to think for oneself, or a warning against dogma on either side.",
+    "love": "In love, The Hierophant often relates to commitment and shared values, sometimes literally marriage or formalizing a bond.",
+    "career": "In career, it favors established institutions, mentorship, and proven methods over improvisation."
+  },
+  {
+    "id": 6,
+    "name": "The Lovers",
+    "arcana": "major",
+    "suit": null,
+    "number": 6,
+    "element": "Air",
+    "astrology": "Gemini",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "love",
+      "union",
+      "alignment",
+      "meaningful choice",
+      "harmony"
+    ],
+    "keywords_reversed": [
+      "disharmony",
+      "misalignment",
+      "avoidance of choice",
+      "temptation",
+      "imbalance"
+    ],
+    "meaning_upright": "The Lovers speaks of deep connection and alignment of hearts and values, and also of a significant choice made consciously. It asks that the decision reflect who you truly are, not merely what is convenient.",
+    "meaning_reversed": "Reversed, The Lovers points to disharmony, mismatched values, or a choice being avoided. Something is out of alignment between what is felt, what is said, and what is done.",
+    "love": "In love, this is the card of genuine union, mutual attraction, and a relationship built on real compatibility.",
+    "career": "In career, it points to a values-based crossroads or a partnership that must be chosen deliberately."
+  },
+  {
+    "id": 7,
+    "name": "The Chariot",
+    "arcana": "major",
+    "suit": null,
+    "number": 7,
+    "element": "Water",
+    "astrology": "Cancer",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "determination",
+      "victory",
+      "willpower",
+      "self-control",
+      "momentum"
+    ],
+    "keywords_reversed": [
+      "lack of direction",
+      "aggression",
+      "obstacles",
+      "scattered forces",
+      "loss of control"
+    ],
+    "meaning_upright": "The Chariot is a card of victory through will — holding opposing forces together and driving them in one chosen direction. It signals momentum, discipline, and success for those who keep their hands firmly on the reins.",
+    "meaning_reversed": "Reversed, The Chariot suggests energy pulling in conflicting directions, forcing an outcome, or momentum stalling. The path forward needs steering, not more speed.",
+    "love": "In love, The Chariot suggests pursuing the relationship with intention and overcoming distance or obstacles together.",
+    "career": "In career, it signals ambition rewarded — drive, focus, and control carry a project across the line."
+  },
+  {
+    "id": 8,
+    "name": "Strength",
+    "arcana": "major",
+    "suit": null,
+    "number": 8,
+    "element": "Fire",
+    "astrology": "Leo",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "courage",
+      "inner strength",
+      "patience",
+      "compassion",
+      "gentle power"
+    ],
+    "keywords_reversed": [
+      "self-doubt",
+      "raw emotion",
+      "impatience",
+      "insecurity",
+      "forcing"
+    ],
+    "meaning_upright": "Strength shows power expressed as patience and compassion — taming the lion with a steady hand rather than a whip. It points to quiet courage, resilience, and mastering impulses instead of being ruled by them.",
+    "meaning_reversed": "Reversed, Strength reveals self-doubt, depleted courage, or emotions running the show. It asks for self-compassion first; the inner lion is frightened, not gone.",
+    "love": "In love, Strength speaks of patience, emotional honesty, and a bond that grows through gentleness rather than pressure.",
+    "career": "In career, it favors persistence and calm confidence over aggressive tactics — influence beats force."
+  },
+  {
+    "id": 9,
+    "name": "The Hermit",
+    "arcana": "major",
+    "suit": null,
+    "number": 9,
+    "element": "Earth",
+    "astrology": "Virgo",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "introspection",
+      "solitude",
+      "inner guidance",
+      "wisdom",
+      "searching"
+    ],
+    "keywords_reversed": [
+      "isolation",
+      "loneliness",
+      "withdrawal",
+      "lost direction",
+      "avoidance"
+    ],
+    "meaning_upright": "The Hermit withdraws from noise to find the answer by his own lamp — a card of introspection, soul-searching, and hard-won wisdom. It suggests the next step becomes clear in solitude, not in the crowd.",
+    "meaning_reversed": "Reversed, The Hermit warns that healthy solitude has slipped into isolation, or that reflection is being used to avoid life. It can also mean refusing guidance that is genuinely needed.",
+    "love": "In love, The Hermit often signals a period of reflection about what one truly needs, or a partner who requires space.",
+    "career": "In career, it favors research, deep work, and stepping back to reassess the path before advancing."
+  },
+  {
+    "id": 10,
+    "name": "Wheel of Fortune",
+    "arcana": "major",
+    "suit": null,
+    "number": 10,
+    "element": "Fire",
+    "astrology": "Jupiter",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "change",
+      "cycles",
+      "destiny",
+      "turning point",
+      "luck"
+    ],
+    "keywords_reversed": [
+      "resistance to change",
+      "bad luck",
+      "repeating cycles",
+      "setbacks",
+      "clinging"
+    ],
+    "meaning_upright": "The Wheel of Fortune marks a turning point: circumstances are shifting, often through forces beyond personal control. It counsels riding the change with flexibility, since what rises and falls is part of a larger cycle.",
+    "meaning_reversed": "Reversed, the Wheel points to resisting a change that is happening anyway, or a cycle repeating because its lesson has not been learned. Delays and reversals ease once the pattern is acknowledged.",
+    "love": "In love, the Wheel signals a destined shift — chance meetings, changing dynamics, or a relationship entering a new phase.",
+    "career": "In career, it points to changing circumstances and timely opportunities; stay adaptable and catch the upswing."
+  },
+  {
+    "id": 11,
+    "name": "Justice",
+    "arcana": "major",
+    "suit": null,
+    "number": 11,
+    "element": "Air",
+    "astrology": "Libra",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "fairness",
+      "truth",
+      "accountability",
+      "cause and effect",
+      "clarity"
+    ],
+    "keywords_reversed": [
+      "unfairness",
+      "dishonesty",
+      "avoiding accountability",
+      "bias",
+      "imbalance"
+    ],
+    "meaning_upright": "Justice deals in truth, fairness, and consequence: decisions and actions are being weighed, and outcomes will match what was earned. It calls for honesty, balanced judgment, and taking responsibility for one's part.",
+    "meaning_reversed": "Reversed, Justice points to unfairness, self-deception, or dodging accountability. Something is out of balance, and restoring it requires facing an uncomfortable truth.",
+    "love": "In love, Justice asks for honesty and equal give-and-take; imbalances in effort or truth come due.",
+    "career": "In career, it relates to contracts, negotiations, and fair dealing — integrity now determines the outcome."
+  },
+  {
+    "id": 12,
+    "name": "The Hanged Man",
+    "arcana": "major",
+    "suit": null,
+    "number": 12,
+    "element": "Water",
+    "astrology": "Neptune",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "surrender",
+      "new perspective",
+      "pause",
+      "letting go",
+      "suspension"
+    ],
+    "keywords_reversed": [
+      "stalling",
+      "resistance",
+      "martyrdom",
+      "indecision",
+      "wasted sacrifice"
+    ],
+    "meaning_upright": "The Hanged Man asks for willing pause and a change of perspective — progress right now comes from surrender, not pushing. Seen upside down, the problem often reveals a solution effort could never force.",
+    "meaning_reversed": "Reversed, The Hanged Man shows a pause that has become stalling, or sacrifice without purpose. It suggests resisting a needed letting-go, or playing the martyr instead of making a decision.",
+    "love": "In love, The Hanged Man counsels patience and seeing the other person's viewpoint before acting.",
+    "career": "In career, it suggests putting a plan on hold and re-examining assumptions — the delay itself is informative."
+  },
+  {
+    "id": 13,
+    "name": "Death",
+    "arcana": "major",
+    "suit": null,
+    "number": 13,
+    "element": "Water",
+    "astrology": "Scorpio",
+    "yes_no": "no",
+    "keywords_upright": [
+      "endings",
+      "transformation",
+      "transition",
+      "release",
+      "renewal"
+    ],
+    "keywords_reversed": [
+      "resistance to endings",
+      "stagnation",
+      "fear of change",
+      "holding on",
+      "incomplete closure"
+    ],
+    "meaning_upright": "Death marks a definitive ending that clears space for transformation — a chapter closing so a truer one can begin. It rarely concerns literal death; it is the card of necessary release and renewal.",
+    "meaning_reversed": "Reversed, Death shows an ending being resisted: clinging to what is already over and prolonging the discomfort of transition. Stagnation persists until the release is allowed.",
+    "love": "In love, Death signals the end of a dynamic or relationship phase, making room for a more honest connection.",
+    "career": "In career, it points to closing a role, project, or identity — transformation follows the letting-go."
+  },
+  {
+    "id": 14,
+    "name": "Temperance",
+    "arcana": "major",
+    "suit": null,
+    "number": 14,
+    "element": "Fire",
+    "astrology": "Sagittarius",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "balance",
+      "moderation",
+      "patience",
+      "blending",
+      "healing"
+    ],
+    "keywords_reversed": [
+      "excess",
+      "imbalance",
+      "impatience",
+      "friction",
+      "overcorrection"
+    ],
+    "meaning_upright": "Temperance blends opposites into harmony — a card of moderation, patience, and finding the middle path. It suggests healing through steady adjustment rather than dramatic moves.",
+    "meaning_reversed": "Reversed, Temperance reveals excess or imbalance: too much of one thing, too little of another, and friction as a result. It calls for recalibration before the imbalance causes real damage.",
+    "love": "In love, Temperance indicates growing harmony, patience with differences, and a relationship finding its natural rhythm.",
+    "career": "In career, it favors steady progress, collaboration, and balancing competing demands without burning out."
+  },
+  {
+    "id": 15,
+    "name": "The Devil",
+    "arcana": "major",
+    "suit": null,
+    "number": 15,
+    "element": "Earth",
+    "astrology": "Capricorn",
+    "yes_no": "no",
+    "keywords_upright": [
+      "attachment",
+      "temptation",
+      "unhealthy patterns",
+      "materialism",
+      "feeling trapped"
+    ],
+    "keywords_reversed": [
+      "breaking free",
+      "reclaiming power",
+      "awareness",
+      "release",
+      "recovery"
+    ],
+    "meaning_upright": "The Devil exposes chains that are worn voluntarily — addictions, obsessions, toxic dynamics, or fears that keep one bound. It asks an honest look at what feels impossible to leave but is actually a choice.",
+    "meaning_reversed": "Reversed, The Devil is the moment of breaking free: seeing the pattern clearly and reclaiming power from it. Old attachments loosen once they are named.",
+    "love": "In love, The Devil can indicate intense attraction shadowed by possessiveness, dependency, or patterns that diminish both people.",
+    "career": "In career, it warns of golden handcuffs, burnout loops, or compromising values for material security."
+  },
+  {
+    "id": 16,
+    "name": "The Tower",
+    "arcana": "major",
+    "suit": null,
+    "number": 16,
+    "element": "Fire",
+    "astrology": "Mars",
+    "yes_no": "no",
+    "keywords_upright": [
+      "sudden upheaval",
+      "revelation",
+      "collapse of the false",
+      "disruption",
+      "awakening"
+    ],
+    "keywords_reversed": [
+      "averted disaster",
+      "fear of change",
+      "delayed collapse",
+      "resisting the inevitable",
+      "internal upheaval"
+    ],
+    "meaning_upright": "The Tower is sudden upheaval that demolishes what was built on shaky ground — shocking, but ultimately clarifying. What falls was not stable; the lightning also illuminates.",
+    "meaning_reversed": "Reversed, The Tower suggests upheaval resisted, delayed, or happening internally — a quiet crisis of belief rather than an outer collapse. Propping up the unstable only postpones the rebuild.",
+    "love": "In love, The Tower points to a sudden revelation or shake-up that changes the relationship's foundation and demands honesty.",
+    "career": "In career, it signals abrupt disruption — restructures, failures, or truths surfacing — that clears the way for something sounder."
+  },
+  {
+    "id": 17,
+    "name": "The Star",
+    "arcana": "major",
+    "suit": null,
+    "number": 17,
+    "element": "Air",
+    "astrology": "Aquarius",
+    "yes_no": "yes",
+    "keywords_upright": ["hope", "renewal", "healing", "inspiration", "faith"],
+    "keywords_reversed": [
+      "discouragement",
+      "lost faith",
+      "disconnection",
+      "self-doubt",
+      "dimmed hope"
+    ],
+    "meaning_upright": "The Star is the calm after the storm — hope, healing, and quiet faith that the path ahead is good. It encourages openness, authenticity, and trusting that renewal is already underway.",
+    "meaning_reversed": "Reversed, The Star shows hope running low and inspiration feeling out of reach. The light has not gone out; reconnecting to what genuinely nourishes will reveal it again.",
+    "love": "In love, The Star brings healing after difficulty and renewed faith in connection — a gentle, promising sign.",
+    "career": "In career, it signals renewed purpose and long-term promise; keep faith in the direction even if progress is quiet."
+  },
+  {
+    "id": 18,
+    "name": "The Moon",
+    "arcana": "major",
+    "suit": null,
+    "number": 18,
+    "element": "Water",
+    "astrology": "Pisces",
+    "yes_no": "maybe",
+    "keywords_upright": [
+      "illusion",
+      "intuition",
+      "uncertainty",
+      "the subconscious",
+      "dreams"
+    ],
+    "keywords_reversed": [
+      "clarity emerging",
+      "released fear",
+      "truth surfacing",
+      "confusion lifting",
+      "self-deception ending"
+    ],
+    "meaning_upright": "The Moon casts a landscape of shadows where fear and imagination distort what is real — things are not as they appear. It counsels moving slowly, trusting intuition over anxiety, and waiting for daylight before final judgments.",
+    "meaning_reversed": "Reversed, The Moon marks confusion beginning to lift: secrets surface, fears shrink to their true size, and the road becomes visible again. Clarity is returning after a disorienting stretch.",
+    "love": "In love, The Moon points to uncertainty, mixed signals, or projections — feelings are real but the picture is incomplete.",
+    "career": "In career, it warns of unclear information or hidden factors; verify facts before committing."
+  },
+  {
+    "id": 19,
+    "name": "The Sun",
+    "arcana": "major",
+    "suit": null,
+    "number": 19,
+    "element": "Fire",
+    "astrology": "Sun",
+    "yes_no": "yes",
+    "keywords_upright": ["joy", "success", "vitality", "clarity", "confidence"],
+    "keywords_reversed": [
+      "dimmed joy",
+      "temporary setbacks",
+      "pessimism",
+      "burnout",
+      "delayed success"
+    ],
+    "meaning_upright": "The Sun is the deck's most unambiguously positive card: warmth, vitality, success, and truth in full daylight. It signals things genuinely going well and invites wholehearted enjoyment of it.",
+    "meaning_reversed": "Reversed, The Sun does not turn dark — it dims: joy muted by pessimism, fatigue, or clouds of doubt over real success. The good is still there; perspective needs cleaning, not the circumstances.",
+    "love": "In love, The Sun radiates happiness, openness, and celebration — a relationship thriving in honest light.",
+    "career": "In career, it signals visible success, recognition, and energy — momentum is real and deserved."
+  },
+  {
+    "id": 20,
+    "name": "Judgement",
+    "arcana": "major",
+    "suit": null,
+    "number": 20,
+    "element": "Fire",
+    "astrology": "Pluto",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "awakening",
+      "reckoning",
+      "renewal",
+      "calling",
+      "self-evaluation"
+    ],
+    "keywords_reversed": [
+      "self-criticism",
+      "ignoring the call",
+      "stuck in the past",
+      "harsh judgment",
+      "avoidance"
+    ],
+    "meaning_upright": "Judgement is the wake-up call: an honest reckoning with the past that frees one to rise into a new phase. It often marks a moment of clarity about purpose — a summons that should be answered.",
+    "meaning_reversed": "Reversed, Judgement shows the call being ignored, or self-judgment so harsh it prevents moving forward. The past is reviewed on a loop instead of being released.",
+    "love": "In love, Judgement brings honest evaluation of the relationship's history and a chance at genuine renewal or closure.",
+    "career": "In career, it signals a career reckoning or calling — an invitation to step into work that actually matters to you."
+  },
+  {
+    "id": 21,
+    "name": "The World",
+    "arcana": "major",
+    "suit": null,
+    "number": 21,
+    "element": "Earth",
+    "astrology": "Saturn",
+    "yes_no": "yes",
+    "keywords_upright": [
+      "completion",
+      "fulfillment",
+      "wholeness",
+      "achievement",
+      "integration"
+    ],
+    "keywords_reversed": [
+      "incompletion",
+      "loose ends",
+      "delayed closure",
+      "shortcuts",
+      "unfinished business"
+    ],
+    "meaning_upright": "The World is completion: a long cycle fulfilled, lessons integrated, and a well-earned sense of wholeness. It celebrates achievement and signals readiness for the next, larger cycle.",
+    "meaning_reversed": "Reversed, The World points to a goal almost reached but not closed — loose ends, missing steps, or closure being postponed. Finish the last mile; the reward waits there.",
+    "love": "In love, The World signifies a relationship reaching fulfillment and harmony, or closure that finally allows a new beginning.",
+    "career": "In career, it marks the successful completion of a major goal and often expansion — travel, recognition, or a bigger stage."
+  }
+]
