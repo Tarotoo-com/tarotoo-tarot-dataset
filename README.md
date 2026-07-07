@@ -11,6 +11,9 @@ A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 M
 | `data/cards.csv`   | Flat CSV mirror                                        |
 | `data/src/`        | Per-suit source files (edit these, then run the build) |
 | `scripts/build.py` | Merges, validates, and regenerates the artifacts       |
+| `packages/npm/`    | `tarotoo-tarot` npm package (data + lookup helpers)    |
+| `packages/python/` | `tarotoo-tarot` PyPI package (data + lookup helpers)   |
+| `huggingface/`     | Dataset card for the Hugging Face mirror               |
 
 ## Schema
 

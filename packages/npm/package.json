@@ -1,0 +1,35 @@
+{
+  "name": "tarotoo-tarot",
+  "version": "1.0.0",
+  "description": "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers — the open Tarotoo dataset",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./cards.json": "./data/cards.json"
+  },
+  "files": [
+    "index.js",
+    "data/cards.json"
+  ],
+  "keywords": [
+    "tarot",
+    "tarot-cards",
+    "card-meanings",
+    "rider-waite-smith",
+    "dataset",
+    "divination",
+    "tarotoo"
+  ],
+  "author": "Tarotoo (https://tarotoo.com)",
+  "license": "CC-BY-4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarotoo-com/tarotoo-tarot-dataset.git",
+    "directory": "packages/npm"
+  },
+  "homepage": "https://tarotoo.com",
+  "engines": {
+    "node": ">=18"
+  }
+}

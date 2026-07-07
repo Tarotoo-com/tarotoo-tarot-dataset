@@ -5,12 +5,14 @@ Outputs:
     data/cards.json   - canonical full dataset (array of 78 card objects)
     data/cards.csv    - flat CSV mirror (keywords joined with "; ")
     data/cards.jsonl  - one card per line, for Hugging Face
+    plus synced copies of cards.json into packages/npm and packages/python
 
 Run: python3 scripts/build.py
 """
 
 import csv
 import json
+import shutil
 import sys
 from pathlib import Path
 
@@ -114,7 +116,15 @@ def main():
             row["keywords_reversed"] = "; ".join(card["keywords_reversed"])
             writer.writerow(row)
 
-    print(f"OK: {len(cards)} cards -> {json_path.name}, {jsonl_path.name}, {csv_path.name}")
+    package_copies = [
+        ROOT / "packages" / "npm" / "data" / "cards.json",
+        ROOT / "packages" / "python" / "src" / "tarotoo_tarot" / "cards.json",
+    ]
+    for dest in package_copies:
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(json_path, dest)
+
+    print(f"OK: {len(cards)} cards -> {json_path.name}, {jsonl_path.name}, {csv_path.name} (+ {len(package_copies)} package copies)")
 
 
 if __name__ == "__main__":

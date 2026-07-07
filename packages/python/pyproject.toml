@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tarotoo-tarot"
+version = "1.0.0"
+description = "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers - the open Tarotoo dataset"
+readme = "README.md"
+license = "CC-BY-4.0"
+requires-python = ">=3.9"
+authors = [{ name = "Tarotoo" }]
+keywords = ["tarot", "tarot-cards", "card-meanings", "rider-waite-smith", "dataset", "divination"]
+classifiers = [
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Topic :: Games/Entertainment",
+]
+
+[project.urls]
+Homepage = "https://tarotoo.com"
+Repository = "https://github.com/Tarotoo-com/tarotoo-tarot-dataset"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/tarotoo_tarot"]
