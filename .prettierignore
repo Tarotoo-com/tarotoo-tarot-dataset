@@ -1,0 +1,6 @@
+data/cards.json
+data/cards.jsonl
+data/cards.csv
+packages/npm/data/
+packages/python/src/tarotoo_tarot/cards.json
+packages/python/dist/

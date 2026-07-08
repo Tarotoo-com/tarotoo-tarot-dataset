@@ -1,0 +1,44 @@
+name: Validate dataset
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build and validate (78 cards, schema, enums)
+        run: python3 scripts/build.py
+      - name: Check generated artifacts are in sync with sources
+        run: git diff --exit-code
+      - name: Test python package
+        run: |
+          cd packages/python
+          PYTHONPATH=src python3 -c "
+          from tarotoo_tarot import cards, get_card, list_cards, search_cards, yes_no
+          assert len(cards) == 78
+          assert get_card('fool')['name'] == 'The Fool'
+          assert len(list_cards(suit='cups')) == 14
+          assert search_cards('heartbreak', 3)[0]['name'] == 'Three of Swords'
+          assert yes_no('The Sun') == 'yes'
+          print('python package OK')"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Test npm package
+        run: |
+          cd packages/npm
+          node --input-type=module -e "
+          import { cards, getCard, listCards, searchCards, yesNo } from './index.js';
+          if (cards.length !== 78) throw new Error('cards');
+          if (getCard('fool').name !== 'The Fool') throw new Error('getCard');
+          if (listCards({suit:'cups'}).length !== 14) throw new Error('listCards');
+          if (searchCards('heartbreak', 3)[0].name !== 'Three of Swords') throw new Error('search');
+          if (yesNo('The Sun') !== 'yes') throw new Error('yesNo');
+          console.log('npm package OK');"
