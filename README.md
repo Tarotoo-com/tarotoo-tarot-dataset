@@ -1,5 +1,7 @@
 # Tarotoo Tarot Card Meanings Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21268290.svg)](https://doi.org/10.5281/zenodo.21268290)
+
 A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana), based on the classic Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com) as part of its AI transparency initiative: these are the card meanings that ground the AI-generated readings on Tarotoo.com.
 
 ## Contents
@@ -68,7 +70,9 @@ Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You ar
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff). A DOI via Zenodo is issued for each tagged release.
+> Tarotoo (2026). *Tarotoo Tarot Card Meanings: A Complete 78-Card Structured Dataset* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21268291
+
+Concept DOI (always resolves to the latest version): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290). See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
 
 ## For entertainment and self-reflection purposes
 
