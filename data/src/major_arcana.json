@@ -8,7 +8,6 @@
     "element": "Air",
     "planet": "Uranus",
     "zodiac": null,
-    "primary_color": "yellow",
     "yes_no": "maybe",
     "keywords_upright": [
       "new beginnings",
@@ -41,7 +40,6 @@
     "element": "Air",
     "planet": "Mercury",
     "zodiac": null,
-    "primary_color": "red",
     "yes_no": "yes",
     "keywords_upright": [
       "manifestation",
@@ -74,7 +72,6 @@
     "element": "Water",
     "planet": "Moon",
     "zodiac": null,
-    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "intuition",
@@ -107,7 +104,6 @@
     "element": "Earth",
     "planet": "Venus",
     "zodiac": null,
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "abundance",
@@ -140,7 +136,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Aries",
-    "primary_color": "red",
     "yes_no": "yes",
     "keywords_upright": [
       "structure",
@@ -173,7 +168,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Taurus",
-    "primary_color": "red",
     "yes_no": "maybe",
     "keywords_upright": [
       "tradition",
@@ -206,7 +200,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Gemini",
-    "primary_color": "yellow",
     "yes_no": "yes",
     "keywords_upright": [
       "love",
@@ -239,7 +232,6 @@
     "element": "Water",
     "planet": null,
     "zodiac": "Cancer",
-    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "determination",
@@ -272,7 +264,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Leo",
-    "primary_color": "yellow",
     "yes_no": "yes",
     "keywords_upright": [
       "courage",
@@ -305,7 +296,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Virgo",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "introspection",
@@ -338,7 +328,6 @@
     "element": "Fire",
     "planet": "Jupiter",
     "zodiac": null,
-    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "change",
@@ -371,7 +360,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Libra",
-    "primary_color": "red",
     "yes_no": "maybe",
     "keywords_upright": [
       "fairness",
@@ -404,7 +392,6 @@
     "element": "Water",
     "planet": "Neptune",
     "zodiac": null,
-    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "surrender",
@@ -437,7 +424,6 @@
     "element": "Water",
     "planet": null,
     "zodiac": "Scorpio",
-    "primary_color": "black",
     "yes_no": "no",
     "keywords_upright": [
       "endings",
@@ -470,7 +456,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Sagittarius",
-    "primary_color": "white",
     "yes_no": "yes",
     "keywords_upright": [
       "balance",
@@ -503,7 +488,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Capricorn",
-    "primary_color": "black",
     "yes_no": "no",
     "keywords_upright": [
       "attachment",
@@ -536,7 +520,6 @@
     "element": "Fire",
     "planet": "Mars",
     "zodiac": null,
-    "primary_color": "black",
     "yes_no": "no",
     "keywords_upright": [
       "sudden upheaval",
@@ -569,7 +552,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Aquarius",
-    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "hope",
@@ -602,7 +584,6 @@
     "element": "Water",
     "planet": null,
     "zodiac": "Pisces",
-    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "illusion",
@@ -635,7 +616,6 @@
     "element": "Fire",
     "planet": "Sun",
     "zodiac": null,
-    "primary_color": "yellow",
     "yes_no": "yes",
     "keywords_upright": [
       "joy",
@@ -668,7 +648,6 @@
     "element": "Fire",
     "planet": "Pluto",
     "zodiac": null,
-    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "awakening",
@@ -701,7 +680,6 @@
     "element": "Earth",
     "planet": "Saturn",
     "zodiac": null,
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "completion",

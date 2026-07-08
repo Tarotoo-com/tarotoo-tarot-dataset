@@ -25,7 +25,7 @@ Or import the raw data directly:
 import cards from "tarotoo-tarot/cards.json" with { type: "json" };
 ```
 
-Each card has: `id`, `name`, `arcana`, `suit`, `number_numerology`, `element`, `planet`, `zodiac`, `primary_color`, `yes_no`, `keywords_upright`, `keywords_reversed`, `meaning_upright`, `meaning_reversed`, `love`, `career`, `mood`, `spiritual`, `url`.
+Each card has: `id`, `name`, `arcana`, `suit`, `number_numerology`, `element`, `planet`, `zodiac`, `yes_no`, `keywords_upright`, `keywords_reversed`, `meaning_upright`, `meaning_reversed`, `love`, `career`, `mood`, `spiritual`, `url`.
 
 ## Related
 

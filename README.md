@@ -31,7 +31,6 @@ Each card record has the following fields:
 | `element`           | string       | Classical element association                                                    |
 | `planet`            | string/null  | Planetary association (Golden Dawn; decan planet for pips)                       |
 | `zodiac`            | string/null  | Zodiac association (sign, decan sign, or element's signs for courts)             |
-| `primary_color`     | string       | Dominant color (RWS artwork for Majors; elemental color for suits)               |
 | `yes_no`            | string       | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings                              |
 | `keywords_upright`  | string[]     | 4–5 upright keywords                                                             |
 | `keywords_reversed` | string[]     | 4–5 reversed keywords                                                            |

@@ -40,7 +40,6 @@ One record per card with the following fields:
 | `element` | string | Classical element association |
 | `planet` | string/null | Planetary association (Golden Dawn; decan planet for pips) |
 | `zodiac` | string/null | Zodiac association (sign, decan sign, or element's signs for courts) |
-| `primary_color` | string | Dominant color (RWS artwork / elemental) |
 | `yes_no` | string | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings |
 | `keywords_upright` | list[string] | Upright keywords |
 | `keywords_reversed` | list[string] | Reversed keywords |

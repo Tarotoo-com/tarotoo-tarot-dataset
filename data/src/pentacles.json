@@ -8,7 +8,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": null,
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "new opportunity",
@@ -41,7 +40,6 @@
     "element": "Earth",
     "planet": "Jupiter",
     "zodiac": "Capricorn",
-    "primary_color": "green",
     "yes_no": "maybe",
     "keywords_upright": [
       "juggling priorities",
@@ -74,7 +72,6 @@
     "element": "Earth",
     "planet": "Mars",
     "zodiac": "Capricorn",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "teamwork",
@@ -107,7 +104,6 @@
     "element": "Earth",
     "planet": "Sun",
     "zodiac": "Capricorn",
-    "primary_color": "green",
     "yes_no": "maybe",
     "keywords_upright": [
       "security",
@@ -140,7 +136,6 @@
     "element": "Earth",
     "planet": "Mercury",
     "zodiac": "Taurus",
-    "primary_color": "green",
     "yes_no": "no",
     "keywords_upright": [
       "hardship",
@@ -173,7 +168,6 @@
     "element": "Earth",
     "planet": "Moon",
     "zodiac": "Taurus",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "generosity",
@@ -206,7 +200,6 @@
     "element": "Earth",
     "planet": "Saturn",
     "zodiac": "Taurus",
-    "primary_color": "green",
     "yes_no": "maybe",
     "keywords_upright": [
       "patience",
@@ -239,7 +232,6 @@
     "element": "Earth",
     "planet": "Sun",
     "zodiac": "Virgo",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "diligence",
@@ -272,7 +264,6 @@
     "element": "Earth",
     "planet": "Venus",
     "zodiac": "Virgo",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "self-sufficiency",
@@ -305,7 +296,6 @@
     "element": "Earth",
     "planet": "Mercury",
     "zodiac": "Virgo",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "legacy",
@@ -338,7 +328,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Taurus, Virgo, Capricorn",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "studiousness",
@@ -371,7 +360,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Taurus, Virgo, Capricorn",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "reliability",
@@ -404,7 +392,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Taurus, Virgo, Capricorn",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "nurturing practicality",
@@ -437,7 +424,6 @@
     "element": "Earth",
     "planet": null,
     "zodiac": "Taurus, Virgo, Capricorn",
-    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "material mastery",

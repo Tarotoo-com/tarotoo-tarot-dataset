@@ -8,7 +8,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": null,
-    "primary_color": "gray",
     "yes_no": "yes",
     "keywords_upright": [
       "clarity",
@@ -41,7 +40,6 @@
     "element": "Air",
     "planet": "Moon",
     "zodiac": "Libra",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "stalemate",
@@ -74,7 +72,6 @@
     "element": "Air",
     "planet": "Saturn",
     "zodiac": "Libra",
-    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "heartbreak",
@@ -107,7 +104,6 @@
     "element": "Air",
     "planet": "Jupiter",
     "zodiac": "Libra",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "rest",
@@ -140,7 +136,6 @@
     "element": "Air",
     "planet": "Venus",
     "zodiac": "Aquarius",
-    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "hollow victory",
@@ -173,7 +168,6 @@
     "element": "Air",
     "planet": "Mercury",
     "zodiac": "Aquarius",
-    "primary_color": "gray",
     "yes_no": "yes",
     "keywords_upright": [
       "transition",
@@ -206,7 +200,6 @@
     "element": "Air",
     "planet": "Moon",
     "zodiac": "Aquarius",
-    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "deception",
@@ -239,7 +232,6 @@
     "element": "Air",
     "planet": "Jupiter",
     "zodiac": "Gemini",
-    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "feeling trapped",
@@ -272,7 +264,6 @@
     "element": "Air",
     "planet": "Mars",
     "zodiac": "Gemini",
-    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "anxiety",
@@ -305,7 +296,6 @@
     "element": "Air",
     "planet": "Sun",
     "zodiac": "Gemini",
-    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "painful ending",
@@ -338,7 +328,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Gemini, Libra, Aquarius",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "curiosity",
@@ -371,7 +360,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Gemini, Libra, Aquarius",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "decisive action",
@@ -404,7 +392,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Gemini, Libra, Aquarius",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "clear judgment",
@@ -437,7 +424,6 @@
     "element": "Air",
     "planet": null,
     "zodiac": "Gemini, Libra, Aquarius",
-    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "intellectual authority",

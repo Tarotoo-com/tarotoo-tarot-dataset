@@ -8,7 +8,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": null,
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "inspiration",
@@ -41,7 +40,6 @@
     "element": "Fire",
     "planet": "Mars",
     "zodiac": "Aries",
-    "primary_color": "orange",
     "yes_no": "maybe",
     "keywords_upright": [
       "planning",
@@ -74,7 +72,6 @@
     "element": "Fire",
     "planet": "Sun",
     "zodiac": "Aries",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "progress",
@@ -107,7 +104,6 @@
     "element": "Fire",
     "planet": "Venus",
     "zodiac": "Aries",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "celebration",
@@ -140,7 +136,6 @@
     "element": "Fire",
     "planet": "Saturn",
     "zodiac": "Leo",
-    "primary_color": "orange",
     "yes_no": "no",
     "keywords_upright": [
       "conflict",
@@ -173,7 +168,6 @@
     "element": "Fire",
     "planet": "Jupiter",
     "zodiac": "Leo",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "victory",
@@ -206,7 +200,6 @@
     "element": "Fire",
     "planet": "Mars",
     "zodiac": "Leo",
-    "primary_color": "orange",
     "yes_no": "maybe",
     "keywords_upright": [
       "defense",
@@ -239,7 +232,6 @@
     "element": "Fire",
     "planet": "Mercury",
     "zodiac": "Sagittarius",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "swift movement",
@@ -272,7 +264,6 @@
     "element": "Fire",
     "planet": "Moon",
     "zodiac": "Sagittarius",
-    "primary_color": "orange",
     "yes_no": "maybe",
     "keywords_upright": [
       "resilience",
@@ -305,7 +296,6 @@
     "element": "Fire",
     "planet": "Saturn",
     "zodiac": "Sagittarius",
-    "primary_color": "orange",
     "yes_no": "no",
     "keywords_upright": [
       "burden",
@@ -338,7 +328,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Aries, Leo, Sagittarius",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "enthusiasm",
@@ -371,7 +360,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Aries, Leo, Sagittarius",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "action",
@@ -404,7 +392,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Aries, Leo, Sagittarius",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "confidence",
@@ -437,7 +424,6 @@
     "element": "Fire",
     "planet": null,
     "zodiac": "Aries, Leo, Sagittarius",
-    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "visionary leadership",
