@@ -64,6 +64,19 @@ print(fool["meaning_upright"])
 
 Interpretations are grounded in the Rider–Waite–Smith tradition (A. E. Waite, *The Pictorial Key to the Tarot*, 1911, public domain) and written in Tarotoo's editorial voice. Astrological attributions follow the Golden Dawn system. The dataset text is original writing.
 
+## References
+
+Card meanings follow the Rider–Waite–Smith tradition as codified in these public-domain works:
+
+1. Waite, A. E. (1911). *The Pictorial Key to the Tarot*. William Rider & Son. — primary source for card meanings
+2. Hermetic Order of the Golden Dawn (c. 1888–1897). *Book T: The Tarot*. — astrological and elemental attributions
+3. Mathers, S. L. MacGregor (1888). *The Tarot: Its Occult Signification, Use in Fortune-Telling, and Method of Play*.
+4. Papus (1889). *The Tarot of the Bohemians*.
+5. Ouspensky, P. D. (1913). *The Symbolism of the Tarot*.
+6. Thierens, A. E. (1930). *General Book of the Tarot*.
+
+All referenced works are in the public domain. The dataset text itself is original writing and is not copied from any of these works.
+
 ## Related resources
 
 - **Source repository:** [github.com/Tarotoo-com/tarotoo-tarot-dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset)
