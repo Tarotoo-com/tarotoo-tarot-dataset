@@ -8,7 +8,7 @@ import json
 from importlib.resources import files
 from typing import Optional
 
-__version__ = "1.0.0"
+__version__ = "1.1.0"
 
 #: All 78 cards, ordered by id (0-21 Major Arcana, then Wands, Cups, Swords, Pentacles).
 cards = json.loads(files(__package__).joinpath("cards.json").read_text(encoding="utf-8"))
@@ -51,6 +51,8 @@ def search_cards(query: str, limit: int = 10) -> list:
                 c["meaning_reversed"],
                 c["love"],
                 c["career"],
+                c["mood"],
+                c["spiritual"],
             ]
         ).lower()
         score = 0

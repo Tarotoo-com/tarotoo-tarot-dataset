@@ -46,6 +46,8 @@ One record per card with the following fields:
 | `meaning_reversed` | string | Reversed interpretation |
 | `love` | string | Love/relationships context |
 | `career` | string | Career/work context |
+| `mood` | string | Mood/emotional-tone context |
+| `spiritual` | string | Spiritual-growth context |
 
 ## Usage
 

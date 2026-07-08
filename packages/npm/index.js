@@ -54,6 +54,8 @@ export function searchCards(query, limit = 10) {
         c.meaning_reversed,
         c.love,
         c.career,
+        c.mood,
+        c.spiritual,
       ]
         .join(" ")
         .toLowerCase();

@@ -37,6 +37,8 @@ Each card record has the following fields:
 | `meaning_reversed`  | string       | Two-sentence reversed interpretation                                             |
 | `love`              | string       | One-sentence love/relationships context                                          |
 | `career`            | string       | One-sentence career/work context                                                 |
+| `mood`              | string       | One-sentence mood/emotional-tone context                                         |
+| `spiritual`         | string       | One-sentence spiritual-growth context                                            |
 
 ## Usage
 
