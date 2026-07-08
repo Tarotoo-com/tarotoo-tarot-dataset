@@ -54,7 +54,7 @@ One record per card with the following fields:
 ```python
 from datasets import load_dataset
 
-cards = load_dataset("REPLACE-HF-USERNAME/tarotoo-tarot-card-meanings", split="train")
+cards = load_dataset("Tarotoo/tarotoo-tarot-card-meanings", split="train")
 fool = next(c for c in cards if c["name"] == "The Fool")
 print(fool["meaning_upright"])
 ```
