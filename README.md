@@ -39,6 +39,7 @@ Each card record has the following fields:
 | `career`            | string       | One-sentence career/work context                                                 |
 | `mood`              | string       | One-sentence mood/emotional-tone context                                         |
 | `spiritual`         | string       | One-sentence spiritual-growth context                                            |
+| `url`               | string       | Card meaning page on tarotoo.com                                                 |
 
 ## Usage
 
