@@ -36,10 +36,10 @@ One record per card with the following fields:
 | `name` | string | Card name, e.g. `"The Fool"`, `"Ace of Cups"` |
 | `arcana` | string | `"major"` or `"minor"` |
 | `suit` | string/null | `null` for Major Arcana; `"wands"`, `"cups"`, `"swords"`, `"pentacles"` |
-| `number` | int | Card number (courts: Page=11, Knight=12, Queen=13, King=14) |
+| `number_numerology` | int | Card number for numerology (courts: Page=11, Knight=12, Queen=13, King=14) |
 | `element` | string | Classical element association |
-| `astrology` | string | Astrological association (Golden Dawn attributions; decans for pips) |
-| `numerology` | string | Numerological meaning of the card's number |
+| `planet` | string/null | Planetary association (Golden Dawn; decan planet for pips) |
+| `zodiac` | string/null | Zodiac association (sign, decan sign, or element's signs for courts) |
 | `primary_color` | string | Dominant color (RWS artwork / elemental) |
 | `yes_no` | string | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings |
 | `keywords_upright` | list[string] | Upright keywords |
