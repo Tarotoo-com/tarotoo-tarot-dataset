@@ -39,6 +39,8 @@ One record per card with the following fields:
 | `number` | int | Card number (courts: Page=11, Knight=12, Queen=13, King=14) |
 | `element` | string | Classical element association |
 | `astrology` | string | Astrological association (Golden Dawn attributions; decans for pips) |
+| `numerology` | string | Numerological meaning of the card's number |
+| `primary_color` | string | Dominant color (RWS artwork / elemental) |
 | `yes_no` | string | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings |
 | `keywords_upright` | list[string] | Upright keywords |
 | `keywords_reversed` | list[string] | Reversed keywords |

@@ -7,6 +7,8 @@
     "number": 1,
     "element": "Fire",
     "astrology": "Root of Fire",
+    "numerology": "1 — beginnings, initiative, raw potential",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "inspiration",
@@ -38,6 +40,8 @@
     "number": 2,
     "element": "Fire",
     "astrology": "Mars in Aries",
+    "numerology": "2 — duality, balance, partnership, choice",
+    "primary_color": "orange",
     "yes_no": "maybe",
     "keywords_upright": [
       "planning",
@@ -69,6 +73,8 @@
     "number": 3,
     "element": "Fire",
     "astrology": "Sun in Aries",
+    "numerology": "3 — growth, creativity, synthesis",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "progress",
@@ -100,6 +106,8 @@
     "number": 4,
     "element": "Fire",
     "astrology": "Venus in Aries",
+    "numerology": "4 — stability, structure, foundation",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "celebration",
@@ -131,6 +139,8 @@
     "number": 5,
     "element": "Fire",
     "astrology": "Saturn in Leo",
+    "numerology": "5 — change, conflict, freedom, disruption",
+    "primary_color": "orange",
     "yes_no": "no",
     "keywords_upright": [
       "conflict",
@@ -162,6 +172,8 @@
     "number": 6,
     "element": "Fire",
     "astrology": "Jupiter in Leo",
+    "numerology": "6 — harmony, responsibility, healing",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "victory",
@@ -193,6 +205,8 @@
     "number": 7,
     "element": "Fire",
     "astrology": "Mars in Leo",
+    "numerology": "7 — reflection, assessment, inner wisdom",
+    "primary_color": "orange",
     "yes_no": "maybe",
     "keywords_upright": [
       "defense",
@@ -224,6 +238,8 @@
     "number": 8,
     "element": "Fire",
     "astrology": "Mercury in Sagittarius",
+    "numerology": "8 — mastery, power, momentum",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "swift movement",
@@ -255,6 +271,8 @@
     "number": 9,
     "element": "Fire",
     "astrology": "Moon in Sagittarius",
+    "numerology": "9 — culmination, attainment, near completion",
+    "primary_color": "orange",
     "yes_no": "maybe",
     "keywords_upright": [
       "resilience",
@@ -286,6 +304,8 @@
     "number": 10,
     "element": "Fire",
     "astrology": "Saturn in Sagittarius",
+    "numerology": "10 — completion of a cycle; reduces to 1, a new beginning",
+    "primary_color": "orange",
     "yes_no": "no",
     "keywords_upright": [
       "burden",
@@ -317,6 +337,8 @@
     "number": 11,
     "element": "Fire",
     "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "numerology": "Page — the student: curiosity, learning, messages",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "enthusiasm",
@@ -348,6 +370,8 @@
     "number": 12,
     "element": "Fire",
     "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "numerology": "Knight — the quester: action, pursuit, dedication",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "action",
@@ -379,6 +403,8 @@
     "number": 13,
     "element": "Fire",
     "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "numerology": "Queen — the nurturer: inward mastery of the suit",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "confidence",
@@ -410,6 +436,8 @@
     "number": 14,
     "element": "Fire",
     "astrology": "Fire signs (Aries, Leo, Sagittarius)",
+    "numerology": "King — the master: outward authority over the suit",
+    "primary_color": "orange",
     "yes_no": "yes",
     "keywords_upright": [
       "visionary leadership",

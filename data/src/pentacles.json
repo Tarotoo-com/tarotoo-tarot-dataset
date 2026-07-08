@@ -7,6 +7,8 @@
     "number": 1,
     "element": "Earth",
     "astrology": "Root of Earth",
+    "numerology": "1 — beginnings, initiative, raw potential",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "new opportunity",
@@ -38,6 +40,8 @@
     "number": 2,
     "element": "Earth",
     "astrology": "Jupiter in Capricorn",
+    "numerology": "2 — duality, balance, partnership, choice",
+    "primary_color": "green",
     "yes_no": "maybe",
     "keywords_upright": [
       "juggling priorities",
@@ -69,6 +73,8 @@
     "number": 3,
     "element": "Earth",
     "astrology": "Mars in Capricorn",
+    "numerology": "3 — growth, creativity, synthesis",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "teamwork",
@@ -100,6 +106,8 @@
     "number": 4,
     "element": "Earth",
     "astrology": "Sun in Capricorn",
+    "numerology": "4 — stability, structure, foundation",
+    "primary_color": "green",
     "yes_no": "maybe",
     "keywords_upright": [
       "security",
@@ -131,6 +139,8 @@
     "number": 5,
     "element": "Earth",
     "astrology": "Mercury in Taurus",
+    "numerology": "5 — change, conflict, freedom, disruption",
+    "primary_color": "green",
     "yes_no": "no",
     "keywords_upright": [
       "hardship",
@@ -162,6 +172,8 @@
     "number": 6,
     "element": "Earth",
     "astrology": "Moon in Taurus",
+    "numerology": "6 — harmony, responsibility, healing",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "generosity",
@@ -193,6 +205,8 @@
     "number": 7,
     "element": "Earth",
     "astrology": "Saturn in Taurus",
+    "numerology": "7 — reflection, assessment, inner wisdom",
+    "primary_color": "green",
     "yes_no": "maybe",
     "keywords_upright": [
       "patience",
@@ -224,6 +238,8 @@
     "number": 8,
     "element": "Earth",
     "astrology": "Sun in Virgo",
+    "numerology": "8 — mastery, power, momentum",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "diligence",
@@ -255,6 +271,8 @@
     "number": 9,
     "element": "Earth",
     "astrology": "Venus in Virgo",
+    "numerology": "9 — culmination, attainment, near completion",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "self-sufficiency",
@@ -286,6 +304,8 @@
     "number": 10,
     "element": "Earth",
     "astrology": "Mercury in Virgo",
+    "numerology": "10 — completion of a cycle; reduces to 1, a new beginning",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "legacy",
@@ -317,6 +337,8 @@
     "number": 11,
     "element": "Earth",
     "astrology": "Earth signs (Taurus, Virgo, Capricorn)",
+    "numerology": "Page — the student: curiosity, learning, messages",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "studiousness",
@@ -348,6 +370,8 @@
     "number": 12,
     "element": "Earth",
     "astrology": "Earth signs (Taurus, Virgo, Capricorn)",
+    "numerology": "Knight — the quester: action, pursuit, dedication",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "reliability",
@@ -379,6 +403,8 @@
     "number": 13,
     "element": "Earth",
     "astrology": "Earth signs (Taurus, Virgo, Capricorn)",
+    "numerology": "Queen — the nurturer: inward mastery of the suit",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "nurturing practicality",
@@ -410,6 +436,8 @@
     "number": 14,
     "element": "Earth",
     "astrology": "Earth signs (Taurus, Virgo, Capricorn)",
+    "numerology": "King — the master: outward authority over the suit",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "material mastery",

@@ -7,6 +7,8 @@
     "number": 0,
     "element": "Air",
     "astrology": "Uranus",
+    "numerology": "0 — pure potential, the open space before beginnings",
+    "primary_color": "yellow",
     "yes_no": "maybe",
     "keywords_upright": [
       "new beginnings",
@@ -38,6 +40,8 @@
     "number": 1,
     "element": "Air",
     "astrology": "Mercury",
+    "numerology": "1 — beginnings, initiative, raw potential",
+    "primary_color": "red",
     "yes_no": "yes",
     "keywords_upright": [
       "manifestation",
@@ -69,6 +73,8 @@
     "number": 2,
     "element": "Water",
     "astrology": "Moon",
+    "numerology": "2 — duality, balance, partnership, choice",
+    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "intuition",
@@ -100,6 +106,8 @@
     "number": 3,
     "element": "Earth",
     "astrology": "Venus",
+    "numerology": "3 — growth, creativity, synthesis",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "abundance",
@@ -131,6 +139,8 @@
     "number": 4,
     "element": "Fire",
     "astrology": "Aries",
+    "numerology": "4 — stability, structure, foundation",
+    "primary_color": "red",
     "yes_no": "yes",
     "keywords_upright": [
       "structure",
@@ -162,6 +172,8 @@
     "number": 5,
     "element": "Earth",
     "astrology": "Taurus",
+    "numerology": "5 — change, conflict, freedom, disruption",
+    "primary_color": "red",
     "yes_no": "maybe",
     "keywords_upright": [
       "tradition",
@@ -193,6 +205,8 @@
     "number": 6,
     "element": "Air",
     "astrology": "Gemini",
+    "numerology": "6 — harmony, responsibility, healing",
+    "primary_color": "yellow",
     "yes_no": "yes",
     "keywords_upright": [
       "love",
@@ -224,6 +238,8 @@
     "number": 7,
     "element": "Water",
     "astrology": "Cancer",
+    "numerology": "7 — reflection, assessment, inner wisdom",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "determination",
@@ -255,6 +271,8 @@
     "number": 8,
     "element": "Fire",
     "astrology": "Leo",
+    "numerology": "8 — mastery, power, momentum",
+    "primary_color": "yellow",
     "yes_no": "yes",
     "keywords_upright": [
       "courage",
@@ -286,6 +304,8 @@
     "number": 9,
     "element": "Earth",
     "astrology": "Virgo",
+    "numerology": "9 — culmination, attainment, near completion",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "introspection",
@@ -317,6 +337,8 @@
     "number": 10,
     "element": "Fire",
     "astrology": "Jupiter",
+    "numerology": "10 — completion of a cycle; reduces to 1, a new beginning",
+    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "change",
@@ -348,6 +370,8 @@
     "number": 11,
     "element": "Air",
     "astrology": "Libra",
+    "numerology": "11 — master number of insight and balance; reduces to 2",
+    "primary_color": "red",
     "yes_no": "maybe",
     "keywords_upright": [
       "fairness",
@@ -379,6 +403,8 @@
     "number": 12,
     "element": "Water",
     "astrology": "Neptune",
+    "numerology": "12 — reduces to 3: growth through surrender",
+    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "surrender",
@@ -410,6 +436,8 @@
     "number": 13,
     "element": "Water",
     "astrology": "Scorpio",
+    "numerology": "13 — reduces to 4: transformation building new structure",
+    "primary_color": "black",
     "yes_no": "no",
     "keywords_upright": [
       "endings",
@@ -441,6 +469,8 @@
     "number": 14,
     "element": "Fire",
     "astrology": "Sagittarius",
+    "numerology": "14 — reduces to 5: balanced, deliberate change",
+    "primary_color": "white",
     "yes_no": "yes",
     "keywords_upright": [
       "balance",
@@ -472,6 +502,8 @@
     "number": 15,
     "element": "Earth",
     "astrology": "Capricorn",
+    "numerology": "15 — reduces to 6: harmony distorted by attachment",
+    "primary_color": "black",
     "yes_no": "no",
     "keywords_upright": [
       "attachment",
@@ -503,6 +535,8 @@
     "number": 16,
     "element": "Fire",
     "astrology": "Mars",
+    "numerology": "16 — reduces to 7: awakening through upheaval",
+    "primary_color": "black",
     "yes_no": "no",
     "keywords_upright": [
       "sudden upheaval",
@@ -534,6 +568,8 @@
     "number": 17,
     "element": "Air",
     "astrology": "Aquarius",
+    "numerology": "17 — reduces to 8: renewed strength and hope",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "hope",
@@ -565,6 +601,8 @@
     "number": 18,
     "element": "Water",
     "astrology": "Pisces",
+    "numerology": "18 — reduces to 9: completing the soul's night journey",
+    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "illusion",
@@ -596,6 +634,8 @@
     "number": 19,
     "element": "Fire",
     "astrology": "Sun",
+    "numerology": "19 — reduces to 1: a radiant new beginning",
+    "primary_color": "yellow",
     "yes_no": "yes",
     "keywords_upright": [
       "joy",
@@ -627,6 +667,8 @@
     "number": 20,
     "element": "Fire",
     "astrology": "Pluto",
+    "numerology": "20 — reduces to 2: rebirth through reckoning",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "awakening",
@@ -658,6 +700,8 @@
     "number": 21,
     "element": "Earth",
     "astrology": "Saturn",
+    "numerology": "21 — reduces to 3: creative wholeness and completion",
+    "primary_color": "green",
     "yes_no": "yes",
     "keywords_upright": [
       "completion",

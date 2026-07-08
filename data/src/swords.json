@@ -7,6 +7,8 @@
     "number": 1,
     "element": "Air",
     "astrology": "Root of Air",
+    "numerology": "1 — beginnings, initiative, raw potential",
+    "primary_color": "gray",
     "yes_no": "yes",
     "keywords_upright": [
       "clarity",
@@ -38,6 +40,8 @@
     "number": 2,
     "element": "Air",
     "astrology": "Moon in Libra",
+    "numerology": "2 — duality, balance, partnership, choice",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "stalemate",
@@ -69,6 +73,8 @@
     "number": 3,
     "element": "Air",
     "astrology": "Saturn in Libra",
+    "numerology": "3 — growth, creativity, synthesis",
+    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "heartbreak",
@@ -100,6 +106,8 @@
     "number": 4,
     "element": "Air",
     "astrology": "Jupiter in Libra",
+    "numerology": "4 — stability, structure, foundation",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "rest",
@@ -131,6 +139,8 @@
     "number": 5,
     "element": "Air",
     "astrology": "Venus in Aquarius",
+    "numerology": "5 — change, conflict, freedom, disruption",
+    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "hollow victory",
@@ -162,6 +172,8 @@
     "number": 6,
     "element": "Air",
     "astrology": "Mercury in Aquarius",
+    "numerology": "6 — harmony, responsibility, healing",
+    "primary_color": "gray",
     "yes_no": "yes",
     "keywords_upright": [
       "transition",
@@ -193,6 +205,8 @@
     "number": 7,
     "element": "Air",
     "astrology": "Moon in Aquarius",
+    "numerology": "7 — reflection, assessment, inner wisdom",
+    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "deception",
@@ -224,6 +238,8 @@
     "number": 8,
     "element": "Air",
     "astrology": "Jupiter in Gemini",
+    "numerology": "8 — mastery, power, momentum",
+    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "feeling trapped",
@@ -255,6 +271,8 @@
     "number": 9,
     "element": "Air",
     "astrology": "Mars in Gemini",
+    "numerology": "9 — culmination, attainment, near completion",
+    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "anxiety",
@@ -286,6 +304,8 @@
     "number": 10,
     "element": "Air",
     "astrology": "Sun in Gemini",
+    "numerology": "10 — completion of a cycle; reduces to 1, a new beginning",
+    "primary_color": "gray",
     "yes_no": "no",
     "keywords_upright": [
       "painful ending",
@@ -317,6 +337,8 @@
     "number": 11,
     "element": "Air",
     "astrology": "Air signs (Gemini, Libra, Aquarius)",
+    "numerology": "Page — the student: curiosity, learning, messages",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "curiosity",
@@ -348,6 +370,8 @@
     "number": 12,
     "element": "Air",
     "astrology": "Air signs (Gemini, Libra, Aquarius)",
+    "numerology": "Knight — the quester: action, pursuit, dedication",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "decisive action",
@@ -379,6 +403,8 @@
     "number": 13,
     "element": "Air",
     "astrology": "Air signs (Gemini, Libra, Aquarius)",
+    "numerology": "Queen — the nurturer: inward mastery of the suit",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "clear judgment",
@@ -410,6 +436,8 @@
     "number": 14,
     "element": "Air",
     "astrology": "Air signs (Gemini, Libra, Aquarius)",
+    "numerology": "King — the master: outward authority over the suit",
+    "primary_color": "gray",
     "yes_no": "maybe",
     "keywords_upright": [
       "intellectual authority",

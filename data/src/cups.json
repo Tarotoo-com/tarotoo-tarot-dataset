@@ -7,6 +7,8 @@
     "number": 1,
     "element": "Water",
     "astrology": "Root of Water",
+    "numerology": "1 — beginnings, initiative, raw potential",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "new love",
@@ -38,6 +40,8 @@
     "number": 2,
     "element": "Water",
     "astrology": "Venus in Cancer",
+    "numerology": "2 — duality, balance, partnership, choice",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "partnership",
@@ -69,6 +73,8 @@
     "number": 3,
     "element": "Water",
     "astrology": "Mercury in Cancer",
+    "numerology": "3 — growth, creativity, synthesis",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "celebration",
@@ -100,6 +106,8 @@
     "number": 4,
     "element": "Water",
     "astrology": "Moon in Cancer",
+    "numerology": "4 — stability, structure, foundation",
+    "primary_color": "blue",
     "yes_no": "no",
     "keywords_upright": [
       "apathy",
@@ -131,6 +139,8 @@
     "number": 5,
     "element": "Water",
     "astrology": "Mars in Scorpio",
+    "numerology": "5 — change, conflict, freedom, disruption",
+    "primary_color": "blue",
     "yes_no": "no",
     "keywords_upright": [
       "loss",
@@ -162,6 +172,8 @@
     "number": 6,
     "element": "Water",
     "astrology": "Sun in Scorpio",
+    "numerology": "6 — harmony, responsibility, healing",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "nostalgia",
@@ -193,6 +205,8 @@
     "number": 7,
     "element": "Water",
     "astrology": "Venus in Scorpio",
+    "numerology": "7 — reflection, assessment, inner wisdom",
+    "primary_color": "blue",
     "yes_no": "maybe",
     "keywords_upright": [
       "choices",
@@ -224,6 +238,8 @@
     "number": 8,
     "element": "Water",
     "astrology": "Saturn in Pisces",
+    "numerology": "8 — mastery, power, momentum",
+    "primary_color": "blue",
     "yes_no": "no",
     "keywords_upright": [
       "walking away",
@@ -255,6 +271,8 @@
     "number": 9,
     "element": "Water",
     "astrology": "Jupiter in Pisces",
+    "numerology": "9 — culmination, attainment, near completion",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "wishes fulfilled",
@@ -286,6 +304,8 @@
     "number": 10,
     "element": "Water",
     "astrology": "Mars in Pisces",
+    "numerology": "10 — completion of a cycle; reduces to 1, a new beginning",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "lasting happiness",
@@ -317,6 +337,8 @@
     "number": 11,
     "element": "Water",
     "astrology": "Water signs (Cancer, Scorpio, Pisces)",
+    "numerology": "Page — the student: curiosity, learning, messages",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "emotional openness",
@@ -348,6 +370,8 @@
     "number": 12,
     "element": "Water",
     "astrology": "Water signs (Cancer, Scorpio, Pisces)",
+    "numerology": "Knight — the quester: action, pursuit, dedication",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "romance",
@@ -379,6 +403,8 @@
     "number": 13,
     "element": "Water",
     "astrology": "Water signs (Cancer, Scorpio, Pisces)",
+    "numerology": "Queen — the nurturer: inward mastery of the suit",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "compassion",
@@ -410,6 +436,8 @@
     "number": 14,
     "element": "Water",
     "astrology": "Water signs (Cancer, Scorpio, Pisces)",
+    "numerology": "King — the master: outward authority over the suit",
+    "primary_color": "blue",
     "yes_no": "yes",
     "keywords_upright": [
       "emotional mastery",
