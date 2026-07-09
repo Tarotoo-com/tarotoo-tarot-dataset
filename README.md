@@ -43,6 +43,15 @@ Each card record has the following fields:
 | `spiritual`         | string       | Spiritual-growth context (short phrase)                                          |
 | `url`               | string       | Card meaning page on tarotoo.com                                                 |
 
+## Where to get it
+
+- **Hugging Face:** [Tarotoo/tarotoo-tarot-card-meanings](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
+- **Kaggle:** [tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
+- **npm:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot)
+- **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
+- **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
+- **Transparency page:** [tarotoo.com/card-meanings-dataset](https://tarotoo.com/card-meanings-dataset)
+
 ## Usage
 
 ```python
