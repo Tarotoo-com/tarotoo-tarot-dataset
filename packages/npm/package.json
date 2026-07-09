@@ -1,6 +1,6 @@
 {
   "name": "tarotoo-tarot",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers — the open Tarotoo dataset",
   "type": "module",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "tarotoo"
   ],
   "author": "Tarotoo (https://tarotoo.com)",
-  "license": "CC-BY-4.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Tarotoo-com/tarotoo-tarot-dataset.git",

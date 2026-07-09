@@ -5,7 +5,7 @@ type: dataset
 authors:
   - name: 'Tarotoo'
     website: 'https://tarotoo.com'
-license: CC-BY-4.0
+license: MIT
 doi: 10.5281/zenodo.21268290
 repository-code: 'https://github.com/Tarotoo-com/tarotoo-tarot-dataset'
 url: 'https://tarotoo.com'

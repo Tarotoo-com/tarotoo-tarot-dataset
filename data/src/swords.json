@@ -7,7 +7,7 @@
     "number_numerology": 1,
     "element": "Air",
     "planet": null,
-    "zodiac": null,
+    "zodiac": "Gemini, Libra, Aquarius",
     "yes_no": "yes",
     "keywords_upright": [
       "clarity",
@@ -358,8 +358,8 @@
     "suit": "swords",
     "number_numerology": 12,
     "element": "Air",
-    "planet": null,
-    "zodiac": "Gemini, Libra, Aquarius",
+    "planet": "Mercury",
+    "zodiac": "Gemini",
     "yes_no": "maybe",
     "keywords_upright": [
       "decisive action",
@@ -390,8 +390,8 @@
     "suit": "swords",
     "number_numerology": 13,
     "element": "Air",
-    "planet": null,
-    "zodiac": "Gemini, Libra, Aquarius",
+    "planet": "Venus",
+    "zodiac": "Libra",
     "yes_no": "maybe",
     "keywords_upright": [
       "clear judgment",
@@ -422,8 +422,8 @@
     "suit": "swords",
     "number_numerology": 14,
     "element": "Air",
-    "planet": null,
-    "zodiac": "Gemini, Libra, Aquarius",
+    "planet": "Saturn",
+    "zodiac": "Aquarius",
     "yes_no": "maybe",
     "keywords_upright": [
       "intellectual authority",

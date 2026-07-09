@@ -7,7 +7,7 @@
     "number_numerology": 1,
     "element": "Earth",
     "planet": null,
-    "zodiac": null,
+    "zodiac": "Taurus, Virgo, Capricorn",
     "yes_no": "yes",
     "keywords_upright": [
       "new opportunity",
@@ -358,8 +358,8 @@
     "suit": "pentacles",
     "number_numerology": 12,
     "element": "Earth",
-    "planet": null,
-    "zodiac": "Taurus, Virgo, Capricorn",
+    "planet": "Saturn",
+    "zodiac": "Capricorn",
     "yes_no": "yes",
     "keywords_upright": [
       "reliability",
@@ -390,8 +390,8 @@
     "suit": "pentacles",
     "number_numerology": 13,
     "element": "Earth",
-    "planet": null,
-    "zodiac": "Taurus, Virgo, Capricorn",
+    "planet": "Mercury",
+    "zodiac": "Virgo",
     "yes_no": "yes",
     "keywords_upright": [
       "nurturing practicality",
@@ -422,8 +422,8 @@
     "suit": "pentacles",
     "number_numerology": 14,
     "element": "Earth",
-    "planet": null,
-    "zodiac": "Taurus, Virgo, Capricorn",
+    "planet": "Venus",
+    "zodiac": "Taurus",
     "yes_no": "yes",
     "keywords_upright": [
       "material mastery",

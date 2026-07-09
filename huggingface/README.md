@@ -1,5 +1,5 @@
 ---
-license: cc-by-4.0
+license: mit
 language:
   - en
 task_categories:
@@ -88,6 +88,6 @@ All referenced works are in the public domain. The dataset text itself is origin
 
 ## License and citation
 
-Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, share, and adapt, including commercially, with attribution to Tarotoo (tarotoo.com). A citable DOI is issued via Zenodo for each tagged release; see the source repository's `CITATION.cff`.
+Released under the MIT License — free to use, copy, modify, and redistribute, including commercially. Attribution to Tarotoo (tarotoo.com) is appreciated. A citable DOI is issued via Zenodo for each tagged release; see the source repository's `CITATION.cff`.
 
 Tarot readings are for entertainment and self-reflection only — not medical, legal, financial, or mental-health advice.

@@ -7,7 +7,7 @@
     "number_numerology": 1,
     "element": "Fire",
     "planet": null,
-    "zodiac": null,
+    "zodiac": "Aries, Leo, Sagittarius",
     "yes_no": "yes",
     "keywords_upright": [
       "inspiration",
@@ -358,8 +358,8 @@
     "suit": "wands",
     "number_numerology": 12,
     "element": "Fire",
-    "planet": null,
-    "zodiac": "Aries, Leo, Sagittarius",
+    "planet": "Jupiter",
+    "zodiac": "Sagittarius",
     "yes_no": "yes",
     "keywords_upright": [
       "action",
@@ -390,8 +390,8 @@
     "suit": "wands",
     "number_numerology": 13,
     "element": "Fire",
-    "planet": null,
-    "zodiac": "Aries, Leo, Sagittarius",
+    "planet": "Sun",
+    "zodiac": "Leo",
     "yes_no": "yes",
     "keywords_upright": [
       "confidence",
@@ -422,8 +422,8 @@
     "suit": "wands",
     "number_numerology": 14,
     "element": "Fire",
-    "planet": null,
-    "zodiac": "Aries, Leo, Sagittarius",
+    "planet": "Mars",
+    "zodiac": "Aries",
     "yes_no": "yes",
     "keywords_upright": [
       "visionary leadership",

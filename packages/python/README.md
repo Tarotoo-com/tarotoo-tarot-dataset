@@ -29,4 +29,4 @@ Each card has: `id`, `name`, `arcana`, `suit`, `number_numerology`, `element`, `
 
 ## License
 
-Data and code released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) with attribution to Tarotoo (tarotoo.com). For entertainment and self-reflection purposes only — not medical, legal, financial, or mental-health advice.
+Data and code released under the MIT License. Attribution to Tarotoo (tarotoo.com) is appreciated. For entertainment and self-reflection purposes only — not medical, legal, financial, or mental-health advice.

@@ -7,7 +7,7 @@
     "number_numerology": 1,
     "element": "Water",
     "planet": null,
-    "zodiac": null,
+    "zodiac": "Cancer, Scorpio, Pisces",
     "yes_no": "yes",
     "keywords_upright": [
       "new love",
@@ -358,8 +358,8 @@
     "suit": "cups",
     "number_numerology": 12,
     "element": "Water",
-    "planet": null,
-    "zodiac": "Cancer, Scorpio, Pisces",
+    "planet": "Jupiter",
+    "zodiac": "Pisces",
     "yes_no": "yes",
     "keywords_upright": [
       "romance",
@@ -390,8 +390,8 @@
     "suit": "cups",
     "number_numerology": 13,
     "element": "Water",
-    "planet": null,
-    "zodiac": "Cancer, Scorpio, Pisces",
+    "planet": "Moon",
+    "zodiac": "Cancer",
     "yes_no": "yes",
     "keywords_upright": [
       "compassion",
@@ -422,8 +422,8 @@
     "suit": "cups",
     "number_numerology": 14,
     "element": "Water",
-    "planet": null,
-    "zodiac": "Cancer, Scorpio, Pisces",
+    "planet": "Mars",
+    "zodiac": "Scorpio",
     "yes_no": "yes",
     "keywords_upright": [
       "emotional mastery",

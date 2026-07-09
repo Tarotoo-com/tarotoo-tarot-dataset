@@ -4,10 +4,10 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tarotoo-tarot"
-version = "1.6.0"
+version = "1.7.0"
 description = "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers - the open Tarotoo dataset"
 readme = "README.md"
-license = "CC-BY-4.0"
+license = "MIT"
 requires-python = ">=3.9"
 authors = [{ name = "Tarotoo" }]
 keywords = ["tarot", "tarot-cards", "card-meanings", "rider-waite-smith", "dataset", "divination"]

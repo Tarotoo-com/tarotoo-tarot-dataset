@@ -1,14 +1,14 @@
 """Tarotoo tarot card meanings: all 78 Rider-Waite-Smith cards as structured data.
 
 The open Tarotoo dataset (github.com/Tarotoo-com/tarotoo-tarot-dataset) - the
-same card meanings that ground the AI readings on tarotoo.com. CC BY 4.0.
+same card meanings that ground the AI readings on tarotoo.com. MIT licensed.
 """
 
 import json
 from importlib.resources import files
 from typing import Optional
 
-__version__ = "1.6.0"
+__version__ = "1.7.0"
 
 #: All 78 cards, ordered by id (0-21 Major Arcana, then Wands, Cups, Swords, Pentacles).
 cards = json.loads(files(__package__).joinpath("cards.json").read_text(encoding="utf-8"))

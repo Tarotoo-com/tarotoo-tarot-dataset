@@ -93,7 +93,7 @@ When a reading is generated on Tarotoo.com, the meanings of the drawn cards are 
 
 ## License
 
-Released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to use, share, and adapt this dataset, including commercially, with attribution to Tarotoo (tarotoo.com).
+Released under the [MIT License](LICENSE) — free to use, copy, modify, and redistribute, including commercially. Attribution to Tarotoo (tarotoo.com) is appreciated.
 
 ## Citation
 
