@@ -55,7 +55,7 @@ Each card record has the following fields:
 - **npm:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot)
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
-- **Transparency page:** [tarotoo.com/card-meanings-dataset](https://tarotoo.com/card-meanings-dataset)
+- **Transparency page:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
 
 ## Installation & quick start
 

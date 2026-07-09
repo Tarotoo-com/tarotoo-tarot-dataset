@@ -137,7 +137,7 @@ Tarot readings are for entertainment and self-reflection only — not medical, l
 - **MCP server** (query the meanings from AI assistants): [github.com/Tarotoo-com/tarotoo-mcp-server](https://github.com/Tarotoo-com/tarotoo-mcp-server) — `npx -y tarotoo-mcp-server`
 - **Kaggle mirror:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
 - **npm / PyPI packages:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot) · [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
-- **Website:** [tarotoo.com](https://tarotoo.com) · [transparency page](https://tarotoo.com/card-meanings-dataset)
+- **Website:** [tarotoo.com](https://tarotoo.com) · [transparency page](https://tarotoo.com/open-data)
 
 ## Citation
 

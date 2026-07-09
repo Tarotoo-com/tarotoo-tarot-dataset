@@ -28,7 +28,7 @@
     "url": "git+https://github.com/Tarotoo-com/tarotoo-tarot-dataset.git",
     "directory": "packages/npm"
   },
-  "homepage": "https://tarotoo.com/card-meanings-dataset",
+  "homepage": "https://tarotoo.com/open-data",
   "engines": {
     "node": ">=18"
   },

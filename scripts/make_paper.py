@@ -127,7 +127,7 @@ E.append(Paragraph("The dataset is published under the MIT license. The source o
     "10.5281/zenodo.21268290, which always resolves to the latest version). Mirrors and packages: Hugging Face "
     "(huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings), Kaggle (kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings), "
     "npm and PyPI (tarotoo-tarot), and the MCP server (github.com/Tarotoo-com/tarotoo-mcp-server). A human-readable overview with all "
-    "links is maintained at tarotoo.com/card-meanings-dataset.", body))
+    "links is maintained at tarotoo.com/open-data.", body))
 
 E.append(Paragraph("6. Limitations and Responsible Use", h1))
 E.append(Paragraph("The dataset encodes one widely used interpretive tradition; other tarot traditions assign different meanings and "

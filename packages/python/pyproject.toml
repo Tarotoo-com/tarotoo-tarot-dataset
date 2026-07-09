@@ -23,7 +23,7 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://tarotoo.com/card-meanings-dataset"
+Homepage = "https://tarotoo.com/open-data"
 Repository = "https://github.com/Tarotoo-com/tarotoo-tarot-dataset"
 Issues = "https://github.com/Tarotoo-com/tarotoo-tarot-dataset/issues"
 "Hugging Face" = "https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings"
