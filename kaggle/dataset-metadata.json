@@ -1,10 +1,20 @@
 {
   "title": "Tarotoo Tarot Card Meanings (All 78 Cards)",
-  "id": "REPLACE-KAGGLE-USERNAME/tarotoo-tarot-card-meanings",
-  "subtitle": "Complete Rider-Waite-Smith dataset: meanings, keywords, love/career, astrology, yes/no",
+  "id": "tarotoo/tarotoo-tarot-card-meanings",
+  "subtitle": "All 78 tarot cards: meanings, keywords, love, career, planet, zodiac, yes/no",
   "description": "A complete, structured dataset of all 78 tarot cards (22 Major Arcana + 56 Minor Arcana) in the Rider-Waite-Smith tradition, published by Tarotoo (tarotoo.com) as part of its AI transparency initiative. Each card includes upright and reversed meanings, keywords, love and career contexts, planet and zodiac associations (Golden Dawn attributions), a yes/no value for yes-or-no readings, and a link to each card's meaning page on tarotoo.com.\n\nFields: id, name, arcana, suit, number_numerology, element, planet, zodiac, yes_no, keywords_upright, keywords_reversed, meaning_upright, meaning_reversed, love, career, mood, spiritual, url.\n\nSource of truth: https://github.com/Tarotoo-com/tarotoo-tarot-dataset\nDOI: https://doi.org/10.5281/zenodo.21268290\nMCP server: https://github.com/Tarotoo-com/tarotoo-mcp-server\n\nLicense: CC BY 4.0 with attribution to Tarotoo (tarotoo.com). For entertainment and self-reflection purposes only.",
-  "licenses": [{ "name": "CC-BY-4.0" }],
-  "keywords": ["tarot", "cards", "games", "text data", "culture and humanities"],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "tarot",
+    "cards",
+    "games",
+    "text data",
+    "culture and humanities"
+  ],
   "resources": [
     {
       "path": "cards.csv",

@@ -82,6 +82,7 @@ All referenced works are in the public domain. The dataset text itself is origin
 
 - **Source repository:** [github.com/Tarotoo-com/tarotoo-tarot-dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset)
 - **MCP server** (query the meanings from AI assistants): [github.com/Tarotoo-com/tarotoo-mcp-server](https://github.com/Tarotoo-com/tarotoo-mcp-server)
+- **Kaggle mirror:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
 - **Website:** [tarotoo.com](https://tarotoo.com)
 
 ## License and citation
