@@ -1,6 +1,11 @@
 # Tarotoo Tarot Card Meanings Dataset
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21268290.svg)](https://doi.org/10.5281/zenodo.21268290)
+[![CI](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/actions/workflows/validate.yml/badge.svg)](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/actions)
+[![PyPI](https://img.shields.io/pypi/v/tarotoo-tarot)](https://pypi.org/project/tarotoo-tarot/)
+[![npm](https://img.shields.io/npm/v/tarotoo-tarot)](https://www.npmjs.com/package/tarotoo-tarot)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-yellow)](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
 A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana), based on the classic Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com) as part of its AI transparency initiative: these are the card meanings that ground the AI-generated readings on Tarotoo.com.
 
@@ -51,6 +56,59 @@ Each card record has the following fields:
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
 - **Transparency page:** [tarotoo.com/card-meanings-dataset](https://tarotoo.com/card-meanings-dataset)
+
+## Installation & quick start
+
+**Python** (PyPI):
+
+```bash
+pip install tarotoo-tarot
+```
+
+```python
+from tarotoo_tarot import cards, get_card, search_cards, yes_no
+get_card("The Fool")["meaning_upright"]   # "New beginnings, spontaneity, innocence..."
+```
+
+**JavaScript / Node** (npm):
+
+```bash
+npm install tarotoo-tarot
+```
+
+```js
+import { cards, getCard, searchCards, yesNo } from "tarotoo-tarot";
+getCard("The Fool").meaning_upright;      // "New beginnings, spontaneity, innocence..."
+```
+
+**Hugging Face** (`datasets`):
+
+```python
+from datasets import load_dataset
+cards = load_dataset("Tarotoo/tarotoo-tarot-card-meanings", split="train")
+```
+
+**Kaggle**:
+
+```bash
+kaggle datasets download tarotoo/tarotoo-tarot-card-meanings
+```
+
+**Raw files** (no dependencies):
+
+```bash
+curl -O https://raw.githubusercontent.com/Tarotoo-com/tarotoo-tarot-dataset/main/data/cards.json
+```
+
+**AI assistants** (MCP — Claude Desktop, Claude Code, Cursor, etc.):
+
+```json
+{
+  "mcpServers": {
+    "tarotoo-tarot": { "command": "npx", "args": ["-y", "tarotoo-mcp-server"] }
+  }
+}
+```
 
 ## Usage
 
