@@ -41,7 +41,7 @@ A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 M
 
 - **Curated by:** Tarotoo (tarotoo.com)
 - **Language:** English
-- **License:** MIT
+- **License:** [MIT](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/blob/main/LICENSE)
 - **Rows:** 78 (one per card) · **Fields:** 18
 - **DOI:** [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290)
 - **Source repository:** [github.com/Tarotoo-com/tarotoo-tarot-dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset)
