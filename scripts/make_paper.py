@@ -63,7 +63,7 @@ E.append(Spacer(1, 12))
 E.append(Paragraph("<b>Abstract.</b> We present a complete, machine-readable dataset of tarot card meanings covering all 78 cards "
     "of the standard tarot deck (22 Major Arcana and 56 Minor Arcana) in the Rider–Waite–Smith tradition. Each card is described by 18 "
     "structured fields: identification (name, arcana, suit, numerological number), esoteric correspondences (element, planet, zodiac), "
-    "divinatory content (upright and reversed keywords and meanings, love, career, mood, and spiritual contexts), a yes/no value for "
+    "tarot content (upright and reversed keywords and meanings, love, career, mood, and spiritual contexts), a yes/no value for "
     "binary readings, and a canonical reference URL. All interpretive text was created by Tarotoo within the Rider–Waite–Smith "
     "tradition, drawing on established public-domain sources, distributed under the MIT license, and validated by continuous integration. The dataset serves as the grounding corpus for "
     "the AI-generated readings on Tarotoo.com and is designed for retrieval-augmented generation, lookup services, and computational "
@@ -77,7 +77,7 @@ E.append(Paragraph("Large language models are increasingly used to generate taro
     "itself — openly and in structured form — allows readings to be grounded in a fixed, inspectable source, and allows anyone to "
     "verify what an AI system was told a card means. This dataset was created for exactly that purpose: it is the published source of "
     "card meanings used by the reading engine at Tarotoo.com. Beyond its primary role, a complete and consistently structured tarot "
-    "corpus is useful for lookup services, conversational agents, and quantitative study of divinatory symbolism.", body))
+    "corpus is useful for lookup services, conversational agents, and quantitative study of tarot symbolism.", body))
 
 E.append(Paragraph("2. Dataset Description", h1))
 E.append(Paragraph(f"The dataset contains exactly {len(cards)} records — one per card: {n_major} Major Arcana (The Fool through "
