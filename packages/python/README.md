@@ -12,7 +12,7 @@ pip install tarotoo-tarot
 from tarotoo_tarot import cards, get_card, list_cards, search_cards, yes_no
 
 len(cards)                              # 78
-get_card("The Fool")["meaning_upright"] # "The Fool signals a fresh start..."
+get_card("The Fool")["meaning_upright"] # "New beginnings, spontaneity, innocence..."
 get_card("fool")["yes_no"]              # "maybe" (name matching is forgiving)
 list_cards(suit="cups")                 # ["Ace of Cups", ..., "King of Cups"]
 search_cards("heartbreak", limit=3)     # [Three of Swords, ...]

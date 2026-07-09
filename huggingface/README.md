@@ -43,8 +43,8 @@ One record per card with the following fields:
 | `yes_no` | string | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings |
 | `keywords_upright` | list[string] | Upright keywords |
 | `keywords_reversed` | list[string] | Reversed keywords |
-| `meaning_upright` | string | Upright interpretation |
-| `meaning_reversed` | string | Reversed interpretation |
+| `meaning_upright` | string | Upright meaning as concise keyword phrases |
+| `meaning_reversed` | string | Reversed meaning as concise keyword phrases |
 | `love` | string | Love/relationships context |
 | `career` | string | Career/work context |
 | `mood` | string | Mood/emotional-tone context |

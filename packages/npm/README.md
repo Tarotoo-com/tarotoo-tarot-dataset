@@ -12,7 +12,7 @@ npm install tarotoo-tarot
 import { cards, getCard, listCards, searchCards, yesNo } from "tarotoo-tarot";
 
 cards.length;                        // 78
-getCard("The Fool").meaning_upright; // "The Fool signals a fresh start..."
+getCard("The Fool").meaning_upright; // "New beginnings, spontaneity, innocence..."
 getCard("fool").yes_no;              // "maybe" (name matching is forgiving)
 listCards({ suit: "cups" });         // ["Ace of Cups", ..., "King of Cups"]
 searchCards("heartbreak", 3);        // [Three of Swords, ...]

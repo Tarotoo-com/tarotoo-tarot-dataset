@@ -16,6 +16,7 @@ A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 M
 | `packages/npm/`    | `tarotoo-tarot` npm package (data + lookup helpers)    |
 | `packages/python/` | `tarotoo-tarot` PyPI package (data + lookup helpers)   |
 | `huggingface/`     | Dataset card for the Hugging Face mirror               |
+| `kaggle/`          | Metadata for the Kaggle mirror                         |
 
 ## Schema
 
@@ -34,12 +35,12 @@ Each card record has the following fields:
 | `yes_no`            | string       | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings                              |
 | `keywords_upright`  | string[]     | 4–5 upright keywords                                                             |
 | `keywords_reversed` | string[]     | 4–5 reversed keywords                                                            |
-| `meaning_upright`   | string       | Two-sentence upright interpretation                                              |
-| `meaning_reversed`  | string       | Two-sentence reversed interpretation                                             |
-| `love`              | string       | One-sentence love/relationships context                                          |
-| `career`            | string       | One-sentence career/work context                                                 |
-| `mood`              | string       | One-sentence mood/emotional-tone context                                         |
-| `spiritual`         | string       | One-sentence spiritual-growth context                                            |
+| `meaning_upright`   | string       | Upright meaning as concise keyword phrases                                       |
+| `meaning_reversed`  | string       | Reversed meaning as concise keyword phrases                                      |
+| `love`              | string       | Love/relationships context (short phrase)                                        |
+| `career`            | string       | Career/work context (short phrase)                                               |
+| `mood`              | string       | Mood/emotional tone (short phrase)                                               |
+| `spiritual`         | string       | Spiritual-growth context (short phrase)                                          |
 | `url`               | string       | Card meaning page on tarotoo.com                                                 |
 
 ## Usage
