@@ -130,7 +130,7 @@ python3 scripts/build.py
 
 ## Methodology
 
-Interpretations are grounded in the Rider–Waite–Smith tradition (A. E. Waite, _The Pictorial Key to the Tarot_, 1911, public domain) and written in Tarotoo's editorial voice. Astrological attributions follow the Golden Dawn system. Yes/no values follow the mapping used in Tarotoo's readings. The dataset text is original writing, not copied from other contemporary sources.
+All interpretive text was created by Tarotoo within the Rider–Waite–Smith tradition, drawing on established tarot sources — primarily A. E. Waite's _The Pictorial Key to the Tarot_ (1911). Planet and zodiac correspondences follow classical rulerships and the decan system documented in the Golden Dawn's _Book T_. Yes/no values follow the mapping used in Tarotoo's readings. Each card was reviewed for consistency in tone, terminology, and structure across the complete deck.
 
 ## References
 
@@ -143,7 +143,7 @@ Card meanings follow the Rider–Waite–Smith tradition as codified in these pu
 5. Ouspensky, P. D. (1913). *The Symbolism of the Tarot*.
 6. Thierens, A. E. (1930). *General Book of the Tarot*.
 
-All referenced works are in the public domain. The dataset text itself is original writing and is not copied from any of these works.
+All referenced works are in the public domain.
 
 ## How Tarotoo uses this dataset
 

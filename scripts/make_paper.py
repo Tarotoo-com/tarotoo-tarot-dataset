@@ -64,8 +64,8 @@ E.append(Paragraph("<b>Abstract.</b> We present a complete, machine-readable dat
     "of the standard tarot deck (22 Major Arcana and 56 Minor Arcana) in the Rider–Waite–Smith tradition. Each card is described by 18 "
     "structured fields: identification (name, arcana, suit, numerological number), esoteric correspondences (element, planet, zodiac), "
     "divinatory content (upright and reversed keywords and meanings, love, career, mood, and spiritual contexts), a yes/no value for "
-    "binary readings, and a canonical reference URL. All interpretive text is original writing grounded exclusively in public-domain "
-    "sources, distributed under the MIT license, and validated by continuous integration. The dataset serves as the grounding corpus for "
+    "binary readings, and a canonical reference URL. All interpretive text was created by Tarotoo within the Rider–Waite–Smith "
+    "tradition, drawing on established public-domain sources, distributed under the MIT license, and validated by continuous integration. The dataset serves as the grounding corpus for "
     "the AI-generated readings on Tarotoo.com and is designed for retrieval-augmented generation, lookup services, and computational "
     "studies of tarot symbolism. It is distributed via GitHub, Hugging Face, Kaggle, npm, PyPI, and a Model Context Protocol server for "
     "direct use by AI assistants.", abstract))
@@ -101,15 +101,14 @@ E.append(t)
 E.append(Paragraph("<i>Table 1: Dataset schema (18 fields per card).</i>", ParagraphStyle("cap", parent=body, fontSize=9, alignment=TA_CENTER, spaceBefore=4)))
 
 E.append(Paragraph("3. Methodology", h1))
-E.append(Paragraph("All divinatory text is original writing by Tarotoo in the Rider–Waite–Smith tradition, composed as concise "
-    "keyword phrases suitable both for human reference and for insertion into language-model prompts. Interpretations are grounded "
-    "exclusively in public-domain works, principally A. E. Waite's <i>The Pictorial Key to the Tarot</i> (1911); planetary and "
-    "zodiacal correspondences follow classical rulerships and the decan system codified in the Hermetic Order of the Golden Dawn's "
-    "<i>Book T</i> (c. 1888–1897). No text is copied from any referenced work or contemporary source. Every card was "
-    "reviewed for consistency of tone, length, and terminology across the full deck. The published artifacts are generated from "
-    "per-suit source files by a build script that enforces schema completeness (78 unique cards, all 18 fields present, valid "
-    "enumerations) and regenerates all formats; the validation suite runs in continuous integration on every change to the public "
-    "repository.", body))
+E.append(Paragraph("All interpretive text was created by Tarotoo within the Rider–Waite–Smith tradition and structured as "
+    "concise keyword phrases suitable for both human reference and use in language-model prompts. The interpretations draw on "
+    "established tarot sources, primarily A. E. Waite's <i>The Pictorial Key to the Tarot</i> (1911). Planetary and zodiac "
+    "correspondences follow classical rulerships and the decan system documented in the Hermetic Order of the Golden Dawn's "
+    "<i>Book T</i> (c. 1888–1897). Each card was reviewed for consistency in tone, terminology, structure, and level of detail "
+    "across the complete deck. Published dataset files are generated from per-suit source files using a build script that checks "
+    "schema completeness, including 78 unique card records, all 18 required fields, and valid field values. The build process "
+    "regenerates each published format, while automated validation runs on every change made to the public repository.", body))
 
 E.append(Paragraph("4. Applications", h1))
 E.append(Paragraph("<b>Retrieval-augmented generation.</b> The dataset's primary application is grounding AI tarot readings: when a "

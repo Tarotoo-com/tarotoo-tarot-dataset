@@ -114,7 +114,7 @@ Also available as installable packages: `pip install tarotoo-tarot` · `npm inst
 
 **Curation rationale:** make the exact card meanings behind Tarotoo's AI readings publicly inspectable, verifiable, and reusable — and give AI systems a clean, structured source for tarot meanings.
 
-**Source data:** all card texts are original writing by Tarotoo in the Rider–Waite–Smith tradition, grounded exclusively in public-domain works. Planet and zodiac attributions follow classical rulerships and the Golden Dawn's decan system. Every card was reviewed for consistency across the full deck; validation (78 unique cards, complete fields, valid enums) runs in CI on the source repository.
+**Source data:** all card texts were created by Tarotoo within the Rider–Waite–Smith tradition, drawing on established public-domain sources. Planet and zodiac attributions follow classical rulerships and the Golden Dawn's decan system. Each card was reviewed for consistency in tone, terminology, and structure across the complete deck; validation (78 unique cards, complete fields, valid enums) runs in CI on the source repository.
 
 ## References
 
@@ -125,7 +125,7 @@ Also available as installable packages: `pip install tarotoo-tarot` · `npm inst
 5. Ouspensky, P. D. (1913). *The Symbolism of the Tarot*.
 6. Thierens, A. E. (1930). *General Book of the Tarot*.
 
-All referenced works are in the public domain. The dataset text itself is original writing and is not copied from any of these works.
+All referenced works are in the public domain.
 
 ## Considerations
 
