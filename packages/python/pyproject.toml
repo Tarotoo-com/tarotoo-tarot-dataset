@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tarotoo-tarot"
-version = "1.7.0"
+version = "1.7.1"
 description = "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers - the open Tarotoo dataset"
 readme = "README.md"
 license = "MIT"
@@ -12,14 +12,22 @@ requires-python = ">=3.9"
 authors = [{ name = "Tarotoo" }]
 keywords = ["tarot", "tarot-cards", "card-meanings", "rider-waite-smith", "dataset", "divination"]
 classifiers = [
+  "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
   "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
   "Topic :: Games/Entertainment",
+  "Topic :: Software Development :: Libraries :: Python Modules",
 ]
 
 [project.urls]
-Homepage = "https://tarotoo.com"
+Homepage = "https://tarotoo.com/card-meanings-dataset"
 Repository = "https://github.com/Tarotoo-com/tarotoo-tarot-dataset"
+Issues = "https://github.com/Tarotoo-com/tarotoo-tarot-dataset/issues"
+"Hugging Face" = "https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings"
+DOI = "https://doi.org/10.5281/zenodo.21268290"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/tarotoo_tarot"]

@@ -1,7 +1,7 @@
 {
   "name": "tarotoo-tarot",
   "version": "1.7.0",
-  "description": "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers — the open Tarotoo dataset",
+  "description": "All 78 tarot card meanings (Rider-Waite-Smith) as structured data with lookup helpers \u2014 the open Tarotoo dataset",
   "type": "module",
   "main": "index.js",
   "exports": {
@@ -28,8 +28,11 @@
     "url": "git+https://github.com/Tarotoo-com/tarotoo-tarot-dataset.git",
     "directory": "packages/npm"
   },
-  "homepage": "https://tarotoo.com",
+  "homepage": "https://tarotoo.com/card-meanings-dataset",
   "engines": {
     "node": ">=18"
+  },
+  "bugs": {
+    "url": "https://github.com/Tarotoo-com/tarotoo-tarot-dataset/issues"
   }
 }
