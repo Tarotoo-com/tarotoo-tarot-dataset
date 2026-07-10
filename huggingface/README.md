@@ -138,6 +138,7 @@ The dataset encodes one (widely used) interpretive tradition; other tarot tradit
 ## Related resources
 
 - **Source repository:** [github.com/Tarotoo-com/tarotoo-tarot-dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset)
+- **Dataset paper (Zenodo):** [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778)
 - **MCP server** (query the meanings from AI assistants): [github.com/Tarotoo-com/tarotoo-mcp-server](https://github.com/Tarotoo-com/tarotoo-mcp-server) — `npx -y tarotoo-mcp-server`
 - **Kaggle mirror:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
 - **npm / PyPI packages:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot) · [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)

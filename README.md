@@ -56,6 +56,7 @@ Each card record has the following fields:
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
 - **Tarotoo website:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
+- **Dataset paper (Zenodo):** [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778)
 
 ## Installation & quick start
 
@@ -157,7 +158,7 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 > Tarotoo (2026). *Tarotoo Tarot Card Meanings: A Complete 78-Card Structured Dataset* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21268291
 
-Concept DOI (always resolves to the latest version): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290). See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
+Concept DOI (always resolves to the latest version): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290). The accompanying dataset paper is published separately: [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778). See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
 
 ## Intended Use
 
