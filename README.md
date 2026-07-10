@@ -134,7 +134,7 @@ All interpretive text was created by Tarotoo within the Rider–Waite–Smith tr
 
 ## References
 
-Card meanings follow the Rider–Waite–Smith tradition as codified in these public-domain works:
+Card meanings and correspondences are informed by established works associated with the Rider–Waite–Smith tradition and related Western esoteric systems:
 
 1. Waite, A. E. (1911). *The Pictorial Key to the Tarot*. William Rider & Son. — primary source for card meanings
 2. Hermetic Order of the Golden Dawn (c. 1888–1897). *Book T: The Tarot*. — astrological and elemental attributions
@@ -143,7 +143,7 @@ Card meanings follow the Rider–Waite–Smith tradition as codified in these pu
 5. Ouspensky, P. D. (1913). *The Symbolism of the Tarot*.
 6. Thierens, A. E. (1930). *General Book of the Tarot*.
 
-All referenced works are in the public domain.
+These works were selected for their historical importance and continuing influence on modern tarot interpretation.
 
 ## How Tarotoo uses this dataset
 
