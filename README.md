@@ -159,6 +159,6 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 Concept DOI (always resolves to the latest version): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290). See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
 
-## For entertainment and self-reflection purposes
+## Intended Use
 
-Tarot readings are for entertainment and self-reflection only — not medical, legal, financial, or mental-health advice.
+This dataset is intended for educational, research, creative, entertainment, and self-reflection purposes. It should not be used as a substitute for medical, legal, financial, mental-health, or other professional advice.
