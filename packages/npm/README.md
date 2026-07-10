@@ -35,4 +35,4 @@ Each card has: `id`, `name`, `arcana`, `suit`, `number_numerology`, `element`, `
 
 ## License
 
-Data and code released under the [MIT License](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/blob/main/LICENSE). Attribution to Tarotoo (tarotoo.com) is appreciated. For entertainment and self-reflection purposes only — not medical, legal, financial, or mental-health advice.
+Data and code released under the [MIT License](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/blob/main/LICENSE). Attribution to Tarotoo (tarotoo.com) is appreciated. This dataset is intended for educational, research, creative, entertainment, and self-reflection purposes. It should not be used as a substitute for medical, legal, financial, mental-health, or other professional advice.

@@ -35,7 +35,7 @@ configs:
 
 # Tarotoo Tarot Card Meanings
 
-A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana) in the Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com) as part of its AI transparency initiative: these are the card meanings that ground the AI-generated readings on Tarotoo.com.
+A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana) in the Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com). These are the card meanings that ground the AI-generated readings on Tarotoo.com.
 
 ## Dataset details
 
@@ -118,6 +118,8 @@ Also available as installable packages: `pip install tarotoo-tarot` · `npm inst
 
 ## References
 
+Card meanings and correspondences are informed by established works associated with the Rider–Waite–Smith tradition and related Western esoteric systems:
+
 1. Waite, A. E. (1911). *The Pictorial Key to the Tarot*. William Rider & Son. — primary source for card meanings
 2. Hermetic Order of the Golden Dawn (c. 1888–1897). *Book T: The Tarot*. — astrological attributions
 3. Mathers, S. L. MacGregor (1888). *The Tarot: Its Occult Signification, Use in Fortune-Telling, and Method of Play*.
@@ -125,11 +127,13 @@ Also available as installable packages: `pip install tarotoo-tarot` · `npm inst
 5. Ouspensky, P. D. (1913). *The Symbolism of the Tarot*.
 6. Thierens, A. E. (1930). *General Book of the Tarot*.
 
-All referenced works are in the public domain.
+These works were selected for their historical importance and continuing influence on modern tarot interpretation.
 
-## Considerations
+## Intended Use
 
-Tarot readings are for entertainment and self-reflection only — not medical, legal, financial, or mental-health advice. The dataset encodes one (widely used) interpretive tradition; other tarot traditions assign different meanings and correspondences.
+This dataset is intended for educational, research, creative, entertainment, and self-reflection purposes. It should not be used as a substitute for medical, legal, financial, mental-health, or other professional advice.
+
+The dataset encodes one (widely used) interpretive tradition; other tarot traditions assign different meanings and correspondences.
 
 ## Related resources
 
@@ -137,7 +141,7 @@ Tarot readings are for entertainment and self-reflection only — not medical, l
 - **MCP server** (query the meanings from AI assistants): [github.com/Tarotoo-com/tarotoo-mcp-server](https://github.com/Tarotoo-com/tarotoo-mcp-server) — `npx -y tarotoo-mcp-server`
 - **Kaggle mirror:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
 - **npm / PyPI packages:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot) · [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
-- **Website:** [tarotoo.com](https://tarotoo.com) · [transparency page](https://tarotoo.com/open-data)
+- **Website:** [tarotoo.com](https://tarotoo.com) · [tarotoo.com/open-data](https://tarotoo.com/open-data)
 
 ## Citation
 
