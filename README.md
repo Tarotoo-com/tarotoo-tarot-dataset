@@ -7,7 +7,7 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-yellow)](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
 [![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
 
-A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana), based on the classic Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com) as part of its AI transparency initiative: these are the card meanings that ground the AI-generated readings on Tarotoo.com.
+A complete, structured dataset of all **78 tarot cards** (22 Major Arcana + 56 Minor Arcana), based on the classic Rider–Waite–Smith tradition. Published by [Tarotoo](https://tarotoo.com). These are the card meanings that ground the AI-generated readings on Tarotoo.com.
 
 ## Contents
 
