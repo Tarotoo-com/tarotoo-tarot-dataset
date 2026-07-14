@@ -6,7 +6,8 @@ authors:
   - name: 'Tarotoo'
     website: 'https://tarotoo.com'
 license: MIT
-doi: 10.5281/zenodo.21268290
+version: v1.7.0
+doi: 10.5281/zenodo.21282132
 repository-code: 'https://github.com/Tarotoo-com/tarotoo-tarot-dataset'
 url: 'https://tarotoo.com'
 abstract: >-

@@ -56,7 +56,8 @@ Each card record has the following fields:
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
 - **Tarotoo website:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
-- **Dataset paper (Zenodo):** [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778)
+- **Zenodo — dataset** (data files + dataset paper): [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778)
+- **Zenodo — full repository/archive** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21282132](https://doi.org/10.5281/zenodo.21282132)
 
 ## Installation & quick start
 
@@ -156,9 +157,15 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 ## Citation
 
-> Tarotoo (2026). *Tarotoo Tarot Card Meanings: A Complete 78-Card Structured Dataset* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.21268291
+> Tarotoo (2026). *Tarotoo Tarot Card Meanings: A Complete 78-Card Structured Dataset* (v1.7.0). Zenodo. https://doi.org/10.5281/zenodo.21282132
 
-Concept DOI (always resolves to the latest version): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290). The accompanying dataset paper is published separately: [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778). See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
+**DOI guide:**
+
+- [10.5281/zenodo.21282132](https://doi.org/10.5281/zenodo.21282132) — full repository/archive of this repo, v1.7.0 (dataset, source files, build scripts, automated validation, software packages, documentation)
+- [10.5281/zenodo.21285778](https://doi.org/10.5281/zenodo.21285778) — dataset only (data files + dataset paper)
+- [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) — Concept DOI: not a specific version; always resolves to the latest repository archive
+
+See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
 
 ## Intended Use
 
