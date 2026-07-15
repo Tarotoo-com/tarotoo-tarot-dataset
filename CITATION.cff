@@ -1,6 +1,6 @@
 cff-version: 1.3.0
 message: 'If you use this dataset, please cite it as below.'
-title: 'Tarotoo Tarot Card Meanings: A Complete 78-Card Structured Dataset'
+title: 'Tarotoo Tarot Card Meanings: Complete Dataset Repository and Infrastructure'
 type: dataset
 authors:
   - name: 'Tarotoo'
