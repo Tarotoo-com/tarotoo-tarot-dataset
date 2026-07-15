@@ -58,7 +58,7 @@ Each card record has the following fields:
 - **Dataset homepage:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
 - **Zenodo — dataset** (data files + dataset paper): [10.5281/zenodo.21376445](https://doi.org/10.5281/zenodo.21376445)
 - **Zenodo — dataset** (concept DOI, always resolves to the latest dataset version; data files + dataset paper): [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777)
-- **Zenodo — full repository** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21282132](https://doi.org/10.5281/zenodo.21358505)
+- **Zenodo — full repository** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505)
 
 ## Installation & quick start
 
