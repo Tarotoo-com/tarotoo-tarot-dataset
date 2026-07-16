@@ -48,7 +48,7 @@ Each card record has the following fields:
 | `spiritual`         | string       | Spiritual-growth context (short phrase)                                          |
 | `url`               | string       | Card meaning page on tarotoo.com                                                 |
 
-## Where to get it
+## Access the Dataset and Tools
 
 - **Hugging Face:** [Tarotoo/tarotoo-tarot-card-meanings](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
 - **Kaggle:** [tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
