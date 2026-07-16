@@ -158,7 +158,7 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 ## Citation
 
-> Tarotoo. (2026). Tarotoo Tarot Card Meanings: Complete Dataset Repository and Infrastructure (Version 1.8.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21358505
+> Tarotoo. (2026). Tarotoo Tarot Card Meanings: Complete Dataset Repository and Infrastructure (Version 1.7.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21358505
 
 **DOI guide:**
 
