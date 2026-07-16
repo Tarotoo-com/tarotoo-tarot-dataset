@@ -52,4 +52,3 @@ function tarotoo_card_context( $card_name ) {
 
 4. Add one line to each system prompt: _"Ground each card interpretation in the provided card meanings from the Tarotoo dataset."_
 5. The `yes_no` field replaces the hardcoded Major-Arcana-only mapping in `handle_openai_yesno_tarot` — it covers all 78 cards.
-
