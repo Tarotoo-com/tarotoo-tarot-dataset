@@ -150,7 +150,7 @@ These works were selected for their historical importance and continuing influen
 
 ## How Tarotoo uses this dataset
 
-When a reading is generated on Tarotoo.com, the meanings of the drawn cards are retrieved from this dataset and included in the model prompt, so interpretations are anchored to these published meanings rather than left entirely to the model. See [`docs/integration.md`](docs/integration.md).
+When a reading is generated on Tarotoo.com, the meanings of the drawn cards are retrieved from this dataset and included in the model prompt, so interpretations are anchored to these published meanings rather than left entirely to the model.
 
 ## License
 
