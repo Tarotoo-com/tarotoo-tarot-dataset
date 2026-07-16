@@ -1,4 +1,4 @@
-# Tarotoo Tarot Card Meanings Dataset
+# Tarotoo Tarot Card Meanings Dataset & Developer Tools
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21268290.svg)](https://doi.org/10.5281/zenodo.21268290)
 [![CI](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/actions/workflows/validate.yml/badge.svg)](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/actions)
