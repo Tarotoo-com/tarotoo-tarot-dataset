@@ -58,7 +58,7 @@ Each card record has the following fields:
 - **Dataset homepage:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
 - **Zenodo — dataset** (data files + dataset paper): [10.5281/zenodo.21384778](https://doi.org/10.5281/zenodo.21384778)
 - **Zenodo — dataset** (concept DOI, always resolves to the latest dataset version; data files + dataset paper): [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777)
-- **Zenodo — full repository** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505)
+- **Zenodo — full repository/archive of this repo** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505)
 
 ## Installation & quick start
 
@@ -162,7 +162,7 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 **DOI guide:**
 
-- [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505) — full repository/archive of this repo, v1.8.0 (dataset, source files, build scripts, automated validation, software packages, documentation)
+- [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505) — full repository/archive of this repo (dataset, source files, build scripts, automated validation, software packages, documentation)
 - [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) — Concept DOI: not a specific version; always resolves to the latest repository archive
 - [10.5281/zenodo.21384778](https://doi.org/10.5281/zenodo.21384778) — dataset only (data files + dataset paper)
 - [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) — dataset only, concept DOI (data files + dataset paper; always resolves to the latest dataset version)
