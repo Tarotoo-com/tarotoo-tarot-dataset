@@ -1,10 +1,10 @@
-# How Tarotoo grounds its readings in this dataset (technical overview)
+# How Tarotoo integrates this dataset into its readings (technical overview)
 
-Tarotoo's readings use retrieval-augmented generation (RAG). Because the corpus is a fixed set of 78 records, retrieval is a **deterministic dictionary lookup by card name**, with no embeddings and no vector search. This document describes the technique so the same grounding can be reproduced from the published data. The examples are illustrative (they are not the production code); the point is the method, which works in any language or stack.
+Tarotoo's reading pipeline grounds every interpretation in this dataset using retrieval-augmented generation (RAG). Because the corpus is a fixed set of 78 records, retrieval is a **deterministic dictionary lookup by card name**, with no embeddings and no vector search. This document explains how the integration works at a technical level. The code samples are illustrative of the method, not the production source.
 
-## 1. Load the data into a lookup
+## Where the data lives
 
-The dataset is small enough to load once and index in memory, keyed by lowercased card name:
+A copy of the dataset (`cards.json`, pinned to a specific release) is deployed server-side with the application. It is read once, parsed, and indexed in memory by lowercased card name, so lookups are O(1) and no external request is made while a reading is generated. Moving the readings to a newer release of the dataset is a matter of swapping the data file.
 
 ```python
 import json
@@ -16,22 +16,20 @@ def get_card(name):
     return cards.get(name.strip().lower())
 ```
 
-You can also install the helper package (`pip install tarotoo-tarot` or `npm i tarotoo-tarot`), which ships the same data with lookup functions built in.
+## How a reading is grounded
 
-## 2. Select the interpretation fields
+When a reader draws cards, the pipeline looks up each drawn card in the in-memory index, pulls the fields that inform an interpretation, and adds them to the model prompt as a grounding block. The same mechanism is applied across the reading types (single card, three-card, love, daily).
 
-Only the fields that inform an interpretation are pulled for each drawn card:
+The fields used per card:
 
 - `name`
 - `keywords_upright`
 - `meaning_upright`
 - `love`, `career`, `mood`, `spiritual`
 
-Fields that do not affect a standard reading (reversed keywords and meanings, `url`, and catalog fields such as `arcana`, `suit`, and `element`) are deliberately left out to keep the prompt focused and token-efficient.
+Fields that do not affect a standard reading (reversed keywords and meanings, `url`, and catalog fields such as `arcana`, `suit`, and `element`) are left out to keep the prompt focused and token-efficient.
 
-## 3. Build a grounding block and add it to the prompt
-
-Each drawn card becomes one line of reference text, appended to the reader's message:
+Each drawn card becomes one line of reference text:
 
 ```python
 def card_context(name):
@@ -48,11 +46,11 @@ def grounding_block(names):
             "(ground each interpretation in these):\n" + "\n".join(lines))
 ```
 
-The model's system prompt carries one added instruction, *"Ground each card interpretation in the provided card meanings from the Tarotoo dataset"*, and the user message carries the question plus this grounding block. The retrieved meanings steer the interpretation, while the model still writes naturally around the reader's specific question.
+The model's system prompt carries one added instruction, *"Ground each card interpretation in the provided card meanings from the Tarotoo dataset"*, and the reader's message carries the question plus this grounding block. The retrieved meanings steer the interpretation while the model still writes naturally around the reader's specific question.
 
-## 4. Yes/no readings
+## Yes/no readings
 
-For yes/no spreads, the dataset's `yes_no` field (`yes`, `no`, or `maybe`) supplies the verdict for all 78 cards directly, replacing any hand-maintained lookup:
+For yes/no spreads, the dataset's `yes_no` field (`yes`, `no`, or `maybe`) supplies the verdict for all 78 cards directly, replacing any hand-maintained mapping:
 
 ```python
 def yes_no(name):
@@ -60,6 +58,6 @@ def yes_no(name):
     return c["yes_no"] if c else "maybe"
 ```
 
-## Performance
+## Why it is built this way
 
-Because the corpus is a fixed 78-record file, it is read and indexed once per process and served from memory: each lookup is O(1), adds no measurable latency to a reading, and needs no external call at read time. Updating the readings to a new release of the dataset is a matter of swapping the data file.
+Grounding readings in a published, versioned dataset makes them consistent and inspectable: anyone can open this dataset and see the exact meanings a reading was based on. Because the lookup is deterministic and served from local memory, grounding adds no measurable latency and no runtime dependency on an external service. And because the site draws from the same source released here, any improvement to the published meanings flows straight through to the live readings.
