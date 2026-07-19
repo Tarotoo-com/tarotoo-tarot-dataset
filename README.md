@@ -134,7 +134,7 @@ python3 scripts/build.py
 
 ## Methodology
 
-All interpretive text was created by Tarotoo within the Rider–Waite–Smith tradition, drawing on established tarot sources — primarily A. E. Waite's _The Pictorial Key to the Tarot_ (1911). Planet and zodiac correspondences follow classical rulerships and the decan system documented in the Golden Dawn's _Book T_, with widely adopted modern associations used for a small number of cards that do not have traditional planetary assignments. Yes/no values draw on widely used modern interpretive conventions, with classifications based on each card's overall upright meaning. Each card was reviewed for consistency in tone, terminology, and structure across the complete deck.
+All interpretive text was created by Tarotoo within the Rider–Waite–Smith tradition, drawing on established tarot sources — primarily A. E. Waite's _The Pictorial Key to the Tarot_ (1911). Planet and zodiac correspondences follow classical rulerships and the decan system documented in the Golden Dawn's _Book T_, with widely adopted modern associations used for a small number of cards that do not have traditional planetary assignments. Yes/no values draw on widely used modern interpretive conventions and input from tarot experts Tarotoo have collaborated with, based on each card’s upright meaning. Each card was reviewed for consistency in tone, terminology, and structure across the complete deck.
 
 ## References
 
