@@ -1,7 +1,7 @@
-cff-version: 1.3.0
-message: 'If you use this dataset, please cite it as below.'
+cff-version: 1.2.0
+message: 'If you use this repository, its dataset infrastructure, or its software tools, please cite it using the metadata below.'
 title: 'Tarotoo Tarot Card Meanings: Complete Dataset Repository and Infrastructure'
-type: dataset
+type: software
 authors:
   - name: 'Tarotoo'
     website: 'https://tarotoo.com'
@@ -9,17 +9,22 @@ license: MIT
 version: 1.7.1
 doi: 10.5281/zenodo.21358505
 repository-code: 'https://github.com/Tarotoo-com/tarotoo-tarot-dataset'
-url: 'https://tarotoo.com'
+url: 'https://tarotoo.com/open-data'
 abstract: >-
-  A structured dataset of all 78 tarot cards (Major and Minor Arcana) in the
-  Rider-Waite-Smith tradition, including upright and reversed meanings,
-  keywords, love and career contexts, elemental and astrological
-  associations, and yes/no values. Published by Tarotoo as the grounding
+  An open-source repository containing a structured dataset of all 78 tarot
+  cards within the Rider–Waite–Smith tradition, together with editable source
+  data, build and validation scripts, documentation, and JavaScript and Python
+  packages with lookup utilities. The dataset includes upright and reversed
+  meanings, keywords, thematic interpretations, elemental and astrological
+  associations, and yes/no values, and is used as the symbolic grounding
   source for AI-generated tarot readings on tarotoo.com.
 keywords:
   - tarot
   - tarot cards
-  - card meanings
-  - rider-waite-smith
+  - tarot card meanings
+  - Rider–Waite–Smith
   - dataset
-  - divination
+  - open data
+  - developer tools
+  - JavaScript
+  - Python
