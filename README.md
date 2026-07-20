@@ -168,6 +168,8 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 - [10.5281/zenodo.21384778](https://doi.org/10.5281/zenodo.21384778) — dataset only (data files + dataset paper)
 - [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) — dataset only, concept DOI (data files + dataset paper; always resolves to the latest dataset version)
 
+**Version alignment:** Zenodo dataset version 1.7.1 was published to add the accompanying readme file. The underlying dataset files are unchanged from GitHub release v1.7.0; no card records or fields were modified.
+
 
 See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
 
