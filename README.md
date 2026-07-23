@@ -60,9 +60,8 @@ Each card record has the following fields:
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
 - **Dataset homepage:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
-- **Zenodo — dataset** (data files + dataset paper): [10.5281/zenodo.21384778](https://doi.org/10.5281/zenodo.21384778)
-- **Zenodo — dataset** (concept DOI, always resolves to the latest dataset version; data files + dataset paper): [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777)
-- **Zenodo — full repository/archive of this repo** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505)
+- **Zenodo — dataset** (concept DOI, always resolves to the latest dataset version; dataset + dataset paper): [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777)
+- **Zenodo — full repository/archive of this repo** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519)
 - **Zenodo — full repository/archive of this repo** (Concept DOI): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290)
 
 ## Installation & quick start
@@ -163,16 +162,13 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 ## Citation
 
-> Tarotoo. (2026). Tarotoo Tarot Card Meanings: Complete Dataset Repository and Infrastructure (Version 1.7.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21358505
+> Tarotoo. (2026). Tarotoo Tarot Card Meanings: Complete Dataset Repository and Infrastructure (Version 2.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21514519
 
 **DOI guide:**
 
-- [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21358505) — full repository/archive of this repo (dataset, source files, build scripts, automated validation, software packages, documentation)
+- [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21514519) — full repository/archive of this repo (dataset, source files, build scripts, automated validation, software packages, documentation)
 - [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) — Concept DOI: not a specific version; always resolves to the latest repository archive
-- [10.5281/zenodo.21384778](https://doi.org/10.5281/zenodo.21384778) — dataset only (data files + dataset paper)
 - [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) — dataset only, concept DOI (data files + dataset paper; always resolves to the latest dataset version)
-
-**Version alignment:** Zenodo dataset version 1.7.1 was published to add the accompanying readme file. The underlying dataset files are unchanged from GitHub release v1.7.0; no card records or fields were modified.
 
 
 See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
