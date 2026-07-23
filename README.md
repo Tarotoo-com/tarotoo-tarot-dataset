@@ -166,7 +166,7 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 **DOI guide:**
 
-- [10.5281/zenodo.21358505](https://doi.org/10.5281/zenodo.21514519) — full repository/archive of this repo (dataset, source files, build scripts, automated validation, software packages, documentation)
+- [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519) — full repository/archive of this repo (dataset, source files, build scripts, automated validation, software packages, documentation)
 - [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) — Concept DOI: not a specific version; always resolves to the latest repository archive
 - [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) — dataset only, concept DOI (data files + dataset paper; always resolves to the latest dataset version)
 
