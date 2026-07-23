@@ -23,13 +23,12 @@
       "harsh words",
       "false clarity"
     ],
-    "meaning_upright": "Clarity, breakthrough, truth, new idea, and mental sharpness.",
-    "meaning_reversed": "Confusion, clouded judgment, misused intellect, harsh words, and false clarity.",
-    "love": "Honest conversation, clarity about feelings and intentions, even when it's uncomfortable.",
-    "career": "A breakthrough idea or decisive clarity about direction, act on the insight.",
+    "meaning_upright": "Clarity, breakthrough, truth, new idea, mental sharpness.",
+    "meaning_reversed": "Confusion, clouded judgment, misused intellect, harsh words, false clarity.",
+    "love": "honest communication, relationship clarity, revealing the truth, a decisive romantic conversation",
+    "career": "breakthrough idea, decisive communication, intellectual clarity, new professional strategy",
     "mood": "Sharp, alert.",
-    "spiritual": "Revelation, truth arriving like light, careful honest speech.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ace-of-swords"
+    "spiritual": "spiritual breakthrough, clarity of truth, awakened perception, cutting through illusion"
   },
   {
     "id": 51,
@@ -55,13 +54,12 @@
       "anxiety",
       "release of denial"
     ],
-    "meaning_upright": "Stalemate, difficult choice, avoidance, blocked feelings, and truce.",
-    "meaning_reversed": "Decision forced, information revealed, stalemate breaking, anxiety, and release of denial.",
-    "love": "Avoidance of a hard conversation or a heart guarded behind crossed swords.",
-    "career": "A decision being postponed, gather the missing facts and choose.",
+    "meaning_upright": "Stalemate, difficult choice, avoidance, blocked feelings, truce.",
+    "meaning_reversed": "Decision forced, information revealed, stalemate breaking, anxiety, release of denial.",
+    "love": "romantic indecision, emotional stalemate, avoiding a decision, blocked communication",
+    "career": "career indecision, stalled negotiation, avoiding a professional choice, limited information",
     "mood": "Torn, guarded.",
-    "spiritual": "Stillness before decision, closing the eyes to the noise so inner counsel can be heard.",
-    "url": "https://tarotoo.com/tarot-card-meanings/two-of-swords"
+    "spiritual": "blocked intuition, spiritual indecision, inner conflict, finding stillness before choosing"
   },
   {
     "id": 52,
@@ -87,13 +85,12 @@
       "recovery",
       "old wounds resurfacing"
     ],
-    "meaning_upright": "Heartbreak, painful truth, grief, sorrow, and separation.",
-    "meaning_reversed": "Healing heartbreak, forgiveness, releasing pain, recovery, and old wounds resurfacing.",
-    "love": "Heartbreak, hard truths, or separation, grief that must be felt before it can pass.",
-    "career": "A painful disappointment or harsh feedback that, once absorbed, clarifies the path.",
+    "meaning_upright": "Heartbreak, painful truth, grief, sorrow, separation.",
+    "meaning_reversed": "Healing heartbreak, forgiveness, releasing pain, recovery, old wounds resurfacing.",
+    "love": "heartbreak, separation, painful truth, emotional betrayal",
+    "career": "professional disappointment, workplace conflict, job rejection, difficult feedback",
     "mood": "Hurt, raw.",
-    "spiritual": "Heartbreak as opening, pain that names exactly what needs healing, so healing can begin.",
-    "url": "https://tarotoo.com/tarot-card-meanings/three-of-swords"
+    "spiritual": "truth revealed through pain, healing spiritual wounds, releasing sorrow, growth through acceptance"
   },
   {
     "id": 53,
@@ -119,13 +116,12 @@
       "returning to action",
       "exhaustion ignored"
     ],
-    "meaning_upright": "Rest, recovery, retreat, stillness, and recharging.",
-    "meaning_reversed": "Burnout, restlessness, forced rest, returning to action, and exhaustion ignored.",
-    "love": "A pause to breathe and reflect rather than pushing the relationship's questions right now.",
-    "career": "Genuine downtime and recovery before performance suffers.",
+    "meaning_upright": "Rest, recovery, retreat, stillness, recharging.",
+    "meaning_reversed": "Burnout, restlessness, forced rest, returning to action, exhaustion ignored.",
+    "love": "taking space in a relationship, emotional recovery, temporary separation, time to reflect",
+    "career": "career break, recovery from burnout, strategic pause, preparing your next move",
     "mood": "Quiet, tired.",
-    "spiritual": "Rest as sacred practice, retreat, meditation, and silence as the soul's repair.",
-    "url": "https://tarotoo.com/tarot-card-meanings/four-of-swords"
+    "spiritual": "meditation and retreat, spiritual rest, mental renewal, quiet integration"
   },
   {
     "id": 54,
@@ -151,13 +147,12 @@
       "lingering grudges",
       "lesson learned"
     ],
-    "meaning_upright": "Hollow victory, conflict, winning at all costs, discord, and self-interest.",
-    "meaning_reversed": "Reconciliation, making amends, releasing resentment, lingering grudges, and lesson learned.",
-    "love": "Fights where winning the point loses the person, pride is the real opponent.",
-    "career": "Cutthroat dynamics, hollow wins, burned bridges, long-term costs to weigh.",
+    "meaning_upright": "Hollow victory, conflict, winning at all costs, discord, self-interest.",
+    "meaning_reversed": "Reconciliation, making amends, releasing resentment, lingering grudges, lesson learned.",
+    "love": "relationship conflict, hurtful communication, selfish behavior, winning at the cost of intimacy",
+    "career": "workplace conflict, unethical competition, damaged professional trust, hollow victory",
     "mood": "Bitter, conflicted.",
-    "spiritual": "Choosing peace over victory, releasing the need to be right in favor of what is whole.",
-    "url": "https://tarotoo.com/tarot-card-meanings/five-of-swords"
+    "spiritual": "examining ego conflict, consequences of harmful choices, spiritual humility, choosing peace over victory"
   },
   {
     "id": 55,
@@ -183,13 +178,12 @@
       "returning to trouble",
       "stuck baggage"
     ],
-    "meaning_upright": "Transition, moving on, calmer waters, passage, and gradual healing.",
-    "meaning_reversed": "Resisting transition, unfinished business, rough crossing, returning to trouble, and stuck baggage.",
-    "love": "Moving past a rough patch together, or transitioning out of a relationship toward peace.",
-    "career": "A transition, new role, new environment, that trades turbulence for steadier progress.",
+    "meaning_upright": "Transition, moving on, calmer waters, passage, gradual healing.",
+    "meaning_reversed": "Resisting transition, unfinished business, rough crossing, returning to trouble, stuck baggage.",
+    "love": "moving on from conflict, emotional transition, healing together, leaving relationship difficulties behind",
+    "career": "moving to a better role, gradual career recovery, relocation for work, leaving difficulties behind",
     "mood": "Subdued but relieved.",
-    "spiritual": "Passage, carrying the lessons while letting the shore of suffering recede.",
-    "url": "https://tarotoo.com/tarot-card-meanings/six-of-swords"
+    "spiritual": "spiritual transition, moving toward clarity, gradual healing, leaving troubled thoughts behind"
   },
   {
     "id": 56,
@@ -215,13 +209,12 @@
       "coming clean",
       "self-deception revealed"
     ],
-    "meaning_upright": "Deception, strategy, acting alone, getting away with it, and cunning.",
-    "meaning_reversed": "Confession, conscience, exposure, coming clean, and self-deception revealed.",
-    "love": "Hidden agendas, secrets, or avoidance of honest confrontation.",
-    "career": "Office politics, cut corners, uncredited ideas, work worth guarding.",
+    "meaning_upright": "Deception, strategy, acting alone, getting away with it, cunning.",
+    "meaning_reversed": "Confession, conscience, exposure, coming clean, self-deception revealed.",
+    "love": "secrecy, dishonesty in love, avoiding commitment, hidden motives",
+    "career": "strategic planning, office politics, working independently, questionable professional tactics",
     "mood": "Wary, calculating.",
-    "spiritual": "Honesty with self, noticing where cleverness hides avoidance and choosing the direct path.",
-    "url": "https://tarotoo.com/tarot-card-meanings/seven-of-swords"
+    "spiritual": "self-deception, hidden motives, spiritual avoidance, need for honesty and integrity"
   },
   {
     "id": 57,
@@ -247,13 +240,12 @@
       "blindfold removed",
       "taking responsibility"
     ],
-    "meaning_upright": "Feeling trapped, self-restriction, victim mindset, mental prison, and paralysis.",
-    "meaning_reversed": "Liberation, new perspective, self-empowerment, blindfold removed, and taking responsibility.",
-    "love": "Feeling stuck in a dynamic that beliefs, not circumstances, are maintaining.",
-    "career": "Feeling trapped in a role, the constraints deserve testing, most are assumptions.",
+    "meaning_upright": "Feeling trapped, self-restriction, victim mindset, mental prison, paralysis.",
+    "meaning_reversed": "Liberation, new perspective, self-empowerment, blindfold removed, taking responsibility.",
+    "love": "feeling trapped in a relationship, fear of leaving, limiting beliefs about love, emotional powerlessness",
+    "career": "feeling trapped at work, professional self-doubt, limited options, need for a new perspective",
     "mood": "Anxious, stuck.",
-    "spiritual": "Freeing the mind, seeing that most cages are beliefs, and beliefs can be set down.",
-    "url": "https://tarotoo.com/tarot-card-meanings/eight-of-swords"
+    "spiritual": "self-imposed spiritual limits, restrictive beliefs, fear-based thinking, recognizing inner freedom"
   },
   {
     "id": 58,
@@ -279,13 +271,12 @@
       "perspective returning",
       "recovery from despair"
     ],
-    "meaning_upright": "Anxiety, sleepless nights, worry, dread, and mental anguish.",
-    "meaning_reversed": "Easing anxiety, facing fears, seeking help, perspective returning, and recovery from despair.",
-    "love": "Anxiety and worst-case spirals, fears best checked against reality.",
-    "career": "Stress and dread outpacing the actual situation, name the worry and it shrinks.",
+    "meaning_upright": "Anxiety, sleepless nights, worry, dread, mental anguish.",
+    "meaning_reversed": "Easing anxiety, facing fears, seeking help, perspective returning, recovery from despair.",
+    "love": "relationship anxiety, fear of rejection, guilt or regret, overthinking love",
+    "career": "job anxiety, fear of failure, work-related stress, overthinking career problems",
     "mood": "Distressed, sleepless.",
-    "spiritual": "Meeting fear with compassion, naming the dread aloud so daylight can right-size it.",
-    "url": "https://tarotoo.com/tarot-card-meanings/nine-of-swords"
+    "spiritual": "spiritual anxiety, confronting fear, shadow thoughts, seeking peace through awareness"
   },
   {
     "id": 59,
@@ -311,13 +302,12 @@
       "old wounds closing",
       "refusing the final lesson"
     ],
-    "meaning_upright": "Painful ending, rock bottom, betrayal, collapse, and the worst is over.",
-    "meaning_reversed": "Recovery, rising again, surviving the ending, old wounds closing, and refusing the final lesson.",
-    "love": "A painful but final ending or betrayal, the closure, however harsh, frees what comes next.",
-    "career": "A project or role collapsing completely, salvage the lesson and rebuild elsewhere.",
+    "meaning_upright": "Painful ending, rock bottom, betrayal, collapse, the worst is over.",
+    "meaning_reversed": "Recovery, rising again, surviving the ending, old wounds closing, refusing the final lesson.",
+    "love": "painful ending, betrayal, relationship collapse, accepting that a romantic chapter is over",
+    "career": "job ending, failed project, professional betrayal, final career closure",
     "mood": "Defeated, drained.",
-    "spiritual": "Surrender and rebirth, lying down with what is over so the sunrise can begin something new.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ten-of-swords"
+    "spiritual": "ending a painful cycle, surrender after crisis, spiritual closure, beginning again after collapse"
   },
   {
     "id": 60,
@@ -343,13 +333,12 @@
       "spying",
       "all talk"
     ],
-    "meaning_upright": "Curiosity, vigilance, new ideas, mental energy, and truth-seeking.",
-    "meaning_reversed": "Gossip, hasty words, scattered thinking, spying, and all talk.",
-    "love": "Probing questions and honest talk, though reversed it warns of suspicion or gossip corroding trust.",
-    "career": "Research, due diligence, and fresh ideas, verify before broadcasting.",
+    "meaning_upright": "Curiosity, vigilance, new ideas, mental energy, truth-seeking.",
+    "meaning_reversed": "Gossip, hasty words, scattered thinking, spying, all talk.",
+    "love": "curious communication, watching from a distance, cautious interest, questioning a partner’s intentions",
+    "career": "professional research, sharp communication, new learning, monitoring opportunities",
     "mood": "Inquisitive, alert.",
-    "spiritual": "Truth-seeking, the watchful mind as a young guardian of honesty.",
-    "url": "https://tarotoo.com/tarot-card-meanings/page-of-swords"
+    "spiritual": "questioning beliefs, spiritual study, alert observation, seeking truth with curiosity"
   },
   {
     "id": 61,
@@ -375,13 +364,12 @@
       "burnout sprint",
       "verbal attacks"
     ],
-    "meaning_upright": "Decisive action, ambition, directness, charging ahead, and intellectual drive.",
-    "meaning_reversed": "Recklessness, aggression, rushing past details, burnout sprint, and verbal attacks.",
-    "love": "Intense, fast-moving pursuit, exciting but potentially inconsiderate of a partner's pace.",
-    "career": "Bold, rapid execution of a clear plan, guard against steamrolling colleagues.",
+    "meaning_upright": "Decisive action, ambition, directness, charging ahead, intellectual drive.",
+    "meaning_reversed": "Recklessness, aggression, rushing past details, burnout sprint, verbal attacks.",
+    "love": "direct romantic pursuit, intense conversations, rushing into a relationship, conflict through impulsive words",
+    "career": "fast career decisions, forceful ambition, intense debate, rushing into action",
     "mood": "Intense, hasty.",
-    "spiritual": "Focus tempered, aiming the mind's speed so conviction doesn't outrun wisdom.",
-    "url": "https://tarotoo.com/tarot-card-meanings/knight-of-swords"
+    "spiritual": "intense pursuit of truth, forceful conviction, mental urgency, balancing action with reflection"
   },
   {
     "id": 62,
@@ -407,13 +395,12 @@
       "isolation",
       "cynicism"
     ],
-    "meaning_upright": "Clear judgment, independence, honest communication, boundaries, and experienced wisdom.",
-    "meaning_reversed": "Coldness, bitterness, harsh criticism, isolation, and cynicism.",
-    "love": "Honesty and independence, genuine connection must respect her boundaries and intelligence.",
-    "career": "Sharp judgment and fair, direct leadership, say the true thing kindly.",
+    "meaning_upright": "Clear judgment, independence, honest communication, boundaries, experienced wisdom.",
+    "meaning_reversed": "Coldness, bitterness, harsh criticism, isolation, cynicism.",
+    "love": "clear boundaries, emotional independence, honest expectations, discerning relationship choices",
+    "career": "objective judgment, clear professional boundaries, independent expertise, direct communication",
     "mood": "Clear, composed.",
-    "spiritual": "Discernment, truth with compassion, boundaries held with grace.",
-    "url": "https://tarotoo.com/tarot-card-meanings/queen-of-swords"
+    "spiritual": "spiritual discernment, honest self-reflection, clear energetic boundaries, wisdom through experience"
   },
   {
     "id": 63,
@@ -439,12 +426,11 @@
       "rigid logic",
       "unjust judgment"
     ],
-    "meaning_upright": "Intellectual authority, truth, impartial judgment, strategy, and ethical clarity.",
-    "meaning_reversed": "Abuse of intellect, cold ruthlessness, manipulation, rigid logic, and unjust judgment.",
-    "love": "Rational steadiness that must remember to speak the heart's language too.",
-    "career": "Authoritative expertise, legal or strategic matters, and decisions that must be scrupulously fair.",
+    "meaning_upright": "Intellectual authority, truth, impartial judgment, strategy, ethical clarity.",
+    "meaning_reversed": "Abuse of intellect, cold ruthlessness, manipulation, rigid logic, unjust judgment.",
+    "love": "rational approach to love, serious communication, emotional restraint, fair and thoughtful partnership",
+    "career": "strategic leadership, authority through knowledge, ethical decisions, analytical mastery",
     "mood": "Rational, authoritative.",
-    "spiritual": "The ethical mind, clarity serving fairness, intellect answering to principle.",
-    "url": "https://tarotoo.com/tarot-card-meanings/king-of-swords"
+    "spiritual": "higher reasoning, ethical spiritual authority, disciplined thought, commitment to truth"
   }
 ]

@@ -105,11 +105,6 @@
             "name": "spiritual",
             "type": "string",
             "description": "Spiritual-growth context (short phrase)"
-          },
-          {
-            "name": "url",
-            "type": "string",
-            "description": "Card meaning page on tarotoo.com"
           }
         ]
       }

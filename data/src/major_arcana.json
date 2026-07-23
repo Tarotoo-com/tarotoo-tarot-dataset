@@ -23,13 +23,12 @@
       "poor judgment",
       "fear of change"
     ],
-    "meaning_upright": "New beginnings, spontaneity, innocence, leap of faith, and free spirit.",
-    "meaning_reversed": "Recklessness, hesitation, naivety, poor judgment, and fear of change.",
-    "love": "A fresh romantic chapter, playful energy, and following the heart without guarantees.",
-    "career": "A new venture, role, or idea that rewards courage and an open mind over rigid planning.",
+    "meaning_upright": "New beginnings, spontaneity, innocence, leap of faith, free spirit.",
+    "meaning_reversed": "Recklessness, hesitation, naivety, poor judgment, fear of change.",
+    "love": "new romance, emotional openness, spontaneous connection, taking a chance on love",
+    "career": "new career path, taking a professional risk, entrepreneurial leap, learning through experience",
     "mood": "Light, curious, playful.",
-    "spiritual": "Beginner's mind, trusting the journey before the map exists and treating the unknown as sacred ground.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-fool"
+    "spiritual": "spiritual beginning, trust in the journey, openness to the unknown, following inner guidance"
   },
   {
     "id": 1,
@@ -55,13 +54,12 @@
       "trickery",
       "illusion"
     ],
-    "meaning_upright": "Manifestation, willpower, resourcefulness, skill, and focused action.",
-    "meaning_reversed": "Manipulation, untapped talent, scattered energy, trickery, and illusion.",
-    "love": "Attraction built on confidence and communication, and the power to actively create the relationship you want.",
-    "career": "Skill meeting opportunity, a strong moment to pitch, launch, or negotiate.",
+    "meaning_upright": "Manifestation, willpower, resourcefulness, skill, focused action.",
+    "meaning_reversed": "Manipulation, untapped talent, scattered energy, trickery, illusion.",
+    "love": "strong attraction, romantic initiative, clear intentions, creating the relationship you desire",
+    "career": "skillful execution, using available resources, career initiative, turning ideas into results",
     "mood": "Confident, energized.",
-    "spiritual": "Alignment, bringing thought, word, and action into one channel so intention becomes creation.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-magician"
+    "spiritual": "focused intention, conscious manifestation, aligning will and action, recognizing personal power"
   },
   {
     "id": 2,
@@ -87,13 +85,12 @@
       "hidden agendas",
       "surface knowledge"
     ],
-    "meaning_upright": "Intuition, inner wisdom, mystery, the subconscious, and stillness.",
-    "meaning_reversed": "Ignored intuition, secrets, disconnection from self, hidden agendas, and surface knowledge.",
-    "love": "Unspoken feelings and undercurrents, trust what is sensed rather than only what is said.",
-    "career": "Watching and listening before acting, information is still hidden and patience reveals it.",
+    "meaning_upright": "Intuition, inner wisdom, mystery, the subconscious, stillness.",
+    "meaning_reversed": "Ignored intuition, secrets, disconnection from self, hidden agendas, surface knowledge.",
+    "love": "unspoken feelings, emotional intuition, hidden attraction, a private or mysterious connection",
+    "career": "trusting professional intuition, working behind the scenes, confidential matters, patient observation",
     "mood": "Quiet, inward, softly mysterious.",
-    "spiritual": "The inner voice, intuition, dreams, and knowledge that arrives in stillness rather than study.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-high-priestess"
+    "spiritual": "inner wisdom, sacred mystery, intuitive awareness, listening to the subconscious"
   },
   {
     "id": 3,
@@ -119,13 +116,12 @@
       "dependence",
       "stagnation"
     ],
-    "meaning_upright": "Abundance, nurturing, fertility, creativity, and sensuality.",
-    "meaning_reversed": "Creative block, smothering, self-neglect, dependence, and stagnation.",
-    "love": "Deepening affection, nurturing partnership, and sensual connection.",
-    "career": "Creative projects and steady cultivation, what is tended now will bear fruit.",
+    "meaning_upright": "Abundance, nurturing, fertility, creativity, sensuality.",
+    "meaning_reversed": "Creative block, smothering, self-neglect, dependence, stagnation.",
+    "love": "nurturing love, affection, sensuality, emotional abundance",
+    "career": "creative growth, supportive workplace, productive abundance, nurturing a project",
     "mood": "Warm, sensual, content.",
-    "spiritual": "Abundance, creation flowing through care, tending as devotion.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-empress"
+    "spiritual": "connection with nature, creative life force, receptive abundance, nurturing spiritual growth"
   },
   {
     "id": 4,
@@ -151,13 +147,12 @@
       "lack of discipline",
       "abuse of power"
     ],
-    "meaning_upright": "Structure, authority, stability, leadership, and discipline.",
-    "meaning_reversed": "Rigidity, control issues, domination, lack of discipline, and abuse of power.",
-    "love": "A stabilizing, protective presence, though it cautions against controlling behavior replacing warmth.",
-    "career": "Leadership, order, and long-term building, take responsibility and set the framework.",
+    "meaning_upright": "Structure, authority, stability, leadership, discipline.",
+    "meaning_reversed": "Rigidity, control issues, domination, lack of discipline, abuse of power.",
+    "love": "commitment, stability, protection, a structured relationship",
+    "career": "leadership, structure, authority, long-term career stability",
     "mood": "Steady, resolute, composed.",
-    "spiritual": "Discipline as devotion, structure and healthy boundaries as ways of honoring what matters.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-emperor"
+    "spiritual": "spiritual discipline, inner authority, grounded leadership, creating stable foundations"
   },
   {
     "id": 5,
@@ -183,13 +178,12 @@
       "dogma",
       "breaking rules"
     ],
-    "meaning_upright": "Tradition, guidance, shared values, institutions, and mentorship.",
-    "meaning_reversed": "Rebellion, questioning convention, restriction, dogma, and breaking rules.",
-    "love": "Commitment and shared values, sometimes literally marriage or formalizing a bond.",
-    "career": "Established institutions, mentorship, and proven methods over improvisation.",
+    "meaning_upright": "Tradition, guidance, shared values, institutions, mentorship.",
+    "meaning_reversed": "Rebellion, questioning convention, restriction, dogma, breaking rules.",
+    "love": "traditional commitment, shared values, marriage, spiritual partnership",
+    "career": "established institutions, mentorship, formal training, conventional career path",
     "mood": "Reflective, respectful.",
-    "spiritual": "Lineage, wisdom passed down through teachers, tradition, and shared practice.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-hierophant"
+    "spiritual": "spiritual tradition, sacred teachings, mentorship, shared beliefs and ritual"
   },
   {
     "id": 6,
@@ -215,13 +209,12 @@
       "temptation",
       "imbalance"
     ],
-    "meaning_upright": "Love, union, alignment, meaningful choice, and harmony.",
-    "meaning_reversed": "Disharmony, misalignment, avoidance of choice, temptation, and imbalance.",
-    "love": "Genuine union, mutual attraction, and a relationship built on real compatibility.",
-    "career": "A values-based crossroads or a partnership that must be chosen deliberately.",
+    "meaning_upright": "Love, union, alignment, meaningful choice, harmony.",
+    "meaning_reversed": "Disharmony, misalignment, avoidance of choice, temptation, imbalance.",
+    "love": "deep connection, mutual attraction, relationship choices, emotional alignment",
+    "career": "aligned career choice, productive partnership, values-based decision, important professional commitment",
     "mood": "Tender, heart-open.",
-    "spiritual": "Union and alignment, choices from the soul, love and values pointing the same way.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-lovers"
+    "spiritual": "alignment with core values, sacred union, conscious choice, integrating inner opposites"
   },
   {
     "id": 7,
@@ -247,13 +240,12 @@
       "scattered forces",
       "loss of control"
     ],
-    "meaning_upright": "Determination, victory, willpower, self-control, and momentum.",
-    "meaning_reversed": "Lack of direction, aggression, obstacles, scattered forces, and loss of control.",
-    "love": "Pursuing the relationship with intention and overcoming distance or obstacles together.",
-    "career": "Ambition rewarded, drive, focus, and control carry a project across the line.",
+    "meaning_upright": "Determination, victory, willpower, self-control, momentum.",
+    "meaning_reversed": "Lack of direction, aggression, obstacles, scattered forces, loss of control.",
+    "love": "pursuing love, relationship progress, shared direction, overcoming romantic obstacles",
+    "career": "ambition, focused progress, overcoming competition, taking control of your career",
     "mood": "Driven, determined.",
-    "spiritual": "Mastery of opposites, willpower as practice, conflicting forces steered toward one aim.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-chariot"
+    "spiritual": "spiritual determination, directing inner forces, disciplined progress, mastery through focus"
   },
   {
     "id": 8,
@@ -279,13 +271,12 @@
       "insecurity",
       "forcing"
     ],
-    "meaning_upright": "Courage, inner strength, patience, compassion, and gentle power.",
-    "meaning_reversed": "Self-doubt, raw emotion, impatience, insecurity, and forcing.",
-    "love": "Patience, emotional honesty, and a bond that grows through gentleness rather than pressure.",
-    "career": "Persistence and calm confidence over aggressive tactics, influence beats force.",
+    "meaning_upright": "Courage, inner strength, patience, compassion, gentle power.",
+    "meaning_reversed": "Self-doubt, raw emotion, impatience, insecurity, forcing.",
+    "love": "patience in love, gentle devotion, emotional courage, compassionate support",
+    "career": "quiet leadership, professional confidence, patience under pressure, managing challenges with composure",
     "mood": "Calm courage.",
-    "spiritual": "Gentleness as power, compassion taming the inner beast.",
-    "url": "https://tarotoo.com/tarot-card-meanings/strength"
+    "spiritual": "inner courage, compassionate self-mastery, gentle resilience, transforming instinct with awareness"
   },
   {
     "id": 9,
@@ -311,13 +302,12 @@
       "lost direction",
       "avoidance"
     ],
-    "meaning_upright": "Introspection, solitude, inner guidance, wisdom, and searching.",
-    "meaning_reversed": "Isolation, loneliness, withdrawal, lost direction, and avoidance.",
-    "love": "A period of reflection about what one truly needs, or a partner who requires space.",
-    "career": "Research, deep work, and stepping back to reassess the path before advancing.",
+    "meaning_upright": "Introspection, solitude, inner guidance, wisdom, searching.",
+    "meaning_reversed": "Isolation, loneliness, withdrawal, lost direction, avoidance.",
+    "love": "time alone, romantic introspection, emotional distance, understanding personal needs",
+    "career": "independent work, career reflection, specialist expertise, seeking meaningful direction",
     "mood": "Solitary, contemplative.",
-    "spiritual": "The inner lamp, withdrawal from noise, the soul's own light showing the next step.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-hermit"
+    "spiritual": "solitude and reflection, inner searching, spiritual guidance, discovering personal truth"
   },
   {
     "id": 10,
@@ -343,13 +333,12 @@
       "setbacks",
       "clinging"
     ],
-    "meaning_upright": "Change, cycles, destiny, turning point, and luck.",
-    "meaning_reversed": "Resistance to change, bad luck, repeating cycles, setbacks, and clinging.",
-    "love": "A destined shift, chance meetings, changing dynamics, a new phase.",
-    "career": "Changing circumstances and timely opportunities, stay adaptable and catch the upswing.",
+    "meaning_upright": "Change, cycles, destiny, turning point, luck.",
+    "meaning_reversed": "Resistance to change, bad luck, repeating cycles, setbacks, clinging.",
+    "love": "change in love, unexpected encounter, relationship turning point, repeating romantic cycles",
+    "career": "changing opportunities, career turning point, unexpected progress, adapting to professional cycles",
     "mood": "Anticipatory, changeable.",
-    "spiritual": "Cycles and seasons, karma, trust in larger patterns, moving with the turn.",
-    "url": "https://tarotoo.com/tarot-card-meanings/wheel-of-fortune"
+    "spiritual": "cycles of growth, accepting change, karmic patterns, trusting life’s movement"
   },
   {
     "id": 11,
@@ -375,13 +364,12 @@
       "bias",
       "imbalance"
     ],
-    "meaning_upright": "Fairness, truth, accountability, cause and effect, and clarity.",
-    "meaning_reversed": "Unfairness, dishonesty, avoiding accountability, bias, and imbalance.",
-    "love": "Honesty and equal give-and-take, imbalances in effort or truth come due.",
-    "career": "Contracts, negotiations, and fair dealing, integrity now determines the outcome.",
+    "meaning_upright": "Fairness, truth, accountability, cause and effect, clarity.",
+    "meaning_reversed": "Unfairness, dishonesty, avoiding accountability, bias, imbalance.",
+    "love": "honesty, relationship balance, accountability, fair decisions in love",
+    "career": "fair evaluation, contracts and legal matters, accountable decisions, merit-based outcome",
     "mood": "Sober, clear-eyed.",
-    "spiritual": "Karma and truth, actions rippling back, integrity as alignment.",
-    "url": "https://tarotoo.com/tarot-card-meanings/justice"
+    "spiritual": "spiritual accountability, cause and effect, ethical alignment, balancing actions and consequences"
   },
   {
     "id": 12,
@@ -407,13 +395,12 @@
       "indecision",
       "wasted sacrifice"
     ],
-    "meaning_upright": "Surrender, new perspective, pause, letting go, and suspension.",
-    "meaning_reversed": "Stalling, resistance, martyrdom, indecision, and wasted sacrifice.",
-    "love": "Patience and seeing the other person's viewpoint before acting.",
-    "career": "Putting a plan on hold and re-examining assumptions, the delay itself is informative.",
+    "meaning_upright": "Surrender, new perspective, pause, letting go, suspension.",
+    "meaning_reversed": "Stalling, resistance, martyrdom, indecision, wasted sacrifice.",
+    "love": "romantic pause, changing perspective, emotional surrender, waiting for clarity",
+    "career": "career pause, delayed progress, new perspective, reconsidering professional priorities",
     "mood": "Suspended, strangely peaceful.",
-    "spiritual": "Surrender, released control, a completely new perspective.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-hanged-man"
+    "spiritual": "surrender, altered perspective, spiritual pause, releasing attachment to control"
   },
   {
     "id": 13,
@@ -439,13 +426,12 @@
       "holding on",
       "incomplete closure"
     ],
-    "meaning_upright": "Endings, transformation, transition, release, and renewal.",
-    "meaning_reversed": "Resistance to endings, stagnation, fear of change, holding on, and incomplete closure.",
-    "love": "The end of a dynamic or relationship phase, making room for a more honest connection.",
-    "career": "Closing a role, project, or identity, transformation follows the letting-go.",
+    "meaning_upright": "Endings, transformation, transition, release, renewal.",
+    "meaning_reversed": "Resistance to endings, stagnation, fear of change, holding on, incomplete closure.",
+    "love": "relationship transformation, ending a romantic chapter, emotional release, a new beginning after change",
+    "career": "career transition, ending an outdated role, professional reinvention, making space for change",
     "mood": "Heavy yet quietly relieved.",
-    "spiritual": "Transformation, release, rebirth, room for what is truly next.",
-    "url": "https://tarotoo.com/tarot-card-meanings/death"
+    "spiritual": "spiritual transformation, release and renewal, ending an old identity, embracing necessary change"
   },
   {
     "id": 14,
@@ -471,13 +457,12 @@
       "friction",
       "overcorrection"
     ],
-    "meaning_upright": "Balance, moderation, patience, blending, and healing.",
-    "meaning_reversed": "Excess, imbalance, impatience, friction, and overcorrection.",
-    "love": "Growing harmony, patience with differences, and a relationship finding its natural rhythm.",
-    "career": "Steady progress, collaboration, and balancing competing demands without burning out.",
+    "meaning_upright": "Balance, moderation, patience, blending, healing.",
+    "meaning_reversed": "Excess, imbalance, impatience, friction, overcorrection.",
+    "love": "emotional harmony, patient love, healthy compromise, gradual relationship growth",
+    "career": "work-life balance, collaborative teamwork, steady progress, integrating different skills",
     "mood": "Serene, even.",
-    "spiritual": "Alchemy, patient blending of opposites, refinement.",
-    "url": "https://tarotoo.com/tarot-card-meanings/temperance"
+    "spiritual": "inner harmony, spiritual integration, healing through balance, patient transformation"
   },
   {
     "id": 15,
@@ -503,13 +488,12 @@
       "release",
       "recovery"
     ],
-    "meaning_upright": "Attachment, temptation, unhealthy patterns, materialism, and feeling trapped.",
-    "meaning_reversed": "Breaking free, reclaiming power, awareness, release, and recovery.",
-    "love": "Intense attraction shadowed by possessiveness, dependency, or patterns that diminish both people.",
-    "career": "Golden handcuffs, burnout loops, or compromising values for material security.",
+    "meaning_upright": "Attachment, temptation, unhealthy patterns, materialism, feeling trapped.",
+    "meaning_reversed": "Breaking free, reclaiming power, awareness, release, recovery.",
+    "love": "intense attraction, unhealthy attachment, temptation, controlling relationship patterns",
+    "career": "unhealthy attachment to work, material ambition, restrictive job, workplace power dynamics",
     "mood": "Tense, restless.",
-    "spiritual": "Shadow work, facing the attachments that bind and remembering the chains are loose.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-devil"
+    "spiritual": "recognizing attachment, confronting the shadow, reclaiming personal freedom, breaking limiting patterns"
   },
   {
     "id": 16,
@@ -535,13 +519,12 @@
       "resisting the inevitable",
       "internal upheaval"
     ],
-    "meaning_upright": "Sudden upheaval, revelation, collapse of the false, disruption, and awakening.",
-    "meaning_reversed": "Averted disaster, fear of change, delayed collapse, resisting the inevitable, and internal upheaval.",
-    "love": "A sudden revelation or shake-up that changes the relationship's foundation and demands honesty.",
-    "career": "Abrupt disruption, restructures, failures, or truths surfacing, that clears the way for something sounder.",
+    "meaning_upright": "Sudden upheaval, revelation, collapse of the false, disruption, awakening.",
+    "meaning_reversed": "Averted disaster, fear of change, delayed collapse, resisting the inevitable, internal upheaval.",
+    "love": "sudden breakup, shocking revelation, relationship upheaval, rebuilding after conflict",
+    "career": "sudden career disruption, organizational upheaval, job loss or major change, rebuilding professionally",
     "mood": "Shaken, electric.",
-    "spiritual": "Awakening by lightning, false structures falling, truth finding ground.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-tower"
+    "spiritual": "spiritual awakening through disruption, collapse of false beliefs, sudden revelation, rebuilding on truth"
   },
   {
     "id": 17,
@@ -567,13 +550,12 @@
       "self-doubt",
       "dimmed hope"
     ],
-    "meaning_upright": "Hope, renewal, healing, inspiration, and faith.",
-    "meaning_reversed": "Discouragement, lost faith, disconnection, self-doubt, and dimmed hope.",
-    "love": "Healing after difficulty and renewed faith in connection, a gentle, promising sign.",
-    "career": "Renewed purpose and long-term promise, keep faith in the direction even if progress is quiet.",
+    "meaning_upright": "Hope, renewal, healing, inspiration, faith.",
+    "meaning_reversed": "Discouragement, lost faith, disconnection, self-doubt, dimmed hope.",
+    "love": "hope in love, emotional healing, renewed trust, an inspiring connection",
+    "career": "renewed career hope, inspired work, visibility for your talents, promising long-term direction",
     "mood": "Hopeful, soothed.",
-    "spiritual": "Grace, healing, renewal, faith in gentle guidance.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-star"
+    "spiritual": "renewed faith, spiritual healing, authentic purpose, guidance and inspiration"
   },
   {
     "id": 18,
@@ -599,13 +581,12 @@
       "confusion lifting",
       "self-deception ending"
     ],
-    "meaning_upright": "Illusion, intuition, uncertainty, the subconscious, and dreams.",
-    "meaning_reversed": "Clarity emerging, released fear, truth surfacing, confusion lifting, and self-deception ending.",
-    "love": "Uncertainty, mixed signals, or projections, feelings are real but the picture is incomplete.",
-    "career": "Unclear information or hidden factors, verify facts before committing.",
+    "meaning_upright": "Illusion, intuition, uncertainty, the subconscious, dreams.",
+    "meaning_reversed": "Clarity emerging, released fear, truth surfacing, confusion lifting, self-deception ending.",
+    "love": "romantic uncertainty, hidden emotions, mixed signals, trusting emotional intuition",
+    "career": "career uncertainty, unclear workplace dynamics, hidden information, cautious professional intuition",
     "mood": "Dreamy, uneasy.",
-    "spiritual": "The subconscious speaking, dreams, symbols, intuition lighting the unseen path.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-moon"
+    "spiritual": "subconscious exploration, intuitive sensitivity, spiritual uncertainty, moving through illusion"
   },
   {
     "id": 19,
@@ -631,13 +612,12 @@
       "burnout",
       "delayed success"
     ],
-    "meaning_upright": "Joy, success, vitality, clarity, and confidence.",
-    "meaning_reversed": "Dimmed joy, temporary setbacks, pessimism, burnout, and delayed success.",
-    "love": "Happiness, openness, celebration, a relationship thriving in honest light.",
-    "career": "Visible success, recognition, and energy, momentum is real and deserved.",
+    "meaning_upright": "Joy, success, vitality, clarity, confidence.",
+    "meaning_reversed": "Dimmed joy, temporary setbacks, pessimism, burnout, delayed success.",
+    "love": "happiness in love, mutual warmth, joyful partnership, openness and affection",
+    "career": "career success, recognition, professional confidence, rewarding collaboration",
     "mood": "Joyful, radiant.",
-    "spiritual": "Vitality, gratitude, radiant clarity, joy in being alive.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-sun"
+    "spiritual": "spiritual clarity, joyful awareness, vitality and truth, connection with the authentic self"
   },
   {
     "id": 20,
@@ -663,13 +643,12 @@
       "harsh judgment",
       "avoidance"
     ],
-    "meaning_upright": "Awakening, reckoning, renewal, calling, and self-evaluation.",
-    "meaning_reversed": "Self-criticism, ignoring the call, stuck in the past, harsh judgment, and avoidance.",
-    "love": "Honest evaluation of the relationship's history and a chance at genuine renewal or closure.",
-    "career": "A career reckoning or calling, an invitation to step into work that actually matters to you.",
+    "meaning_upright": "Awakening, reckoning, renewal, calling, self-evaluation.",
+    "meaning_reversed": "Self-criticism, ignoring the call, stuck in the past, harsh judgment, avoidance.",
+    "love": "relationship renewal, reconciliation, emotional awakening, an important romantic decision",
+    "career": "career calling, performance review, second chance, decisive professional awakening",
     "mood": "Stirred, resolved.",
-    "spiritual": "The awakening call, rising from the past, forgiveness, renewed purpose.",
-    "url": "https://tarotoo.com/tarot-card-meanings/judgement"
+    "spiritual": "spiritual awakening, answering an inner calling, self-evaluation, release from the past"
   },
   {
     "id": 21,
@@ -695,12 +674,11 @@
       "shortcuts",
       "unfinished business"
     ],
-    "meaning_upright": "Completion, fulfillment, wholeness, achievement, and integration.",
-    "meaning_reversed": "Incompletion, loose ends, delayed closure, shortcuts, and unfinished business.",
-    "love": "A relationship reaching fulfillment and harmony, or closure that finally allows a new beginning.",
-    "career": "The successful completion of a major goal and often expansion, travel, recognition, or a bigger stage.",
+    "meaning_upright": "Completion, fulfillment, wholeness, achievement, integration.",
+    "meaning_reversed": "Incompletion, loose ends, delayed closure, shortcuts, unfinished business.",
+    "love": "lasting fulfillment, relationship completion, mature partnership, reaching a shared milestone",
+    "career": "career achievement, project completion, professional mastery, international opportunities",
     "mood": "Fulfilled, celebratory.",
-    "spiritual": "Integration, wholeness, lessons woven together, completion before the next cycle.",
-    "url": "https://tarotoo.com/tarot-card-meanings/the-world"
+    "spiritual": "spiritual completion, wholeness, integration of lessons, connection with the greater whole"
   }
 ]

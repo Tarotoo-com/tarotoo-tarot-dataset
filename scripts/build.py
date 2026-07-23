@@ -31,7 +31,7 @@ SOURCE_FILES = [
 REQUIRED_FIELDS = [
     "id", "name", "arcana", "suit", "number_numerology", "element", "planet", "zodiac",
     "yes_no", "keywords_upright", "keywords_reversed",
-    "meaning_upright", "meaning_reversed", "love", "career", "mood", "spiritual", "url",
+    "meaning_upright", "meaning_reversed", "love", "career", "mood", "spiritual",
 ]
 
 VALID_ARCANA = {"major", "minor"}
@@ -70,7 +70,7 @@ def validate(cards):
             kws = card.get(kw_field, [])
             if not isinstance(kws, list) or len(kws) < 3:
                 errors.append(f"{label}: {kw_field} needs at least 3 keywords")
-        for text_field in ("meaning_upright", "meaning_reversed", "love", "career", "mood", "spiritual", "url"):
+        for text_field in ("meaning_upright", "meaning_reversed", "love", "career", "mood", "spiritual"):
             if not str(card.get(text_field, "")).strip():
                 errors.append(f"{label}: empty {text_field}")
 

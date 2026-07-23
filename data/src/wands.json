@@ -23,13 +23,12 @@
       "blocked creativity",
       "hesitation"
     ],
-    "meaning_upright": "Inspiration, new opportunity, creative spark, enthusiasm, and potential.",
-    "meaning_reversed": "Delays, false start, lack of motivation, blocked creativity, and hesitation.",
-    "love": "A spark of fresh attraction or renewed passion in an existing bond.",
-    "career": "A new project or venture, strong potential if acted on quickly.",
+    "meaning_upright": "Inspiration, new opportunity, creative spark, enthusiasm, potential.",
+    "meaning_reversed": "Delays, false start, lack of motivation, blocked creativity, hesitation.",
+    "love": "passionate beginning, strong chemistry, romantic excitement, renewed desire",
+    "career": "creative spark, new business venture, inspired career beginning, taking initiative",
     "mood": "Excited, inspired.",
-    "spiritual": "The creative spark as gift, inspiration from beyond, a call to act.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ace-of-wands"
+    "spiritual": "spiritual inspiration, awakening life force, creative purpose, acting on inner fire"
   },
   {
     "id": 23,
@@ -55,13 +54,12 @@
       "restlessness",
       "indecision"
     ],
-    "meaning_upright": "Planning, future vision, decision, expansion, and the world in hand.",
-    "meaning_reversed": "Fear of the unknown, playing it safe, poor planning, restlessness, and indecision.",
-    "love": "Weighing a decision about the relationship's future direction.",
-    "career": "Strategic planning and considering expansion beyond the current comfort zone.",
+    "meaning_upright": "Planning, future vision, decision, expansion, the world in hand.",
+    "meaning_reversed": "Fear of the unknown, playing it safe, poor planning, restlessness, indecision.",
+    "love": "planning a romantic future, considering relationship options, shared ambitions, deciding what comes next",
+    "career": "career planning, future expansion, choosing between opportunities, ambitious professional vision",
     "mood": "Restless anticipation.",
-    "spiritual": "Expanding vision, the soul outgrowing familiar walls, imagining a larger life.",
-    "url": "https://tarotoo.com/tarot-card-meanings/two-of-wands"
+    "spiritual": "expanding spiritual vision, choosing a path, planning purposeful growth, looking beyond familiar limits"
   },
   {
     "id": 24,
@@ -87,13 +85,12 @@
       "setbacks",
       "impatience"
     ],
-    "meaning_upright": "Progress, expansion, foresight, ships coming in, and momentum.",
-    "meaning_reversed": "Delays, obstacles to plans, limited vision, setbacks, and impatience.",
-    "love": "A relationship moving forward, sometimes across distance, with patience being rewarded.",
-    "career": "Early results confirming a good strategy, think bigger and prepare for growth.",
+    "meaning_upright": "Progress, expansion, foresight, ships coming in, momentum.",
+    "meaning_reversed": "Delays, obstacles to plans, limited vision, setbacks, impatience.",
+    "love": "relationship expansion, waiting for love to develop, long-distance connection, looking toward the future together",
+    "career": "business expansion, international work, long-term growth, waiting for results",
     "mood": "Optimistic, forward-looking.",
-    "spiritual": "Faithful patience, what was set in motion is growing even while it is out of sight.",
-    "url": "https://tarotoo.com/tarot-card-meanings/three-of-wands"
+    "spiritual": "faith in unfolding progress, broadening awareness, spiritual expansion, trusting long-term growth"
   },
   {
     "id": 25,
@@ -119,13 +116,12 @@
       "lack of support",
       "shaky foundations"
     ],
-    "meaning_upright": "Celebration, homecoming, milestone, community, and stability.",
-    "meaning_reversed": "Instability at home, postponed celebration, transition, lack of support, and shaky foundations.",
-    "love": "Happy milestones, moving in together, engagements, or simply a joyful, secure phase.",
-    "career": "A completed stage worth celebrating and a supportive, stable team environment.",
+    "meaning_upright": "Celebration, homecoming, milestone, community, stability.",
+    "meaning_reversed": "Instability at home, postponed celebration, transition, lack of support, shaky foundations.",
+    "love": "relationship celebration, engagement, marriage, creating a happy home",
+    "career": "workplace milestone, successful launch, team celebration, stable professional foundation",
     "mood": "Celebratory, secure.",
-    "spiritual": "Gratitude in community, pausing to honor how far things have come, together.",
-    "url": "https://tarotoo.com/tarot-card-meanings/four-of-wands"
+    "spiritual": "sacred community, gratitude and celebration, spiritual stability, honoring a meaningful milestone"
   },
   {
     "id": 26,
@@ -151,13 +147,12 @@
       "release of tension",
       "picking battles"
     ],
-    "meaning_upright": "Conflict, competition, friction, clashing egos, and scattered effort.",
-    "meaning_reversed": "Avoiding conflict, resolution, inner conflict, release of tension, and picking battles.",
-    "love": "Bickering, rivalry, or outside interference creating unnecessary tension.",
-    "career": "Competition and disagreement over direction, channel it into healthy rivalry, not chaos.",
+    "meaning_upright": "Conflict, competition, friction, clashing egos, scattered effort.",
+    "meaning_reversed": "Avoiding conflict, resolution, inner conflict, release of tension, picking battles.",
+    "love": "romantic tension, disagreements, competition for attention, conflicting desires",
+    "career": "workplace competition, conflicting ideas, professional rivalry, productive challenge",
     "mood": "Irritable, competitive.",
-    "spiritual": "Ego work, noticing the need to win and redirecting that fire into growth instead of noise.",
-    "url": "https://tarotoo.com/tarot-card-meanings/five-of-wands"
+    "spiritual": "growth through challenge, testing beliefs, conflicting energies, learning through spiritual friction"
   },
   {
     "id": 27,
@@ -183,13 +178,12 @@
       "lack of recognition",
       "ego inflation"
     ],
-    "meaning_upright": "Victory, recognition, success, confidence, and public acclaim.",
-    "meaning_reversed": "Private victory, fall from grace, self-doubt, lack of recognition, and ego inflation.",
-    "love": "Pride in the relationship and mutual admiration, being 'seen' by a partner.",
-    "career": "Recognition, promotion, or a win that raises your profile.",
+    "meaning_upright": "Victory, recognition, success, confidence, public acclaim.",
+    "meaning_reversed": "Private victory, fall from grace, self-doubt, lack of recognition, ego inflation.",
+    "love": "romantic success, feeling admired, public recognition of a relationship, winning someone’s affection",
+    "career": "career recognition, promotion, public success, growing leadership credibility",
     "mood": "Proud, uplifted.",
-    "spiritual": "Success with humility, gracious recognition, honoring those who helped.",
-    "url": "https://tarotoo.com/tarot-card-meanings/six-of-wands"
+    "spiritual": "confidence in your path, recognition of growth, inspired leadership, sharing spiritual progress"
   },
   {
     "id": 28,
@@ -215,13 +209,12 @@
       "defensiveness",
       "yielding"
     ],
-    "meaning_upright": "Defense, standing your ground, perseverance, conviction, and holding advantage.",
-    "meaning_reversed": "Overwhelm, giving up ground, exhaustion, defensiveness, and yielding.",
-    "love": "Protecting the relationship from outside pressure, or defending personal boundaries within it.",
-    "career": "Defending your position, ideas, or territory against competition, persistence wins.",
+    "meaning_upright": "Defense, standing your ground, perseverance, conviction, holding advantage.",
+    "meaning_reversed": "Overwhelm, giving up ground, exhaustion, defensiveness, yielding.",
+    "love": "defending a relationship, maintaining boundaries, fighting for love, resisting outside pressure",
+    "career": "defending your position, professional persistence, maintaining boundaries, standing your ground",
     "mood": "Defensive but resolute.",
-    "spiritual": "Conviction, defending what one truly believes, calmly, without needing everyone's agreement.",
-    "url": "https://tarotoo.com/tarot-card-meanings/seven-of-wands"
+    "spiritual": "defending personal beliefs, spiritual conviction, energetic boundaries, remaining true to your path"
   },
   {
     "id": 29,
@@ -247,13 +240,12 @@
       "missed timing",
       "slowdown"
     ],
-    "meaning_upright": "Swift movement, momentum, news arriving, alignment, and rapid progress.",
-    "meaning_reversed": "Delays, frustration, scattered energy, missed timing, and slowdown.",
-    "love": "Fast-moving romance, important messages, or a relationship suddenly gaining momentum.",
-    "career": "Rapid developments, quick decisions, and news that sets things in motion.",
+    "meaning_upright": "Swift movement, momentum, news arriving, alignment, rapid progress.",
+    "meaning_reversed": "Delays, frustration, scattered energy, missed timing, slowdown.",
+    "love": "rapid romantic developments, passionate communication, unexpected messages, relationship momentum",
+    "career": "rapid career developments, fast communication, work-related travel, accelerated progress",
     "mood": "Swift, eager.",
-    "spiritual": "Flow, signs arriving quickly and the invitation to move with them rather than overthink.",
-    "url": "https://tarotoo.com/tarot-card-meanings/eight-of-wands"
+    "spiritual": "rapid spiritual movement, synchronicity, energetic alignment, receiving clear signs"
   },
   {
     "id": 30,
@@ -279,13 +271,12 @@
       "rigid defenses",
       "battle fatigue"
     ],
-    "meaning_upright": "Resilience, last stand, persistence, guardedness, and nearly there.",
-    "meaning_reversed": "Burnout, paranoia, giving up at the end, rigid defenses, and battle fatigue.",
-    "love": "Guardedness from past hurt, the walls that protected once may now be keeping love out.",
-    "career": "Fatigue near the end of a long effort, endurance through this last stretch pays off.",
+    "meaning_upright": "Resilience, last stand, persistence, guardedness, nearly there.",
+    "meaning_reversed": "Burnout, paranoia, giving up at the end, rigid defenses, battle fatigue.",
+    "love": "emotional guardedness, relationship resilience, cautious trust, protecting the heart",
+    "career": "professional resilience, cautious persistence, nearing completion, protecting previous gains",
     "mood": "Weary but determined.",
-    "spiritual": "Resilience as practice, tending wounds without letting them close the heart before the last step.",
-    "url": "https://tarotoo.com/tarot-card-meanings/nine-of-wands"
+    "spiritual": "spiritual resilience, protecting your energy, perseverance after trials, wisdom gained through experience"
   },
   {
     "id": 31,
@@ -311,13 +302,12 @@
       "collapse",
       "learning to say no"
     ],
-    "meaning_upright": "Burden, overload, responsibility, carrying too much, and final effort.",
-    "meaning_reversed": "Release, delegation, putting burdens down, collapse, and learning to say no.",
-    "love": "One partner shouldering the relationship's weight alone, rebalancing is needed.",
-    "career": "Overload and burnout risk, delegate and prioritize before the load drops you.",
+    "meaning_upright": "Burden, overload, responsibility, carrying too much, final effort.",
+    "meaning_reversed": "Release, delegation, putting burdens down, collapse, learning to say no.",
+    "love": "relationship burdens, emotional pressure, carrying too much responsibility, love feeling demanding",
+    "career": "overwork, excessive responsibility, burnout risk, need to delegate",
     "mood": "Burdened, overloaded.",
-    "spiritual": "Release, learning that putting down what was never yours to carry is also an act of faith.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ten-of-wands"
+    "spiritual": "spiritual burden, carrying inherited beliefs, need for release, simplifying your path"
   },
   {
     "id": 32,
@@ -343,13 +333,12 @@
       "unreliable news",
       "restlessness"
     ],
-    "meaning_upright": "Enthusiasm, exploration, free spirit, exciting news, and curiosity.",
-    "meaning_reversed": "Scattered energy, hasty starts, boredom, unreliable news, and restlessness.",
-    "love": "Flirtation, playful energy, or an admirer with an adventurous spirit.",
-    "career": "A new idea or opportunity worth exploring with fresh eyes and low stakes.",
+    "meaning_upright": "Enthusiasm, exploration, free spirit, exciting news, curiosity.",
+    "meaning_reversed": "Scattered energy, hasty starts, boredom, unreliable news, restlessness.",
+    "love": "flirtation, exciting messages, playful attraction, curiosity about a new romance",
+    "career": "career curiosity, exciting opportunity, learning through action, creative professional news",
     "mood": "Curious, enthusiastic.",
-    "spiritual": "Following inspiration, treating every spark of interest as a possible message from the soul.",
-    "url": "https://tarotoo.com/tarot-card-meanings/page-of-wands"
+    "spiritual": "spiritual curiosity, exploring new practices, enthusiastic discovery, a message of inspiration"
   },
   {
     "id": 33,
@@ -375,13 +364,12 @@
       "delays in action",
       "hot temper"
     ],
-    "meaning_upright": "Action, adventure, passion, bold pursuit, and charisma.",
-    "meaning_reversed": "Impulsiveness, recklessness, scattered passion, delays in action, and hot temper.",
-    "love": "Intense, fast-burning attraction or a charismatic pursuer, thrilling, but test the staying power.",
-    "career": "Bold moves and fast opportunities, act decisively but don't skip the details.",
+    "meaning_upright": "Action, adventure, passion, bold pursuit, charisma.",
+    "meaning_reversed": "Impulsiveness, recklessness, scattered passion, delays in action, hot temper.",
+    "love": "passionate pursuit, intense chemistry, impulsive romance, an exciting but inconsistent lover",
+    "career": "ambitious action, bold career change, entrepreneurial drive, impulsive professional decisions",
     "mood": "Adventurous, impulsive.",
-    "spiritual": "Passion as fuel, honoring the fire while learning to ground it so it warms rather than burns.",
-    "url": "https://tarotoo.com/tarot-card-meanings/knight-of-wands"
+    "spiritual": "passionate spiritual pursuit, adventurous exploration, acting on inspiration, restless searching"
   },
   {
     "id": 34,
@@ -407,13 +395,12 @@
       "burnout",
       "dimmed confidence"
     ],
-    "meaning_upright": "Confidence, warmth, determination, magnetism, and independence.",
-    "meaning_reversed": "Insecurity, jealousy, demanding nature, burnout, and dimmed confidence.",
-    "love": "Passionate, self-assured energy, attraction rooted in independence rather than need.",
-    "career": "Confident leadership and creative drive that inspires others.",
+    "meaning_upright": "Confidence, warmth, determination, magnetism, independence.",
+    "meaning_reversed": "Insecurity, jealousy, demanding nature, burnout, dimmed confidence.",
+    "love": "confidence in love, magnetic attraction, warmth and passion, independent partnership",
+    "career": "career confidence, creative leadership, professional charisma, independent success",
     "mood": "Confident, magnetic.",
-    "spiritual": "Authentic radiance, self-expression as generosity, unapologetic shine.",
-    "url": "https://tarotoo.com/tarot-card-meanings/queen-of-wands"
+    "spiritual": "radiant spiritual confidence, intuitive creativity, embodied passion, inspiring others"
   },
   {
     "id": 35,
@@ -439,12 +426,11 @@
       "unfulfilled vision",
       "domineering"
     ],
-    "meaning_upright": "Visionary leadership, boldness, entrepreneurship, mastery of fire, and inspiration.",
-    "meaning_reversed": "Arrogance, tyranny, impulsive leadership, unfulfilled vision, and domineering.",
-    "love": "A confident, protective partner with big plans, generous, though he must share the wheel.",
-    "career": "Entrepreneurial vision and decisive leadership, think big and commit fully.",
+    "meaning_upright": "Visionary leadership, boldness, entrepreneurship, mastery of fire, inspiration.",
+    "meaning_reversed": "Arrogance, tyranny, impulsive leadership, unfulfilled vision, domineering.",
+    "love": "bold romantic leadership, passionate commitment, protective affection, pursuing love with confidence",
+    "career": "visionary leadership, business growth, decisive action, inspiring others",
     "mood": "Bold, visionary.",
-    "spiritual": "Purpose embodied, creative fire directed toward a larger vision.",
-    "url": "https://tarotoo.com/tarot-card-meanings/king-of-wands"
+    "spiritual": "spiritual leadership, purposeful vision, directing creative energy, courageous guidance"
   }
 ]

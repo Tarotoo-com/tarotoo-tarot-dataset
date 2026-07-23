@@ -76,7 +76,6 @@ One record per card:
 | `career` | string | Career/work context (short phrase) |
 | `mood` | string | Mood/emotional tone (short phrase) |
 | `spiritual` | string | Spiritual-growth context (short phrase) |
-| `url` | string | Card meaning page on tarotoo.com |
 
 ### Example instance
 
@@ -92,9 +91,8 @@ One record per card:
   "zodiac": "Aquarius",
   "yes_no": "maybe",
   "keywords_upright": ["new beginnings", "spontaneity", "innocence", "leap of faith", "free spirit"],
-  "meaning_upright": "New beginnings, spontaneity, innocence, leap of faith, and free spirit.",
-  "mood": "Light, curious, playful.",
-  "url": "https://tarotoo.com/tarot-card-meanings/the-fool"
+  "meaning_upright": "New beginnings, spontaneity, innocence, leap of faith, free spirit.",
+  "mood": "Light, curious, playful."
 }
 ```
 

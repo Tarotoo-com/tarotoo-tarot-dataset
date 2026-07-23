@@ -23,13 +23,12 @@
       "delayed reward",
       "poor investment"
     ],
-    "meaning_upright": "New opportunity, prosperity, manifestation, solid start, and material gift.",
-    "meaning_reversed": "Missed opportunity, shaky foundation, scarcity thinking, delayed reward, and poor investment.",
-    "love": "A relationship with real-world staying power, grounded, stable, and worth investing in.",
-    "career": "A concrete opportunity, new job, raise, or venture, with solid long-term potential.",
+    "meaning_upright": "New opportunity, prosperity, manifestation, solid start, material gift.",
+    "meaning_reversed": "Missed opportunity, shaky foundation, scarcity thinking, delayed reward, poor investment.",
+    "love": "stable new relationship, practical commitment, building a secure future, dependable romantic opportunity",
+    "career": "new job opportunity, financial potential, practical career beginning, building professional security",
     "mood": "Hopeful, grounded.",
-    "spiritual": "The seed of abundance, spirit taking root in matter, grounded gratitude.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ace-of-pentacles"
+    "spiritual": "grounded spiritual beginning, sacred opportunity, bringing insight into practice, connection with the physical world"
   },
   {
     "id": 65,
@@ -55,13 +54,12 @@
       "financial strain",
       "overwhelm"
     ],
-    "meaning_upright": "Juggling priorities, adaptability, balance in motion, flexibility, and managing change.",
-    "meaning_reversed": "Overcommitment, dropped balls, disorganization, financial strain, and overwhelm.",
-    "love": "Balancing the relationship against life's other demands, presence needs scheduling too.",
-    "career": "Multitasking and shifting priorities, adaptability works until it becomes overload.",
+    "meaning_upright": "Juggling priorities, adaptability, balance in motion, flexibility, managing change.",
+    "meaning_reversed": "Overcommitment, dropped balls, disorganization, financial strain, overwhelm.",
+    "love": "balancing love and responsibilities, changing relationship priorities, adapting as a couple, romantic uncertainty",
+    "career": "balancing priorities, multiple jobs or projects, flexible workload, adapting to professional change",
     "mood": "Busy, adaptable.",
-    "spiritual": "Balance as practice, finding rhythm within motion instead of waiting for stillness.",
-    "url": "https://tarotoo.com/tarot-card-meanings/two-of-pentacles"
+    "spiritual": "balancing spiritual and practical life, adapting to change, energetic rhythm, staying centered amid movement"
   },
   {
     "id": 66,
@@ -87,13 +85,12 @@
       "misaligned goals",
       "working alone"
     ],
-    "meaning_upright": "Teamwork, craftsmanship, skill recognized, collaboration, and building together.",
-    "meaning_reversed": "Poor teamwork, mediocrity, lack of recognition, misaligned goals, and working alone.",
-    "love": "The relationship as a joint project, effort, communication, and shared building.",
-    "career": "Successful teamwork and skill being noticed by people who matter.",
+    "meaning_upright": "Teamwork, craftsmanship, skill recognized, collaboration, building together.",
+    "meaning_reversed": "Poor teamwork, mediocrity, lack of recognition, misaligned goals, working alone.",
+    "love": "teamwork in love, building a relationship together, mutual effort, learning how to support one another",
+    "career": "skilled teamwork, craftsmanship, professional collaboration, recognition for quality",
     "mood": "Cooperative, engaged.",
-    "spiritual": "Craft as devotion, building carefully with others as a quiet form of worship.",
-    "url": "https://tarotoo.com/tarot-card-meanings/three-of-pentacles"
+    "spiritual": "spiritual learning through collaboration, shared practice, building something meaningful, honoring diverse gifts"
   },
   {
     "id": 67,
@@ -119,13 +116,12 @@
       "financial release",
       "spending"
     ],
-    "meaning_upright": "Security, holding on, control, saving, and possessiveness.",
-    "meaning_reversed": "Letting go, generosity, loosening control, financial release, and spending.",
-    "love": "Possessiveness or emotional withholding, safety that comes from control isn't intimacy.",
-    "career": "Financial caution and consolidation, with a caution against hoarding resources or authority.",
+    "meaning_upright": "Security, holding on, control, saving, possessiveness.",
+    "meaning_reversed": "Letting go, generosity, loosening control, financial release, spending.",
+    "love": "possessiveness, fear of vulnerability, holding tightly to a relationship, emotional control",
+    "career": "protecting your position, financial caution, resistance to career change, controlling resources",
     "mood": "Cautious, guarded.",
-    "spiritual": "Loosening attachment, learning that security gripped becomes a cage, and released becomes trust.",
-    "url": "https://tarotoo.com/tarot-card-meanings/four-of-pentacles"
+    "spiritual": "attachment to security, blocked energy, fear of letting go, learning spiritual generosity"
   },
   {
     "id": 68,
@@ -151,13 +147,12 @@
       "finding shelter",
       "renewed hope"
     ],
-    "meaning_upright": "Hardship, scarcity, feeling left out in the cold, financial loss, and isolation.",
-    "meaning_reversed": "Recovery, help accepted, hardship ending, finding shelter, and renewed hope.",
-    "love": "Feeling shut out, weathering hardship together, letting a partner in from the cold.",
-    "career": "Financial strain or job insecurity, seek the available support rather than enduring alone.",
+    "meaning_upright": "Hardship, scarcity, feeling left out in the cold, financial loss, isolation.",
+    "meaning_reversed": "Recovery, help accepted, hardship ending, finding shelter, renewed hope.",
+    "love": "feeling rejected, loneliness in love, relationship hardship, supporting each other through difficulty",
+    "career": "unemployment or financial strain, workplace exclusion, difficult career period, seeking support",
     "mood": "Discouraged, cold.",
-    "spiritual": "Faith through hardship, remembering the door is unlocked and letting help in is not failure.",
-    "url": "https://tarotoo.com/tarot-card-meanings/five-of-pentacles"
+    "spiritual": "spiritual isolation, crisis of faith, seeking support, finding meaning during hardship"
   },
   {
     "id": 69,
@@ -183,13 +178,12 @@
       "debt",
       "self-neglect in giving"
     ],
-    "meaning_upright": "Generosity, giving and receiving, support, fairness, and charity.",
-    "meaning_reversed": "Strings attached, power imbalance, one-sided giving, debt, and self-neglect in giving.",
-    "love": "Balance of giving and receiving, circulating care, mutual support.",
-    "career": "Mentorship, raises, or support networks, generosity now returns multiplied.",
+    "meaning_upright": "Generosity, giving and receiving, support, fairness, charity.",
+    "meaning_reversed": "Strings attached, power imbalance, one-sided giving, debt, self-neglect in giving.",
+    "love": "equal give and take, generosity in love, mutual support, balanced emotional effort",
+    "career": "fair compensation, professional mentoring, workplace support, balanced exchange",
     "mood": "Generous, balanced.",
-    "spiritual": "The sacred flow, abundance circulating, blessing the giver and receiver alike.",
-    "url": "https://tarotoo.com/tarot-card-meanings/six-of-pentacles"
+    "spiritual": "spiritual generosity, balanced giving and receiving, compassionate service, responsible use of resources"
   },
   {
     "id": 70,
@@ -215,13 +209,12 @@
       "giving up early",
       "misdirected work"
     ],
-    "meaning_upright": "Patience, assessment, long-term view, slow growth, and waiting for harvest.",
-    "meaning_reversed": "Impatience, wasted effort, poor returns, giving up early, and misdirected work.",
-    "love": "A pause to assess the relationship's growth, investment is judged by trajectory, not just time served.",
-    "career": "Long-term projects maturing slowly, evaluate returns honestly before investing further.",
+    "meaning_upright": "Patience, assessment, long-term view, slow growth, waiting for harvest.",
+    "meaning_reversed": "Impatience, wasted effort, poor returns, giving up early, misdirected work.",
+    "love": "patience in a relationship, evaluating romantic progress, long-term investment, waiting for love to grow",
+    "career": "long-term career investment, reviewing progress, patient growth, waiting for results",
     "mood": "Patient, evaluative.",
-    "spiritual": "Trust in slow growth, honoring seasons that ripen quietly beneath the surface.",
-    "url": "https://tarotoo.com/tarot-card-meanings/seven-of-pentacles"
+    "spiritual": "patient spiritual growth, reflecting on progress, trusting gradual development, tending long-term intentions"
   },
   {
     "id": 71,
@@ -247,13 +240,12 @@
       "misplaced effort",
       "burnout from grind"
     ],
-    "meaning_upright": "Diligence, skill-building, craftsmanship, dedication, and mastery through repetition.",
-    "meaning_reversed": "Perfectionism, tedium, cut corners, misplaced effort, and burnout from grind.",
-    "love": "Connection as craft, small consistent efforts, done attentively, build the bond.",
-    "career": "Skill development and dedicated work, the mastery being built now compounds.",
+    "meaning_upright": "Diligence, skill-building, craftsmanship, dedication, mastery through repetition.",
+    "meaning_reversed": "Perfectionism, tedium, cut corners, misplaced effort, burnout from grind.",
+    "love": "working on a relationship, consistent effort, improving communication, dedication to a partner",
+    "career": "skill development, disciplined work, apprenticeship, mastering a profession",
     "mood": "Diligent, absorbed.",
-    "spiritual": "Work as meditation, mastery built one mindful repetition at a time.",
-    "url": "https://tarotoo.com/tarot-card-meanings/eight-of-pentacles"
+    "spiritual": "dedicated spiritual practice, learning through repetition, disciplined growth, refining your craft"
   },
   {
     "id": 72,
@@ -279,13 +271,12 @@
       "financial insecurity",
       "self-worth tied to wealth"
     ],
-    "meaning_upright": "Self-sufficiency, earned luxury, independence, refinement, and enjoying success.",
-    "meaning_reversed": "Overdependence, hollow success, overwork without enjoyment, financial insecurity, and self-worth tied to wealth.",
-    "love": "Wholeness over neediness, a partnership of two complete people, or contentment in one's own company.",
-    "career": "Financial independence and well-earned rewards, your work stands on its own merit.",
+    "meaning_upright": "Self-sufficiency, earned luxury, independence, refinement, enjoying success.",
+    "meaning_reversed": "Overdependence, hollow success, overwork without enjoyment, financial insecurity, self-worth tied to wealth.",
+    "love": "independence in love, enjoying single life, healthy self-worth, a relationship that respects personal freedom",
+    "career": "independent success, financial self-sufficiency, refined expertise, enjoying earned rewards",
     "mood": "Self-assured, serene.",
-    "spiritual": "Gratitude for earned abundance, independence held lightly, savored fully.",
-    "url": "https://tarotoo.com/tarot-card-meanings/nine-of-pentacles"
+    "spiritual": "spiritual self-reliance, gratitude for abundance, embodied confidence, enjoying the fruits of growth"
   },
   {
     "id": 73,
@@ -311,13 +302,12 @@
       "lost inheritance",
       "wealth without belonging"
     ],
-    "meaning_upright": "Legacy, lasting wealth, family security, inheritance, and long-term foundations.",
-    "meaning_reversed": "Family disputes over resources, unstable foundations, short-term thinking, lost inheritance, and wealth without belonging.",
-    "love": "Commitment with deep roots, family, shared assets, a future measured in decades.",
-    "career": "Lasting success, established institutions, and decisions best made on a generational timescale.",
+    "meaning_upright": "Legacy, lasting wealth, family security, inheritance, long-term foundations.",
+    "meaning_reversed": "Family disputes over resources, unstable foundations, short-term thinking, lost inheritance, wealth without belonging.",
+    "love": "long-term commitment, family stability, shared financial security, building a lasting legacy together",
+    "career": "lasting career stability, family business, wealth building, established professional legacy",
     "mood": "Secure, proud.",
-    "spiritual": "Legacy, blessings tended so well they outlive the hands that planted them.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ten-of-pentacles"
+    "spiritual": "ancestral wisdom, lasting spiritual foundations, shared traditions, legacy and belonging"
   },
   {
     "id": 74,
@@ -343,13 +333,12 @@
       "short-lived focus",
       "missed lessons"
     ],
-    "meaning_upright": "Studiousness, new practical skill, opportunity to learn, grounded ambition, and diligent beginnings.",
-    "meaning_reversed": "Procrastination, lack of progress, daydreaming without doing, short-lived focus, and missed lessons.",
-    "love": "Sincere, steady interest that builds slowly and values reliability over fireworks.",
-    "career": "Learning opportunities, new practical ventures, and ambitions pursued step by step.",
+    "meaning_upright": "Studiousness, new practical skill, opportunity to learn, grounded ambition, diligent beginnings.",
+    "meaning_reversed": "Procrastination, lack of progress, daydreaming without doing, short-lived focus, missed lessons.",
+    "love": "sincere romantic interest, slowly developing relationship, practical offer of commitment, dependable new connection",
+    "career": "career training, entry-level opportunity, practical study, promising financial news",
     "mood": "Studious, motivated.",
-    "spiritual": "Grounded manifestation, treating study and small steps as the honest magic they are.",
-    "url": "https://tarotoo.com/tarot-card-meanings/page-of-pentacles"
+    "spiritual": "beginner’s spiritual study, practical learning, grounding a new intention, steady curiosity"
   },
   {
     "id": 75,
@@ -375,13 +364,12 @@
       "workaholism",
       "stuck in a rut"
     ],
-    "meaning_upright": "Reliability, methodical progress, hard work, patience, and commitment to routine.",
-    "meaning_reversed": "Stagnation, boredom, stubbornness, workaholism, and stuck in a rut.",
-    "love": "A dependable partner, devotion through consistency rather than drama.",
-    "career": "Slow, thorough progress and trustworthy execution, the tortoise wins this one.",
+    "meaning_upright": "Reliability, methodical progress, hard work, patience, commitment to routine.",
+    "meaning_reversed": "Stagnation, boredom, stubbornness, workaholism, stuck in a rut.",
+    "love": "loyal partner, slow and steady romance, reliable commitment, building trust over time",
+    "career": "reliable progress, consistent work, long-term commitment, methodical career growth",
     "mood": "Methodical, steady.",
-    "spiritual": "Devotion through consistency, showing up daily as its own quiet vow.",
-    "url": "https://tarotoo.com/tarot-card-meanings/knight-of-pentacles"
+    "spiritual": "consistent spiritual practice, devotion through routine, patient progress, grounded commitment"
   },
   {
     "id": 76,
@@ -407,13 +395,12 @@
       "financial codependence",
       "depleted caregiver"
     ],
-    "meaning_upright": "Nurturing practicality, resourcefulness, warmth and security, working provider, and down-to-earth care.",
-    "meaning_reversed": "Self-neglect, work-home imbalance, smothering through providing, financial codependence, and depleted caregiver.",
-    "love": "Steady, tangible devotion, a home built together, care shown in daily acts.",
-    "career": "Resourceful management and creating environments where people and projects flourish.",
+    "meaning_upright": "Nurturing practicality, resourcefulness, warmth and security, working provider, down-to-earth care.",
+    "meaning_reversed": "Self-neglect, work-home imbalance, smothering through providing, financial codependence, depleted caregiver.",
+    "love": "nurturing partnership, practical affection, emotional and material security, creating a comfortable home",
+    "career": "practical leadership, resource management, work-life balance, creating a secure workplace",
     "mood": "Nurturing, practical.",
-    "spiritual": "The sacred ordinary, body, home, and hearth tended as holy ground.",
-    "url": "https://tarotoo.com/tarot-card-meanings/queen-of-pentacles"
+    "spiritual": "earth-centered spirituality, nurturing presence, practical wisdom, creating sacred comfort"
   },
   {
     "id": 77,
@@ -439,12 +426,11 @@
       "status obsession",
       "corruption of comfort"
     ],
-    "meaning_upright": "Material mastery, abundance, steady leadership, business acumen, and reliable provider.",
-    "meaning_reversed": "Greed, materialism, rigid control of resources, status obsession, and corruption of comfort.",
-    "love": "A committed provider, bedrock loyalty, warmth alongside security.",
-    "career": "The summit of material success, sound investments, business leadership, and enduring prosperity.",
+    "meaning_upright": "Material mastery, abundance, steady leadership, business acumen, reliable provider.",
+    "meaning_reversed": "Greed, materialism, rigid control of resources, status obsession, corruption of comfort.",
+    "love": "dependable commitment, protective partnership, long-term stability, providing security in love",
+    "career": "business success, financial leadership, dependable authority, long-term prosperity",
     "mood": "Assured, generous.",
-    "spiritual": "Stewardship, wealth as responsibility, prosperity shared with gratitude.",
-    "url": "https://tarotoo.com/tarot-card-meanings/king-of-pentacles"
+    "spiritual": "spiritual stewardship, grounded mastery, wise use of abundance, stable and generous leadership"
   }
 ]

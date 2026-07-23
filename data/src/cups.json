@@ -23,13 +23,12 @@
       "emotional loss",
       "self-love needed"
     ],
-    "meaning_upright": "New love, emotional beginning, compassion, overflowing heart, and spiritual opening.",
-    "meaning_reversed": "Blocked emotions, emptiness, repressed feelings, emotional loss, and self-love needed.",
-    "love": "New romance, fresh emotional depth, and open-hearted connection.",
-    "career": "Emotionally fulfilling work, creative flow, or warm new connections.",
+    "meaning_upright": "New love, emotional beginning, compassion, overflowing heart, spiritual opening.",
+    "meaning_reversed": "Blocked emotions, emptiness, repressed feelings, emotional loss, self-love needed.",
+    "love": "new love, emotional opening, overflowing affection, deepening feelings",
+    "career": "fulfilling opportunity, creative inspiration, emotionally rewarding work, positive workplace beginning",
     "mood": "Tender, open-hearted.",
-    "spiritual": "Love as opening, an overflowing heart, refilled from a deeper source.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ace-of-cups"
+    "spiritual": "spiritual opening, divine love, emotional renewal, deepening compassion"
   },
   {
     "id": 37,
@@ -55,13 +54,12 @@
       "miscommunication",
       "self-partnership needed"
     ],
-    "meaning_upright": "Partnership, mutual attraction, connection, harmony, and union of equals.",
-    "meaning_reversed": "Imbalance, broken connection, tension, miscommunication, and self-partnership needed.",
-    "love": "Mutual attraction and partnership, a bond of genuine reciprocity.",
-    "career": "Partnerships, collaborations, and one-on-one alliances built on mutual respect.",
+    "meaning_upright": "Partnership, mutual attraction, connection, harmony, union of equals.",
+    "meaning_reversed": "Imbalance, broken connection, tension, miscommunication, self-partnership needed.",
+    "love": "mutual love, emotional partnership, shared attraction, balanced connection",
+    "career": "successful partnership, strong collaboration, professional agreement, shared career goals",
     "mood": "Affectionate, harmonious.",
-    "spiritual": "Sacred connection, another person as a mirror in which the soul recognizes itself.",
-    "url": "https://tarotoo.com/tarot-card-meanings/two-of-cups"
+    "spiritual": "soulful connection, spiritual partnership, energetic harmony, meeting through shared values"
   },
   {
     "id": 38,
@@ -87,13 +85,12 @@
       "gossip",
       "excess"
     ],
-    "meaning_upright": "Celebration, friendship, community, joy shared, and creative collaboration.",
-    "meaning_reversed": "Overindulgence, third-party interference, isolation from friends, gossip, and excess.",
-    "love": "Celebration and social warmth, though reversed it can flag outside interference in the relationship.",
-    "career": "Successful teamwork and collaborative wins worth celebrating.",
+    "meaning_upright": "Celebration, friendship, community, joy shared, creative collaboration.",
+    "meaning_reversed": "Overindulgence, third-party interference, isolation from friends, gossip, excess.",
+    "love": "dating and socializing, joyful reunion, celebration with a partner, friendship becoming romantic",
+    "career": "teamwork, professional networking, workplace celebration, supportive colleagues",
     "mood": "Joyful, sociable.",
-    "spiritual": "Communion, gratitude multiplied by being celebrated among kindred spirits.",
-    "url": "https://tarotoo.com/tarot-card-meanings/three-of-cups"
+    "spiritual": "spiritual fellowship, shared joy, supportive community, gratitude expressed together"
   },
   {
     "id": 39,
@@ -119,13 +116,12 @@
       "new motivation",
       "openness"
     ],
-    "meaning_upright": "Apathy, contemplation, disconnection, missed offer, and reevaluation.",
-    "meaning_reversed": "Renewed interest, accepting the offer, emerging from withdrawal, new motivation, and openness.",
-    "love": "Emotional distance or taking a partner for granted, an offer of connection may be going unnoticed.",
-    "career": "Disengagement or an overlooked opportunity, look again before saying nothing interests you.",
+    "meaning_upright": "Apathy, contemplation, disconnection, missed offer, reevaluation.",
+    "meaning_reversed": "Renewed interest, accepting the offer, emerging from withdrawal, new motivation, openness.",
+    "love": "emotional withdrawal, romantic dissatisfaction, overlooking an opportunity, feeling disconnected",
+    "career": "career dissatisfaction, workplace boredom, overlooked opportunity, need for renewed motivation",
     "mood": "Apathetic, withdrawn.",
-    "spiritual": "A call to presence, noticing the blessing being offered before deciding nothing is there.",
-    "url": "https://tarotoo.com/tarot-card-meanings/four-of-cups"
+    "spiritual": "spiritual apathy, inward withdrawal, overlooked guidance, renewing emotional receptivity"
   },
   {
     "id": 40,
@@ -151,13 +147,12 @@
       "seeing what remains",
       "healing"
     ],
-    "meaning_upright": "Loss, grief, regret, focusing on what's gone, and disappointment.",
-    "meaning_reversed": "Acceptance, moving on, forgiveness, seeing what remains, and healing.",
-    "love": "Grieving a loss or disappointment, and to the remaining connection that grief may be obscuring.",
-    "career": "A setback worth mourning briefly, then salvaging, something valuable survived the spill.",
+    "meaning_upright": "Loss, grief, regret, focusing on what's gone, disappointment.",
+    "meaning_reversed": "Acceptance, moving on, forgiveness, seeing what remains, healing.",
+    "love": "heartbreak, regret in love, grieving a relationship, focusing on emotional loss",
+    "career": "professional disappointment, missed opportunity, career regret, learning from setbacks",
     "mood": "Sorrowful, regretful.",
-    "spiritual": "Grief as teacher, mourning honestly, then turning to the cups that still stand.",
-    "url": "https://tarotoo.com/tarot-card-meanings/five-of-cups"
+    "spiritual": "spiritual lessons through grief, acceptance of loss, emotional release, noticing what remains"
   },
   {
     "id": 41,
@@ -183,13 +178,12 @@
       "growing up",
       "releasing old ties"
     ],
-    "meaning_upright": "Nostalgia, childhood, innocence, reunion, and simple kindness.",
-    "meaning_reversed": "Stuck in the past, rose-tinted memory, leaving home, growing up, and releasing old ties.",
-    "love": "Innocent affection, a past lover resurfacing, or reconnecting with why you fell for each other.",
-    "career": "Returning to earlier passions or working with something from your past.",
+    "meaning_upright": "Nostalgia, childhood, innocence, reunion, simple kindness.",
+    "meaning_reversed": "Stuck in the past, rose-tinted memory, leaving home, growing up, releasing old ties.",
+    "love": "past love, romantic nostalgia, reunion with an ex, innocent affection",
+    "career": "returning to a former career, familiar workplace, mentoring others, nostalgia influencing career choices",
     "mood": "Nostalgic, sweet.",
-    "spiritual": "Inner-child healing, revisiting innocence to reclaim the simple kindness the soul remembers.",
-    "url": "https://tarotoo.com/tarot-card-meanings/six-of-cups"
+    "spiritual": "healing the inner child, ancestral memories, spiritual innocence, reconnecting with simple joy"
   },
   {
     "id": 42,
@@ -215,13 +209,12 @@
       "overwhelm ending",
       "realism"
     ],
-    "meaning_upright": "Choices, fantasy, illusion, wishful thinking, and options.",
-    "meaning_reversed": "Clarity, decision made, cutting through illusion, overwhelm ending, and realism.",
-    "love": "Idealizing someone or keeping options endlessly open instead of choosing.",
-    "career": "Many possibilities but a need for realistic evaluation, pick one and commit.",
+    "meaning_upright": "Choices, fantasy, illusion, wishful thinking, options.",
+    "meaning_reversed": "Clarity, decision made, cutting through illusion, overwhelm ending, realism.",
+    "love": "romantic options, fantasy and idealization, unclear intentions, difficulty choosing a partner",
+    "career": "many career options, unrealistic expectations, scattered focus, choosing a practical path",
     "mood": "Dreamy, indecisive.",
-    "spiritual": "Discernment, asking which vision feeds the soul and which merely fascinates it.",
-    "url": "https://tarotoo.com/tarot-card-meanings/seven-of-cups"
+    "spiritual": "spiritual discernment, separating intuition from fantasy, many possible paths, grounding imagination"
   },
   {
     "id": 43,
@@ -247,13 +240,12 @@
       "staying too long",
       "unfinished departure"
     ],
-    "meaning_upright": "Walking away, seeking deeper meaning, leaving behind, disillusionment, and quest.",
-    "meaning_reversed": "Fear of leaving, returning, avoidance, staying too long, and unfinished departure.",
-    "love": "Emotionally outgrowing a situation and the difficult choice to walk away or recommit fully.",
-    "career": "Leaving a stable but unfulfilling path in search of meaningful work.",
+    "meaning_upright": "Walking away, seeking deeper meaning, leaving behind, disillusionment, quest.",
+    "meaning_reversed": "Fear of leaving, returning, avoidance, staying too long, unfinished departure.",
+    "love": "walking away from a relationship, seeking deeper fulfillment, emotional detachment, leaving what no longer satisfies",
+    "career": "leaving an unfulfilling job, seeking meaningful work, career transition, moving beyond stagnation",
     "mood": "Wistful, restless.",
-    "spiritual": "The soul's quest, seeking deeper meaning, leaving comfort for truth.",
-    "url": "https://tarotoo.com/tarot-card-meanings/eight-of-cups"
+    "spiritual": "leaving an empty path, seeking deeper meaning, spiritual pilgrimage, releasing emotional attachment"
   },
   {
     "id": 44,
@@ -279,13 +271,12 @@
       "smugness",
       "inner lack"
     ],
-    "meaning_upright": "Wishes fulfilled, contentment, satisfaction, pleasure, and gratitude.",
-    "meaning_reversed": "Superficial happiness, greed, unfulfilled wishes, smugness, and inner lack.",
-    "love": "Emotional contentment and wishes in matters of the heart coming true.",
-    "career": "Well-earned satisfaction and rewards, enjoy the achievement without coasting.",
+    "meaning_upright": "Wishes fulfilled, contentment, satisfaction, pleasure, gratitude.",
+    "meaning_reversed": "Superficial happiness, greed, unfulfilled wishes, smugness, inner lack.",
+    "love": "romantic satisfaction, emotional pleasure, receiving desired affection, enjoying love",
+    "career": "career satisfaction, desired professional outcome, rewarding achievement, enjoying success",
     "mood": "Content, satisfied.",
-    "spiritual": "Gratitude's test, enjoying fulfillment while asking what truly nourishes beneath the pleasure.",
-    "url": "https://tarotoo.com/tarot-card-meanings/nine-of-cups"
+    "spiritual": "spiritual contentment, gratitude, emotional fulfillment, appreciating present blessings"
   },
   {
     "id": 45,
@@ -311,13 +302,12 @@
       "disconnection at home",
       "strained bonds"
     ],
-    "meaning_upright": "Lasting happiness, family harmony, emotional fulfillment, love realized, and belonging.",
-    "meaning_reversed": "Family discord, broken harmony, unrealistic ideals, disconnection at home, and strained bonds.",
-    "love": "Deep commitment, family, and shared happiness, the full emotional arc.",
-    "career": "Work-life harmony and an environment that feels like belonging.",
+    "meaning_upright": "Lasting happiness, family harmony, emotional fulfillment, love realized, belonging.",
+    "meaning_reversed": "Family discord, broken harmony, unrealistic ideals, disconnection at home, strained bonds.",
+    "love": "lasting happiness, emotional security, harmonious family life, fulfilled partnership",
+    "career": "harmonious workplace, meaningful career, supportive team, long-term professional fulfillment",
     "mood": "Loving, fulfilled.",
-    "spiritual": "Love realized, everyday life itself becoming the blessing that was once only wished for.",
-    "url": "https://tarotoo.com/tarot-card-meanings/ten-of-cups"
+    "spiritual": "spiritual harmony, shared emotional fulfillment, loving community, alignment of heart and home"
   },
   {
     "id": 46,
@@ -343,13 +333,12 @@
       "escapism",
       "oversensitivity"
     ],
-    "meaning_upright": "Emotional openness, creative message, intuition budding, sensitivity, and sweet surprise.",
-    "meaning_reversed": "Emotional immaturity, moodiness, blocked creativity, escapism, and oversensitivity.",
-    "love": "Sweet gestures, budding feelings, or a sensitive admirer.",
-    "career": "Creative beginnings and intuitive nudges worth taking seriously.",
+    "meaning_upright": "Emotional openness, creative message, intuition budding, sensitivity, sweet surprise.",
+    "meaning_reversed": "Emotional immaturity, moodiness, blocked creativity, escapism, oversensitivity.",
+    "love": "sweet romantic message, innocent crush, emotional vulnerability, unexpected expression of affection",
+    "career": "creative study, encouraging career news, beginner opportunity, intuitive professional idea",
     "mood": "Playful, sensitive.",
-    "spiritual": "Budding intuition, whimsical messages from the heart that deserve to be taken seriously.",
-    "url": "https://tarotoo.com/tarot-card-meanings/page-of-cups"
+    "spiritual": "intuitive message, gentle spiritual awakening, emotional openness, creative sensitivity"
   },
   {
     "id": 47,
@@ -375,13 +364,12 @@
       "flattery",
       "heart over head gone wrong"
     ],
-    "meaning_upright": "Romance, charm, invitation, following the heart, and idealism.",
-    "meaning_reversed": "Unrealistic promises, moodiness, disillusionment, flattery, and heart over head gone wrong.",
-    "love": "Classic romance, courtship, proposals, and grand gestures, judged by actions over words.",
-    "career": "Creative proposals and appealing offers, verify the practical details.",
+    "meaning_upright": "Romance, charm, invitation, following the heart, idealism.",
+    "meaning_reversed": "Unrealistic promises, moodiness, disillusionment, flattery, heart over head gone wrong.",
+    "love": "romantic proposal, heartfelt pursuit, charm and affection, following the heart",
+    "career": "following a vocation, persuasive proposal, creative profession, idealistic career move",
     "mood": "Romantic, idealistic.",
-    "spiritual": "The heart's calling, feeling as a compass, one foot kept on the ground.",
-    "url": "https://tarotoo.com/tarot-card-meanings/knight-of-cups"
+    "spiritual": "following the heart’s calling, devotional journey, spiritual idealism, offering compassion"
   },
   {
     "id": 48,
@@ -407,13 +395,12 @@
       "boundaries dissolved",
       "manipulation through feeling"
     ],
-    "meaning_upright": "Compassion, emotional depth, intuition, nurturing presence, and empathy.",
-    "meaning_reversed": "Emotional overwhelm, codependency, martyrdom, boundaries dissolved, and manipulation through feeling.",
-    "love": "Emotional attunement and devoted care, a bond where feelings are truly heard.",
-    "career": "Empathic leadership, counseling, and work guided by emotional intelligence.",
+    "meaning_upright": "Compassion, emotional depth, intuition, nurturing presence, empathy.",
+    "meaning_reversed": "Emotional overwhelm, codependency, martyrdom, boundaries dissolved, manipulation through feeling.",
+    "love": "deep emotional support, intuitive love, compassion, strong emotional connection",
+    "career": "empathetic leadership, caring profession, emotional intelligence, supportive workplace",
     "mood": "Empathic, calm.",
-    "spiritual": "Compassion embodied, emotional depth as a healing gift, boundaries intact.",
-    "url": "https://tarotoo.com/tarot-card-meanings/queen-of-cups"
+    "spiritual": "deep intuition, compassionate presence, emotional wisdom, receptive spiritual awareness"
   },
   {
     "id": 49,
@@ -439,12 +426,11 @@
       "moodiness in power",
       "emotional volatility"
     ],
-    "meaning_upright": "Emotional mastery, calm authority, diplomacy, balance of heart and head, and wise counsel.",
-    "meaning_reversed": "Repressed emotion, coldness, manipulation, moodiness in power, and emotional volatility.",
-    "love": "An emotionally steady partner, supportive and composed, depths shared rather than sealed.",
-    "career": "Wise counsel and diplomacy, staying gracious and level under pressure.",
+    "meaning_upright": "Emotional mastery, calm authority, diplomacy, balance of heart and head, wise counsel.",
+    "meaning_reversed": "Repressed emotion, coldness, manipulation, moodiness in power, emotional volatility.",
+    "love": "emotionally mature love, steady affection, balanced feelings, compassionate partnership",
+    "career": "diplomatic leadership, calm management, emotional maturity, balancing people and results",
     "mood": "Steady, gracious.",
-    "spiritual": "Mastery of the heart, feeling everything, ruled by nothing.",
-    "url": "https://tarotoo.com/tarot-card-meanings/king-of-cups"
+    "spiritual": "emotional mastery, compassionate leadership, balanced spirituality, calm inner authority"
   }
 ]
