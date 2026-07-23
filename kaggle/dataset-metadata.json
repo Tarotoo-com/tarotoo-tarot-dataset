@@ -67,6 +67,11 @@
             "description": "yes, no, or maybe - for yes-or-no readings"
           },
           {
+            "name": "yes_no_reversed",
+            "type": "string",
+            "description": "Yes/no value for a reversed card"
+          },
+          {
             "name": "keywords_upright",
             "type": "string",
             "description": "Upright keywords (joined with \"; \" in CSV)"
@@ -92,9 +97,19 @@
             "description": "Love/relationships context (short phrase)"
           },
           {
+            "name": "love_reversed",
+            "type": "string",
+            "description": "Reversed love/relationships context"
+          },
+          {
             "name": "career",
             "type": "string",
             "description": "Career/work context (short phrase)"
+          },
+          {
+            "name": "career_reversed",
+            "type": "string",
+            "description": "Reversed career/work context"
           },
           {
             "name": "mood",
@@ -102,9 +117,19 @@
             "description": "Mood/emotional tone (short phrase)"
           },
           {
+            "name": "mood_reversed",
+            "type": "string",
+            "description": "Reversed mood/emotional tone"
+          },
+          {
             "name": "spiritual",
             "type": "string",
             "description": "Spiritual-growth context (short phrase)"
+          },
+          {
+            "name": "spiritual_reversed",
+            "type": "string",
+            "description": "Reversed spiritual-growth context"
           }
         ]
       }

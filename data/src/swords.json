@@ -9,6 +9,7 @@
     "planet": null,
     "zodiac": "Gemini, Libra, Aquarius",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "clarity",
       "breakthrough",
@@ -26,9 +27,13 @@
     "meaning_upright": "Clarity, breakthrough, truth, new idea, mental sharpness.",
     "meaning_reversed": "Confusion, clouded judgment, misused intellect, harsh words, false clarity.",
     "love": "honest communication, relationship clarity, revealing the truth, a decisive romantic conversation",
+    "love_reversed": "clouded judgment, harsh words, miscommunication, false clarity",
     "career": "breakthrough idea, decisive communication, intellectual clarity, new professional strategy",
+    "career_reversed": "confusion, clouded strategy, harsh communication, misused intellect",
     "mood": "Sharp, alert.",
-    "spiritual": "spiritual breakthrough, clarity of truth, awakened perception, cutting through illusion"
+    "mood_reversed": "confused, tense, clouded",
+    "spiritual": "spiritual breakthrough, clarity of truth, awakened perception, cutting through illusion",
+    "spiritual_reversed": "clouded truth, confusion, false clarity, misused insight"
   },
   {
     "id": 51,
@@ -40,6 +45,7 @@
     "planet": "Moon",
     "zodiac": "Libra",
     "yes_no": "maybe",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "stalemate",
       "difficult choice",
@@ -57,9 +63,13 @@
     "meaning_upright": "Stalemate, difficult choice, avoidance, blocked feelings, truce.",
     "meaning_reversed": "Decision forced, information revealed, stalemate breaking, anxiety, release of denial.",
     "love": "romantic indecision, emotional stalemate, avoiding a decision, blocked communication",
+    "love_reversed": "forced decision, anxiety, information revealed, ending denial",
     "career": "career indecision, stalled negotiation, avoiding a professional choice, limited information",
+    "career_reversed": "decision forced, stalemate breaking, revealed information, anxiety",
     "mood": "Torn, guarded.",
-    "spiritual": "blocked intuition, spiritual indecision, inner conflict, finding stillness before choosing"
+    "mood_reversed": "anxious, pressured, conflicted",
+    "spiritual": "blocked intuition, spiritual indecision, inner conflict, finding stillness before choosing",
+    "spiritual_reversed": "ending denial, forced choice, released avoidance, anxious clarity"
   },
   {
     "id": 52,
@@ -71,6 +81,7 @@
     "planet": "Saturn",
     "zodiac": "Libra",
     "yes_no": "no",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "heartbreak",
       "painful truth",
@@ -88,9 +99,13 @@
     "meaning_upright": "Heartbreak, painful truth, grief, sorrow, separation.",
     "meaning_reversed": "Healing heartbreak, forgiveness, releasing pain, recovery, old wounds resurfacing.",
     "love": "heartbreak, separation, painful truth, emotional betrayal",
+    "love_reversed": "healing heartbreak, forgiveness, releasing pain, old wounds resurfacing",
     "career": "professional disappointment, workplace conflict, job rejection, difficult feedback",
+    "career_reversed": "recovery from setbacks, releasing resentment, healing conflict, moving on",
     "mood": "Hurt, raw.",
-    "spiritual": "truth revealed through pain, healing spiritual wounds, releasing sorrow, growth through acceptance"
+    "mood_reversed": "healing, tender, releasing",
+    "spiritual": "truth revealed through pain, healing spiritual wounds, releasing sorrow, growth through acceptance",
+    "spiritual_reversed": "healing old wounds, forgiveness, releasing sorrow, recovery through acceptance"
   },
   {
     "id": 53,
@@ -102,6 +117,7 @@
     "planet": "Jupiter",
     "zodiac": "Libra",
     "yes_no": "maybe",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "rest",
       "recovery",
@@ -119,9 +135,13 @@
     "meaning_upright": "Rest, recovery, retreat, stillness, recharging.",
     "meaning_reversed": "Burnout, restlessness, forced rest, returning to action, exhaustion ignored.",
     "love": "taking space in a relationship, emotional recovery, temporary separation, time to reflect",
+    "love_reversed": "restlessness, forced rest, returning too soon, ignored exhaustion",
     "career": "career break, recovery from burnout, strategic pause, preparing your next move",
+    "career_reversed": "burnout, restlessness, forced pause, returning to action",
     "mood": "Quiet, tired.",
-    "spiritual": "meditation and retreat, spiritual rest, mental renewal, quiet integration"
+    "mood_reversed": "restless, weary, uneasy",
+    "spiritual": "meditation and retreat, spiritual rest, mental renewal, quiet integration",
+    "spiritual_reversed": "restlessness, resisting rest, burnout, needing genuine renewal"
   },
   {
     "id": 54,
@@ -133,6 +153,7 @@
     "planet": "Venus",
     "zodiac": "Aquarius",
     "yes_no": "no",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "hollow victory",
       "conflict",
@@ -150,9 +171,13 @@
     "meaning_upright": "Hollow victory, conflict, winning at all costs, discord, self-interest.",
     "meaning_reversed": "Reconciliation, making amends, releasing resentment, lingering grudges, lesson learned.",
     "love": "relationship conflict, hurtful communication, selfish behavior, winning at the cost of intimacy",
+    "love_reversed": "reconciliation, making amends, lingering resentment, lesson learned",
     "career": "workplace conflict, unethical competition, damaged professional trust, hollow victory",
+    "career_reversed": "making amends, releasing conflict, lingering tension, lesson learned",
     "mood": "Bitter, conflicted.",
-    "spiritual": "examining ego conflict, consequences of harmful choices, spiritual humility, choosing peace over victory"
+    "mood_reversed": "reconciling, wary, softening",
+    "spiritual": "examining ego conflict, consequences of harmful choices, spiritual humility, choosing peace over victory",
+    "spiritual_reversed": "releasing resentment, making amends, humility, choosing peace"
   },
   {
     "id": 55,
@@ -164,6 +189,7 @@
     "planet": "Mercury",
     "zodiac": "Aquarius",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "transition",
       "moving on",
@@ -181,9 +207,13 @@
     "meaning_upright": "Transition, moving on, calmer waters, passage, gradual healing.",
     "meaning_reversed": "Resisting transition, unfinished business, rough crossing, returning to trouble, stuck baggage.",
     "love": "moving on from conflict, emotional transition, healing together, leaving relationship difficulties behind",
+    "love_reversed": "resisting transition, unfinished business, returning to trouble, stuck",
     "career": "moving to a better role, gradual career recovery, relocation for work, leaving difficulties behind",
+    "career_reversed": "resisting change, rough transition, unfinished business, stuck baggage",
     "mood": "Subdued but relieved.",
-    "spiritual": "spiritual transition, moving toward clarity, gradual healing, leaving troubled thoughts behind"
+    "mood_reversed": "stuck, uneasy, weighed down",
+    "spiritual": "spiritual transition, moving toward clarity, gradual healing, leaving troubled thoughts behind",
+    "spiritual_reversed": "resisting transition, carrying old baggage, returning to trouble, stalled healing"
   },
   {
     "id": 56,
@@ -195,6 +225,7 @@
     "planet": "Moon",
     "zodiac": "Aquarius",
     "yes_no": "no",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "deception",
       "strategy",
@@ -212,9 +243,13 @@
     "meaning_upright": "Deception, strategy, acting alone, getting away with it, cunning.",
     "meaning_reversed": "Confession, conscience, exposure, coming clean, self-deception revealed.",
     "love": "secrecy, dishonesty in love, avoiding commitment, hidden motives",
+    "love_reversed": "confession, coming clean, exposed secrets, conscience",
     "career": "strategic planning, office politics, working independently, questionable professional tactics",
+    "career_reversed": "exposure of tactics, coming clean, conscience, revealed deception",
     "mood": "Wary, calculating.",
-    "spiritual": "self-deception, hidden motives, spiritual avoidance, need for honesty and integrity"
+    "mood_reversed": "guilty, exposed, uneasy",
+    "spiritual": "self-deception, hidden motives, spiritual avoidance, need for honesty and integrity",
+    "spiritual_reversed": "confession, self-deception revealed, conscience, coming clean"
   },
   {
     "id": 57,
@@ -226,6 +261,7 @@
     "planet": "Jupiter",
     "zodiac": "Gemini",
     "yes_no": "no",
+    "yes_no_reversed": "yes",
     "keywords_upright": [
       "feeling trapped",
       "self-restriction",
@@ -243,9 +279,13 @@
     "meaning_upright": "Feeling trapped, self-restriction, victim mindset, mental prison, paralysis.",
     "meaning_reversed": "Liberation, new perspective, self-empowerment, blindfold removed, taking responsibility.",
     "love": "feeling trapped in a relationship, fear of leaving, limiting beliefs about love, emotional powerlessness",
+    "love_reversed": "liberation, new perspective, self-empowerment, releasing limiting beliefs",
     "career": "feeling trapped at work, professional self-doubt, limited options, need for a new perspective",
+    "career_reversed": "new perspective, breaking free, self-empowerment, taking responsibility",
     "mood": "Anxious, stuck.",
-    "spiritual": "self-imposed spiritual limits, restrictive beliefs, fear-based thinking, recognizing inner freedom"
+    "mood_reversed": "freeing, clearer, empowered",
+    "spiritual": "self-imposed spiritual limits, restrictive beliefs, fear-based thinking, recognizing inner freedom",
+    "spiritual_reversed": "liberation, removing the blindfold, self-empowerment, releasing fear-based beliefs"
   },
   {
     "id": 58,
@@ -257,6 +297,7 @@
     "planet": "Mars",
     "zodiac": "Gemini",
     "yes_no": "no",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "anxiety",
       "sleepless nights",
@@ -274,9 +315,13 @@
     "meaning_upright": "Anxiety, sleepless nights, worry, dread, mental anguish.",
     "meaning_reversed": "Easing anxiety, facing fears, seeking help, perspective returning, recovery from despair.",
     "love": "relationship anxiety, fear of rejection, guilt or regret, overthinking love",
+    "love_reversed": "easing anxiety, facing fears, seeking support, perspective returning",
     "career": "job anxiety, fear of failure, work-related stress, overthinking career problems",
+    "career_reversed": "easing worry, facing fears, seeking help, recovery from stress",
     "mood": "Distressed, sleepless.",
-    "spiritual": "spiritual anxiety, confronting fear, shadow thoughts, seeking peace through awareness"
+    "mood_reversed": "easing, hopeful, recovering",
+    "spiritual": "spiritual anxiety, confronting fear, shadow thoughts, seeking peace through awareness",
+    "spiritual_reversed": "easing anxiety, facing shadow thoughts, seeking help, returning peace"
   },
   {
     "id": 59,
@@ -288,6 +333,7 @@
     "planet": "Sun",
     "zodiac": "Gemini",
     "yes_no": "no",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "painful ending",
       "rock bottom",
@@ -305,9 +351,13 @@
     "meaning_upright": "Painful ending, rock bottom, betrayal, collapse, the worst is over.",
     "meaning_reversed": "Recovery, rising again, surviving the ending, old wounds closing, refusing the final lesson.",
     "love": "painful ending, betrayal, relationship collapse, accepting that a romantic chapter is over",
+    "love_reversed": "recovery, rising again, surviving an ending, refusing the final lesson",
     "career": "job ending, failed project, professional betrayal, final career closure",
+    "career_reversed": "recovery, rising again, surviving closure, slow rebuilding",
     "mood": "Defeated, drained.",
-    "spiritual": "ending a painful cycle, surrender after crisis, spiritual closure, beginning again after collapse"
+    "mood_reversed": "recovering, weary, hopeful",
+    "spiritual": "ending a painful cycle, surrender after crisis, spiritual closure, beginning again after collapse",
+    "spiritual_reversed": "recovery, rising after collapse, surviving the ending, closing old wounds"
   },
   {
     "id": 60,
@@ -319,6 +369,7 @@
     "planet": null,
     "zodiac": "Gemini, Libra, Aquarius",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "curiosity",
       "vigilance",
@@ -336,9 +387,13 @@
     "meaning_upright": "Curiosity, vigilance, new ideas, mental energy, truth-seeking.",
     "meaning_reversed": "Gossip, hasty words, scattered thinking, spying, all talk.",
     "love": "curious communication, watching from a distance, cautious interest, questioning a partner’s intentions",
+    "love_reversed": "hasty words, gossip, scattered thinking, all talk",
     "career": "professional research, sharp communication, new learning, monitoring opportunities",
+    "career_reversed": "scattered thinking, gossip, hasty communication, spying",
     "mood": "Inquisitive, alert.",
-    "spiritual": "questioning beliefs, spiritual study, alert observation, seeking truth with curiosity"
+    "mood_reversed": "scattered, guarded, restless",
+    "spiritual": "questioning beliefs, spiritual study, alert observation, seeking truth with curiosity",
+    "spiritual_reversed": "scattered thinking, hasty conclusions, gossip, seeking without depth"
   },
   {
     "id": 61,
@@ -350,6 +405,7 @@
     "planet": "Mercury",
     "zodiac": "Gemini",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "decisive action",
       "ambition",
@@ -367,9 +423,13 @@
     "meaning_upright": "Decisive action, ambition, directness, charging ahead, intellectual drive.",
     "meaning_reversed": "Recklessness, aggression, rushing past details, burnout sprint, verbal attacks.",
     "love": "direct romantic pursuit, intense conversations, rushing into a relationship, conflict through impulsive words",
+    "love_reversed": "recklessness, verbal conflict, rushing in, burnout",
     "career": "fast career decisions, forceful ambition, intense debate, rushing into action",
+    "career_reversed": "recklessness, aggression, rushing past details, burnout sprint",
     "mood": "Intense, hasty.",
-    "spiritual": "intense pursuit of truth, forceful conviction, mental urgency, balancing action with reflection"
+    "mood_reversed": "aggressive, rushed, tense",
+    "spiritual": "intense pursuit of truth, forceful conviction, mental urgency, balancing action with reflection",
+    "spiritual_reversed": "reckless pursuit, forceful conviction, rushing past reflection, mental urgency"
   },
   {
     "id": 62,
@@ -381,6 +441,7 @@
     "planet": "Venus",
     "zodiac": "Libra",
     "yes_no": "maybe",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "clear judgment",
       "independence",
@@ -398,9 +459,13 @@
     "meaning_upright": "Clear judgment, independence, honest communication, boundaries, experienced wisdom.",
     "meaning_reversed": "Coldness, bitterness, harsh criticism, isolation, cynicism.",
     "love": "clear boundaries, emotional independence, honest expectations, discerning relationship choices",
+    "love_reversed": "coldness, bitterness, harsh criticism, isolation",
     "career": "objective judgment, clear professional boundaries, independent expertise, direct communication",
+    "career_reversed": "cynicism, harsh criticism, isolation, cold judgment",
     "mood": "Clear, composed.",
-    "spiritual": "spiritual discernment, honest self-reflection, clear energetic boundaries, wisdom through experience"
+    "mood_reversed": "cold, bitter, guarded",
+    "spiritual": "spiritual discernment, honest self-reflection, clear energetic boundaries, wisdom through experience",
+    "spiritual_reversed": "bitterness, harsh self-judgment, isolation, cynicism blocking wisdom"
   },
   {
     "id": 63,
@@ -412,6 +477,7 @@
     "planet": "Saturn",
     "zodiac": "Aquarius",
     "yes_no": "maybe",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "intellectual authority",
       "truth",
@@ -429,8 +495,12 @@
     "meaning_upright": "Intellectual authority, truth, impartial judgment, strategy, ethical clarity.",
     "meaning_reversed": "Abuse of intellect, cold ruthlessness, manipulation, rigid logic, unjust judgment.",
     "love": "rational approach to love, serious communication, emotional restraint, fair and thoughtful partnership",
+    "love_reversed": "cold logic, emotional restraint, harsh judgment, manipulation",
     "career": "strategic leadership, authority through knowledge, ethical decisions, analytical mastery",
+    "career_reversed": "abuse of intellect, cold ruthlessness, rigid logic, unjust decisions",
     "mood": "Rational, authoritative.",
-    "spiritual": "higher reasoning, ethical spiritual authority, disciplined thought, commitment to truth"
+    "mood_reversed": "cold, rigid, detached",
+    "spiritual": "higher reasoning, ethical spiritual authority, disciplined thought, commitment to truth",
+    "spiritual_reversed": "rigid logic, misused intellect, cold detachment, judgment without compassion"
   }
 ]

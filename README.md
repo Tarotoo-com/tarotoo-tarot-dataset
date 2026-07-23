@@ -38,14 +38,19 @@ Each card record has the following fields:
 | `planet`            | string/null  | Planetary association (Golden Dawn; decan planet for pips)                       |
 | `zodiac`            | string/null  | Zodiac association (sign, decan sign, or element's signs for courts)             |
 | `yes_no`            | string       | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings                              |
+| `yes_no_reversed`   | string       | `"yes"`, `"no"`, or `"maybe"` for a reversed card                                |
 | `keywords_upright`  | string[]     | 4–5 upright keywords                                                             |
 | `keywords_reversed` | string[]     | 4–5 reversed keywords                                                            |
 | `meaning_upright`   | string       | Upright meaning as concise keyword phrases                                       |
 | `meaning_reversed`  | string       | Reversed meaning as concise keyword phrases                                      |
 | `love`              | string       | Love/relationships context (short phrase)                                        |
+| `love_reversed`     | string       | Reversed love/relationships context (keyword phrases)                            |
 | `career`            | string       | Career/work context (short phrase)                                               |
+| `career_reversed`   | string       | Reversed career/work context (keyword phrases)                                   |
 | `mood`              | string       | Mood/emotional tone (short phrase)                                               |
+| `mood_reversed`     | string       | Reversed mood/emotional tone (keyword phrases)                                   |
 | `spiritual`         | string       | Spiritual-growth context (short phrase)                                          |
+| `spiritual_reversed`| string       | Reversed spiritual-growth context (keyword phrases)                              |
 
 ## Access the Dataset and Tools
 

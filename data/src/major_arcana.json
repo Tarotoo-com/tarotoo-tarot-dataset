@@ -9,6 +9,7 @@
     "planet": "Uranus",
     "zodiac": "Aquarius",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "new beginnings",
       "spontaneity",
@@ -26,9 +27,13 @@
     "meaning_upright": "New beginnings, spontaneity, innocence, leap of faith, free spirit.",
     "meaning_reversed": "Recklessness, hesitation, naivety, poor judgment, fear of change.",
     "love": "new romance, emotional openness, spontaneous connection, taking a chance on love",
+    "love_reversed": "reckless romance, fear of commitment, naive expectations, leaping without looking",
     "career": "new career path, taking a professional risk, entrepreneurial leap, learning through experience",
+    "career_reversed": "reckless decisions, poor planning, fear of starting, missed timing",
     "mood": "Light, curious, playful.",
-    "spiritual": "spiritual beginning, trust in the journey, openness to the unknown, following inner guidance"
+    "mood_reversed": "anxious, hesitant, unsettled",
+    "spiritual": "spiritual beginning, trust in the journey, openness to the unknown, following inner guidance",
+    "spiritual_reversed": "aimless wandering, ignoring inner guidance, fear of the unknown, avoiding the path"
   },
   {
     "id": 1,
@@ -40,6 +45,7 @@
     "planet": "Mercury",
     "zodiac": "Gemini",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "manifestation",
       "willpower",
@@ -57,9 +63,13 @@
     "meaning_upright": "Manifestation, willpower, resourcefulness, skill, focused action.",
     "meaning_reversed": "Manipulation, untapped talent, scattered energy, trickery, illusion.",
     "love": "strong attraction, romantic initiative, clear intentions, creating the relationship you desire",
+    "love_reversed": "manipulation, mixed signals, unfulfilled potential, deception in romance",
     "career": "skillful execution, using available resources, career initiative, turning ideas into results",
+    "career_reversed": "wasted talent, scattered focus, misused skills, unrealized plans",
     "mood": "Confident, energized.",
-    "spiritual": "focused intention, conscious manifestation, aligning will and action, recognizing personal power"
+    "mood_reversed": "scattered, doubtful, uneasy",
+    "spiritual": "focused intention, conscious manifestation, aligning will and action, recognizing personal power",
+    "spiritual_reversed": "misused power, spiritual illusion, disconnection from intention, self-deception"
   },
   {
     "id": 2,
@@ -71,6 +81,7 @@
     "planet": "Moon",
     "zodiac": "Cancer",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "intuition",
       "inner wisdom",
@@ -88,9 +99,13 @@
     "meaning_upright": "Intuition, inner wisdom, mystery, the subconscious, stillness.",
     "meaning_reversed": "Ignored intuition, secrets, disconnection from self, hidden agendas, surface knowledge.",
     "love": "unspoken feelings, emotional intuition, hidden attraction, a private or mysterious connection",
+    "love_reversed": "ignored intuition, hidden feelings, secrecy, emotional disconnection",
     "career": "trusting professional intuition, working behind the scenes, confidential matters, patient observation",
+    "career_reversed": "overlooked information, surface knowledge, hidden agendas, ignored instincts",
     "mood": "Quiet, inward, softly mysterious.",
-    "spiritual": "inner wisdom, sacred mystery, intuitive awareness, listening to the subconscious"
+    "mood_reversed": "confused, guarded, disconnected",
+    "spiritual": "inner wisdom, sacred mystery, intuitive awareness, listening to the subconscious",
+    "spiritual_reversed": "silenced intuition, blocked inner voice, secrets kept from the self, lost inner wisdom"
   },
   {
     "id": 3,
@@ -102,6 +117,7 @@
     "planet": "Venus",
     "zodiac": "Taurus",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "abundance",
       "nurturing",
@@ -119,9 +135,13 @@
     "meaning_upright": "Abundance, nurturing, fertility, creativity, sensuality.",
     "meaning_reversed": "Creative block, smothering, self-neglect, dependence, stagnation.",
     "love": "nurturing love, affection, sensuality, emotional abundance",
+    "love_reversed": "smothering, neglect, dependence, blocked affection",
     "career": "creative growth, supportive workplace, productive abundance, nurturing a project",
+    "career_reversed": "creative block, stagnation, lack of support, unproductive effort",
     "mood": "Warm, sensual, content.",
-    "spiritual": "connection with nature, creative life force, receptive abundance, nurturing spiritual growth"
+    "mood_reversed": "drained, insecure, restless",
+    "spiritual": "connection with nature, creative life force, receptive abundance, nurturing spiritual growth",
+    "spiritual_reversed": "creative stagnation, self-neglect, disconnection from nature, blocked nurturing energy"
   },
   {
     "id": 4,
@@ -133,6 +153,7 @@
     "planet": "Mars",
     "zodiac": "Aries",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "structure",
       "authority",
@@ -150,9 +171,13 @@
     "meaning_upright": "Structure, authority, stability, leadership, discipline.",
     "meaning_reversed": "Rigidity, control issues, domination, lack of discipline, abuse of power.",
     "love": "commitment, stability, protection, a structured relationship",
+    "love_reversed": "control issues, rigidity, domination, emotional coldness",
     "career": "leadership, structure, authority, long-term career stability",
+    "career_reversed": "abuse of power, inflexibility, lack of discipline, unstable authority",
     "mood": "Steady, resolute, composed.",
-    "spiritual": "spiritual discipline, inner authority, grounded leadership, creating stable foundations"
+    "mood_reversed": "tense, controlling, frustrated",
+    "spiritual": "spiritual discipline, inner authority, grounded leadership, creating stable foundations",
+    "spiritual_reversed": "rigid beliefs, misused authority, loss of self-discipline, unstable foundations"
   },
   {
     "id": 5,
@@ -164,6 +189,7 @@
     "planet": "Venus",
     "zodiac": "Taurus",
     "yes_no": "maybe",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "tradition",
       "guidance",
@@ -181,9 +207,13 @@
     "meaning_upright": "Tradition, guidance, shared values, institutions, mentorship.",
     "meaning_reversed": "Rebellion, questioning convention, restriction, dogma, breaking rules.",
     "love": "traditional commitment, shared values, marriage, spiritual partnership",
+    "love_reversed": "unconventional bond, mismatched values, questioning commitment, breaking tradition",
     "career": "established institutions, mentorship, formal training, conventional career path",
+    "career_reversed": "rebellion against structure, rejecting convention, restrictive institution, dogmatic workplace",
     "mood": "Reflective, respectful.",
-    "spiritual": "spiritual tradition, sacred teachings, mentorship, shared beliefs and ritual"
+    "mood_reversed": "rebellious, conflicted, questioning",
+    "spiritual": "spiritual tradition, sacred teachings, mentorship, shared beliefs and ritual",
+    "spiritual_reversed": "questioning tradition, rejecting dogma, seeking a personal path, spiritual nonconformity"
   },
   {
     "id": 6,
@@ -195,6 +225,7 @@
     "planet": "Mercury",
     "zodiac": "Gemini",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "love",
       "union",
@@ -212,9 +243,13 @@
     "meaning_upright": "Love, union, alignment, meaningful choice, harmony.",
     "meaning_reversed": "Disharmony, misalignment, avoidance of choice, temptation, imbalance.",
     "love": "deep connection, mutual attraction, relationship choices, emotional alignment",
+    "love_reversed": "disharmony, misalignment, avoided choices, values clash",
     "career": "aligned career choice, productive partnership, values-based decision, important professional commitment",
+    "career_reversed": "misaligned decision, conflicting priorities, broken partnership, poor commitment",
     "mood": "Tender, heart-open.",
-    "spiritual": "alignment with core values, sacred union, conscious choice, integrating inner opposites"
+    "mood_reversed": "conflicted, torn, unsettled",
+    "spiritual": "alignment with core values, sacred union, conscious choice, integrating inner opposites",
+    "spiritual_reversed": "inner conflict, misaligned values, avoided choices, disharmony within"
   },
   {
     "id": 7,
@@ -226,6 +261,7 @@
     "planet": "Moon",
     "zodiac": "Cancer",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "determination",
       "victory",
@@ -243,9 +279,13 @@
     "meaning_upright": "Determination, victory, willpower, self-control, momentum.",
     "meaning_reversed": "Lack of direction, aggression, obstacles, scattered forces, loss of control.",
     "love": "pursuing love, relationship progress, shared direction, overcoming romantic obstacles",
+    "love_reversed": "loss of direction, opposing goals, romantic obstacles, lack of control",
     "career": "ambition, focused progress, overcoming competition, taking control of your career",
+    "career_reversed": "scattered forces, stalled ambition, loss of control, aggressive competition",
     "mood": "Driven, determined.",
-    "spiritual": "spiritual determination, directing inner forces, disciplined progress, mastery through focus"
+    "mood_reversed": "frustrated, aimless, forceful",
+    "spiritual": "spiritual determination, directing inner forces, disciplined progress, mastery through focus",
+    "spiritual_reversed": "loss of direction, undisciplined will, scattered energy, inner conflict"
   },
   {
     "id": 8,
@@ -257,6 +297,7 @@
     "planet": "Sun",
     "zodiac": "Leo",
     "yes_no": "yes",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "courage",
       "inner strength",
@@ -274,9 +315,13 @@
     "meaning_upright": "Courage, inner strength, patience, compassion, gentle power.",
     "meaning_reversed": "Self-doubt, raw emotion, impatience, insecurity, forcing.",
     "love": "patience in love, gentle devotion, emotional courage, compassionate support",
+    "love_reversed": "self-doubt, impatience, emotional insecurity, forcing connection",
     "career": "quiet leadership, professional confidence, patience under pressure, managing challenges with composure",
+    "career_reversed": "low confidence, impatience, pressure mishandled, self-doubt",
     "mood": "Calm courage.",
-    "spiritual": "inner courage, compassionate self-mastery, gentle resilience, transforming instinct with awareness"
+    "mood_reversed": "insecure, impatient, raw",
+    "spiritual": "inner courage, compassionate self-mastery, gentle resilience, transforming instinct with awareness",
+    "spiritual_reversed": "self-doubt, inner turmoil, forcing instead of allowing, wavering courage"
   },
   {
     "id": 9,
@@ -288,6 +333,7 @@
     "planet": "Mercury",
     "zodiac": "Virgo",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "introspection",
       "solitude",
@@ -305,9 +351,13 @@
     "meaning_upright": "Introspection, solitude, inner guidance, wisdom, searching.",
     "meaning_reversed": "Isolation, loneliness, withdrawal, lost direction, avoidance.",
     "love": "time alone, romantic introspection, emotional distance, understanding personal needs",
+    "love_reversed": "isolation, emotional withdrawal, loneliness, avoiding connection",
     "career": "independent work, career reflection, specialist expertise, seeking meaningful direction",
+    "career_reversed": "isolation at work, lost direction, avoidance, excessive solitude",
     "mood": "Solitary, contemplative.",
-    "spiritual": "solitude and reflection, inner searching, spiritual guidance, discovering personal truth"
+    "mood_reversed": "lonely, withdrawn, lost",
+    "spiritual": "solitude and reflection, inner searching, spiritual guidance, discovering personal truth",
+    "spiritual_reversed": "isolation, avoidance of inner work, lost direction, disconnection from guidance"
   },
   {
     "id": 10,
@@ -319,6 +369,7 @@
     "planet": "Jupiter",
     "zodiac": "Sagittarius",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "change",
       "cycles",
@@ -336,9 +387,13 @@
     "meaning_upright": "Change, cycles, destiny, turning point, luck.",
     "meaning_reversed": "Resistance to change, bad luck, repeating cycles, setbacks, clinging.",
     "love": "change in love, unexpected encounter, relationship turning point, repeating romantic cycles",
+    "love_reversed": "repeating patterns, bad timing, romantic setbacks, resistance to change",
     "career": "changing opportunities, career turning point, unexpected progress, adapting to professional cycles",
+    "career_reversed": "setbacks, missed opportunities, bad luck, clinging to the past",
     "mood": "Anticipatory, changeable.",
-    "spiritual": "cycles of growth, accepting change, karmic patterns, trusting life’s movement"
+    "mood_reversed": "resistant, discouraged, stuck",
+    "spiritual": "cycles of growth, accepting change, karmic patterns, trusting life’s movement",
+    "spiritual_reversed": "resisting change, repeating karmic cycles, fighting the flow, feeling stuck"
   },
   {
     "id": 11,
@@ -350,6 +405,7 @@
     "planet": "Venus",
     "zodiac": "Libra",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "fairness",
       "truth",
@@ -367,9 +423,13 @@
     "meaning_upright": "Fairness, truth, accountability, cause and effect, clarity.",
     "meaning_reversed": "Unfairness, dishonesty, avoiding accountability, bias, imbalance.",
     "love": "honesty, relationship balance, accountability, fair decisions in love",
+    "love_reversed": "dishonesty, imbalance, avoided accountability, unfairness",
     "career": "fair evaluation, contracts and legal matters, accountable decisions, merit-based outcome",
+    "career_reversed": "unfair outcome, dishonest dealings, avoided responsibility, bias",
     "mood": "Sober, clear-eyed.",
-    "spiritual": "spiritual accountability, cause and effect, ethical alignment, balancing actions and consequences"
+    "mood_reversed": "guilty, defensive, uneasy",
+    "spiritual": "spiritual accountability, cause and effect, ethical alignment, balancing actions and consequences",
+    "spiritual_reversed": "avoided accountability, imbalance, dishonesty with the self, unresolved consequences"
   },
   {
     "id": 12,
@@ -381,6 +441,7 @@
     "planet": "Neptune",
     "zodiac": "Pisces",
     "yes_no": "maybe",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "surrender",
       "new perspective",
@@ -398,9 +459,13 @@
     "meaning_upright": "Surrender, new perspective, pause, letting go, suspension.",
     "meaning_reversed": "Stalling, resistance, martyrdom, indecision, wasted sacrifice.",
     "love": "romantic pause, changing perspective, emotional surrender, waiting for clarity",
+    "love_reversed": "stalling, resistance, needless sacrifice, indecision",
     "career": "career pause, delayed progress, new perspective, reconsidering professional priorities",
+    "career_reversed": "stalled progress, resistance to change, wasted delay, indecision",
     "mood": "Suspended, strangely peaceful.",
-    "spiritual": "surrender, altered perspective, spiritual pause, releasing attachment to control"
+    "mood_reversed": "stuck, frustrated, restless",
+    "spiritual": "surrender, altered perspective, spiritual pause, releasing attachment to control",
+    "spiritual_reversed": "resisting surrender, stalled growth, martyrdom, clinging to control"
   },
   {
     "id": 13,
@@ -412,6 +477,7 @@
     "planet": "Mars",
     "zodiac": "Scorpio",
     "yes_no": "no",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "endings",
       "transformation",
@@ -429,9 +495,13 @@
     "meaning_upright": "Endings, transformation, transition, release, renewal.",
     "meaning_reversed": "Resistance to endings, stagnation, fear of change, holding on, incomplete closure.",
     "love": "relationship transformation, ending a romantic chapter, emotional release, a new beginning after change",
+    "love_reversed": "resisting an ending, holding on, stagnation, incomplete closure",
     "career": "career transition, ending an outdated role, professional reinvention, making space for change",
+    "career_reversed": "clinging to an outdated role, fear of change, stagnation, delayed transition",
     "mood": "Heavy yet quietly relieved.",
-    "spiritual": "spiritual transformation, release and renewal, ending an old identity, embracing necessary change"
+    "mood_reversed": "stuck, fearful, resistant",
+    "spiritual": "spiritual transformation, release and renewal, ending an old identity, embracing necessary change",
+    "spiritual_reversed": "resistance to transformation, fear of endings, holding on, stalled renewal"
   },
   {
     "id": 14,
@@ -443,6 +513,7 @@
     "planet": "Jupiter",
     "zodiac": "Sagittarius",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "balance",
       "moderation",
@@ -460,9 +531,13 @@
     "meaning_upright": "Balance, moderation, patience, blending, healing.",
     "meaning_reversed": "Excess, imbalance, impatience, friction, overcorrection.",
     "love": "emotional harmony, patient love, healthy compromise, gradual relationship growth",
+    "love_reversed": "imbalance, impatience, friction, mismatched pace",
     "career": "work-life balance, collaborative teamwork, steady progress, integrating different skills",
+    "career_reversed": "overwork, imbalance, friction, poor integration",
     "mood": "Serene, even.",
-    "spiritual": "inner harmony, spiritual integration, healing through balance, patient transformation"
+    "mood_reversed": "restless, impatient, off-balance",
+    "spiritual": "inner harmony, spiritual integration, healing through balance, patient transformation",
+    "spiritual_reversed": "imbalance, impatience, excess, disrupted inner harmony"
   },
   {
     "id": 15,
@@ -474,6 +549,7 @@
     "planet": "Saturn",
     "zodiac": "Capricorn",
     "yes_no": "no",
+    "yes_no_reversed": "yes",
     "keywords_upright": [
       "attachment",
       "temptation",
@@ -491,9 +567,13 @@
     "meaning_upright": "Attachment, temptation, unhealthy patterns, materialism, feeling trapped.",
     "meaning_reversed": "Breaking free, reclaiming power, awareness, release, recovery.",
     "love": "intense attraction, unhealthy attachment, temptation, controlling relationship patterns",
+    "love_reversed": "breaking free, releasing attachment, reclaiming power, healthier bonds",
     "career": "unhealthy attachment to work, material ambition, restrictive job, workplace power dynamics",
+    "career_reversed": "leaving a restrictive job, breaking unhealthy patterns, reclaiming freedom, recovery",
     "mood": "Tense, restless.",
-    "spiritual": "recognizing attachment, confronting the shadow, reclaiming personal freedom, breaking limiting patterns"
+    "mood_reversed": "relieved, awakening, freeing",
+    "spiritual": "recognizing attachment, confronting the shadow, reclaiming personal freedom, breaking limiting patterns",
+    "spiritual_reversed": "breaking free, confronting the shadow, reclaiming power, release from attachment"
   },
   {
     "id": 16,
@@ -505,6 +585,7 @@
     "planet": "Mars",
     "zodiac": "Aries",
     "yes_no": "no",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "sudden upheaval",
       "revelation",
@@ -522,9 +603,13 @@
     "meaning_upright": "Sudden upheaval, revelation, collapse of the false, disruption, awakening.",
     "meaning_reversed": "Averted disaster, fear of change, delayed collapse, resisting the inevitable, internal upheaval.",
     "love": "sudden breakup, shocking revelation, relationship upheaval, rebuilding after conflict",
+    "love_reversed": "averted breakup, delayed reckoning, resisting change, gradual upheaval",
     "career": "sudden career disruption, organizational upheaval, job loss or major change, rebuilding professionally",
+    "career_reversed": "averted disruption, delayed collapse, resisting the inevitable, internal upheaval",
     "mood": "Shaken, electric.",
-    "spiritual": "spiritual awakening through disruption, collapse of false beliefs, sudden revelation, rebuilding on truth"
+    "mood_reversed": "uneasy, braced, tense",
+    "spiritual": "spiritual awakening through disruption, collapse of false beliefs, sudden revelation, rebuilding on truth",
+    "spiritual_reversed": "delayed awakening, resisting necessary collapse, clinging to false beliefs, internal upheaval"
   },
   {
     "id": 17,
@@ -536,6 +621,7 @@
     "planet": "Saturn",
     "zodiac": "Aquarius",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "hope",
       "renewal",
@@ -553,9 +639,13 @@
     "meaning_upright": "Hope, renewal, healing, inspiration, faith.",
     "meaning_reversed": "Discouragement, lost faith, disconnection, self-doubt, dimmed hope.",
     "love": "hope in love, emotional healing, renewed trust, an inspiring connection",
+    "love_reversed": "lost faith, discouragement, disconnection, dimmed hope",
     "career": "renewed career hope, inspired work, visibility for your talents, promising long-term direction",
+    "career_reversed": "lost inspiration, self-doubt, discouragement, dimmed direction",
     "mood": "Hopeful, soothed.",
-    "spiritual": "renewed faith, spiritual healing, authentic purpose, guidance and inspiration"
+    "mood_reversed": "discouraged, drained, doubtful",
+    "spiritual": "renewed faith, spiritual healing, authentic purpose, guidance and inspiration",
+    "spiritual_reversed": "lost faith, disconnection from purpose, dimmed hope, spiritual discouragement"
   },
   {
     "id": 18,
@@ -567,6 +657,7 @@
     "planet": "Jupiter",
     "zodiac": "Pisces",
     "yes_no": "maybe",
+    "yes_no_reversed": "yes",
     "keywords_upright": [
       "illusion",
       "intuition",
@@ -584,9 +675,13 @@
     "meaning_upright": "Illusion, intuition, uncertainty, the subconscious, dreams.",
     "meaning_reversed": "Clarity emerging, released fear, truth surfacing, confusion lifting, self-deception ending.",
     "love": "romantic uncertainty, hidden emotions, mixed signals, trusting emotional intuition",
+    "love_reversed": "clarity emerging, truth surfacing, released fear, confusion lifting",
     "career": "career uncertainty, unclear workplace dynamics, hidden information, cautious professional intuition",
+    "career_reversed": "clarity returning, hidden information revealed, confusion lifting, released doubt",
     "mood": "Dreamy, uneasy.",
-    "spiritual": "subconscious exploration, intuitive sensitivity, spiritual uncertainty, moving through illusion"
+    "mood_reversed": "clearing, steadier, relieved",
+    "spiritual": "subconscious exploration, intuitive sensitivity, spiritual uncertainty, moving through illusion",
+    "spiritual_reversed": "confusion lifting, truth surfacing, released illusion, returning clarity"
   },
   {
     "id": 19,
@@ -598,6 +693,7 @@
     "planet": "Sun",
     "zodiac": "Leo",
     "yes_no": "yes",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "joy",
       "success",
@@ -615,9 +711,13 @@
     "meaning_upright": "Joy, success, vitality, clarity, confidence.",
     "meaning_reversed": "Dimmed joy, temporary setbacks, pessimism, burnout, delayed success.",
     "love": "happiness in love, mutual warmth, joyful partnership, openness and affection",
+    "love_reversed": "dimmed joy, temporary distance, guarded warmth, delayed happiness",
     "career": "career success, recognition, professional confidence, rewarding collaboration",
+    "career_reversed": "delayed success, dimmed recognition, burnout, temporary setbacks",
     "mood": "Joyful, radiant.",
-    "spiritual": "spiritual clarity, joyful awareness, vitality and truth, connection with the authentic self"
+    "mood_reversed": "flat, tired, subdued",
+    "spiritual": "spiritual clarity, joyful awareness, vitality and truth, connection with the authentic self",
+    "spiritual_reversed": "dimmed clarity, blocked vitality, temporary disconnection, delayed joy"
   },
   {
     "id": 20,
@@ -629,6 +729,7 @@
     "planet": "Pluto",
     "zodiac": "Scorpio",
     "yes_no": "yes",
+    "yes_no_reversed": "no",
     "keywords_upright": [
       "awakening",
       "reckoning",
@@ -646,9 +747,13 @@
     "meaning_upright": "Awakening, reckoning, renewal, calling, self-evaluation.",
     "meaning_reversed": "Self-criticism, ignoring the call, stuck in the past, harsh judgment, avoidance.",
     "love": "relationship renewal, reconciliation, emotional awakening, an important romantic decision",
+    "love_reversed": "avoided reckoning, stuck in the past, self-criticism, missed reconciliation",
     "career": "career calling, performance review, second chance, decisive professional awakening",
+    "career_reversed": "ignoring the calling, harsh self-judgment, stuck in the past, avoided decision",
     "mood": "Stirred, resolved.",
-    "spiritual": "spiritual awakening, answering an inner calling, self-evaluation, release from the past"
+    "mood_reversed": "self-critical, stuck, doubtful",
+    "spiritual": "spiritual awakening, answering an inner calling, self-evaluation, release from the past",
+    "spiritual_reversed": "ignoring the inner call, harsh self-judgment, stuck in the past, avoided awakening"
   },
   {
     "id": 21,
@@ -660,6 +765,7 @@
     "planet": "Saturn",
     "zodiac": "Capricorn",
     "yes_no": "yes",
+    "yes_no_reversed": "maybe",
     "keywords_upright": [
       "completion",
       "fulfillment",
@@ -677,8 +783,12 @@
     "meaning_upright": "Completion, fulfillment, wholeness, achievement, integration.",
     "meaning_reversed": "Incompletion, loose ends, delayed closure, shortcuts, unfinished business.",
     "love": "lasting fulfillment, relationship completion, mature partnership, reaching a shared milestone",
+    "love_reversed": "incompletion, loose ends, delayed commitment, unfinished chapter",
     "career": "career achievement, project completion, professional mastery, international opportunities",
+    "career_reversed": "unfinished business, delayed completion, shortcuts, loose ends",
     "mood": "Fulfilled, celebratory.",
-    "spiritual": "spiritual completion, wholeness, integration of lessons, connection with the greater whole"
+    "mood_reversed": "restless, unresolved, impatient",
+    "spiritual": "spiritual completion, wholeness, integration of lessons, connection with the greater whole",
+    "spiritual_reversed": "incompletion, unfinished lessons, delayed closure, seeking the missing piece"
   }
 ]

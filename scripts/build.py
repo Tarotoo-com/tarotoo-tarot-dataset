@@ -30,8 +30,9 @@ SOURCE_FILES = [
 
 REQUIRED_FIELDS = [
     "id", "name", "arcana", "suit", "number_numerology", "element", "planet", "zodiac",
-    "yes_no", "keywords_upright", "keywords_reversed",
-    "meaning_upright", "meaning_reversed", "love", "career", "mood", "spiritual",
+    "yes_no", "yes_no_reversed", "keywords_upright", "keywords_reversed",
+    "meaning_upright", "meaning_reversed", "love", "love_reversed", "career", "career_reversed",
+    "mood", "mood_reversed", "spiritual", "spiritual_reversed",
 ]
 
 VALID_ARCANA = {"major", "minor"}
@@ -64,13 +65,17 @@ def validate(cards):
             errors.append(f"{label}: bad suit {card.get('suit')!r}")
         if card.get("yes_no") not in VALID_YES_NO:
             errors.append(f"{label}: bad yes_no {card.get('yes_no')!r}")
+        if card.get("yes_no_reversed") not in VALID_YES_NO:
+            errors.append(f"{label}: bad yes_no_reversed {card.get('yes_no_reversed')!r}")
         if card.get("element") not in VALID_ELEMENTS:
             errors.append(f"{label}: bad element {card.get('element')!r}")
         for kw_field in ("keywords_upright", "keywords_reversed"):
             kws = card.get(kw_field, [])
             if not isinstance(kws, list) or len(kws) < 3:
                 errors.append(f"{label}: {kw_field} needs at least 3 keywords")
-        for text_field in ("meaning_upright", "meaning_reversed", "love", "career", "mood", "spiritual"):
+        for text_field in ("meaning_upright", "meaning_reversed", "love", "love_reversed",
+                           "career", "career_reversed", "mood", "mood_reversed",
+                           "spiritual", "spiritual_reversed"):
             if not str(card.get(text_field, "")).strip():
                 errors.append(f"{label}: empty {text_field}")
 

@@ -68,14 +68,19 @@ One record per card:
 | `planet` | string/null | Planetary association (`null` where not applicable, e.g. Aces) |
 | `zodiac` | string/null | Zodiac sign(s); the element's three signs for Aces and Pages |
 | `yes_no` | string | `"yes"`, `"no"`, or `"maybe"` — for yes/no readings |
+| `yes_no_reversed` | string | `"yes"`, `"no"`, or `"maybe"` for a reversed card |
 | `keywords_upright` | list[string] | Upright keywords |
 | `keywords_reversed` | list[string] | Reversed keywords |
 | `meaning_upright` | string | Upright meaning as concise keyword phrases |
 | `meaning_reversed` | string | Reversed meaning as concise keyword phrases |
 | `love` | string | Love/relationships context (short phrase) |
+| `love_reversed` | string | Reversed love/relationships context (keyword phrases) |
 | `career` | string | Career/work context (short phrase) |
+| `career_reversed` | string | Reversed career/work context (keyword phrases) |
 | `mood` | string | Mood/emotional tone (short phrase) |
+| `mood_reversed` | string | Reversed mood/emotional tone (keyword phrases) |
 | `spiritual` | string | Spiritual-growth context (short phrase) |
+| `spiritual_reversed` | string | Reversed spiritual-growth context (keyword phrases) |
 
 ### Example instance
 
