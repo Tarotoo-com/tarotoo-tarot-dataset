@@ -56,7 +56,7 @@ Each card record has the following fields:
 
 - **Hugging Face:** [huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
 - **Kaggle:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
-- **Kaggle Notebook:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples)
+- **Kaggle Notebook:** [kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples](https://www.kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples)
 - **npm:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot)
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
