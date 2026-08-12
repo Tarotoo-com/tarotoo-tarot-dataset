@@ -61,6 +61,7 @@ Each card record has the following fields:
 - **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
 - **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
 - **Dataset homepage:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
+- **Research paper:** [ssrn.com/abstract=7217458](https://ssrn.com/abstract=7217458)
 - **Zenodo — dataset** (concept DOI, always resolves to the latest dataset version; dataset + dataset paper): [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777)
 - **Zenodo — full repository/archive of this repo** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519)
 - **Zenodo — full repository/archive of this repo** (Concept DOI): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290)
