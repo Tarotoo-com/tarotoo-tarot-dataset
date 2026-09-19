@@ -1,5 +1,10 @@
 # tarotoo-tarot
 
+[![npm](https://img.shields.io/npm/v/tarotoo-tarot)](https://www.npmjs.com/package/tarotoo-tarot)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-dataset-yellow)](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21285777.svg)](https://doi.org/10.5281/zenodo.21285777)
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://github.com/Tarotoo-com/tarotoo-tarot-dataset/blob/main/LICENSE)
+
 All **78 tarot card meanings** (Rider–Waite–Smith tradition) as structured data with lookup helpers. This is the open [Tarotoo tarot dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset) — the same card meanings that ground the AI readings on [Tarotoo.com](https://tarotoo.com).
 
 ```bash
@@ -27,11 +32,17 @@ import cards from "tarotoo-tarot/cards.json" with { type: "json" };
 
 Each card has: `id`, `name`, `arcana`, `suit`, `number_numerology`, `element`, `planet`, `zodiac`, `yes_no`, `yes_no_reversed`, `keywords_upright`, `keywords_reversed`, `meaning_upright`, `meaning_reversed`, `love`, `love_reversed`, `career`, `career_reversed`, `mood`, `mood_reversed`, `spiritual`, `spiritual_reversed`.
 
-## Related
+## Links
 
-- Dataset source: [github.com/Tarotoo-com/tarotoo-tarot-dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset)
-- MCP server for AI assistants: [github.com/Tarotoo-com/tarotoo-mcp-server](https://github.com/Tarotoo-com/tarotoo-mcp-server)
-- Python package: `pip install tarotoo-tarot`
+| Resource | Link |
+| --- | --- |
+| Dataset source and docs | [Tarotoo-com/tarotoo-tarot-dataset](https://github.com/Tarotoo-com/tarotoo-tarot-dataset) |
+| Dataset homepage | [tarotoo.com/open-data](https://tarotoo.com/open-data) |
+| PyPI package | [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/) |
+| MCP server for AI assistants | [`tarotoo-mcp-server`](https://www.npmjs.com/package/tarotoo-mcp-server) |
+| Hugging Face | [Tarotoo/tarotoo-tarot-card-meanings](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings) |
+| Kaggle | [tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings) |
+| Citable DOI | [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) |
 
 ## License
 

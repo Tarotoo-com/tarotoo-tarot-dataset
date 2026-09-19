@@ -54,17 +54,19 @@ Each card record has the following fields:
 
 ## Access the Dataset and Tools
 
-- **Hugging Face:** [huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings)
-- **Kaggle:** [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings)
-- **Kaggle Notebook:** [kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples](https://www.kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples)
-- **npm:** [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot)
-- **PyPI:** [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/)
-- **MCP server** for AI assistants: [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) (official registry: `io.github.Tarotoo-com/tarotoo-mcp-server`)
-- **Dataset homepage:** [tarotoo.com/open-data](https://tarotoo.com/open-data)
-- **Research paper:** [ssrn.com/abstract=7217458](https://ssrn.com/abstract=7217458)
-- **Zenodo — dataset** (concept DOI, always resolves to the latest dataset version; dataset + dataset paper): [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777)
-- **Zenodo — full repository/archive of this repo** (dataset, source files, build scripts, automated validation, software packages, documentation): [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519)
-- **Zenodo — full repository/archive of this repo** (Concept DOI): [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290)
+| Resource | Link |
+| --- | --- |
+| Dataset homepage | [tarotoo.com/open-data](https://tarotoo.com/open-data) |
+| Hugging Face | [huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings](https://huggingface.co/datasets/Tarotoo/tarotoo-tarot-card-meanings) |
+| Kaggle | [kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings](https://www.kaggle.com/datasets/tarotoo/tarotoo-tarot-card-meanings) |
+| Kaggle notebook: EDA, validation, examples | [kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples](https://www.kaggle.com/code/tarotoo/tarotoo-tarot-dataset-eda-validation-examples) |
+| npm package, data and lookup helpers | [`tarotoo-tarot`](https://www.npmjs.com/package/tarotoo-tarot) |
+| PyPI package, data and lookup helpers | [`tarotoo-tarot`](https://pypi.org/project/tarotoo-tarot/) |
+| MCP server for AI assistants | [`tarotoo-mcp-server`](https://github.com/Tarotoo-com/tarotoo-mcp-server) · registry: `io.github.Tarotoo-com/tarotoo-mcp-server` |
+| Research paper | [ssrn.com/abstract=7217458](https://ssrn.com/abstract=7217458) |
+| Zenodo, dataset and its paper | [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) — concept DOI, newest version |
+| Zenodo, whole repository | [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519) — fixed at v2.0.0 |
+| Zenodo, whole repository | [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) — concept DOI, newest version |
 
 ## Installation & quick start
 
@@ -168,9 +170,11 @@ Released under the [MIT License](LICENSE) — free to use, copy, modify, and red
 
 **DOI guide:**
 
-- [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519) — full repository/archive of this repo (dataset, source files, build scripts, automated validation, software packages, documentation)
-- [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) — Concept DOI: not a specific version; always resolves to the latest repository archive
-- [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) — dataset only, concept DOI (data files + dataset paper; always resolves to the latest dataset version)
+| DOI | Covers | Resolves to |
+| --- | --- | --- |
+| [10.5281/zenodo.21514519](https://doi.org/10.5281/zenodo.21514519) | Whole repository: dataset, source files, build scripts, validation, packages, documentation | Fixed at v2.0.0 |
+| [10.5281/zenodo.21268290](https://doi.org/10.5281/zenodo.21268290) | Whole repository | Newest version (concept DOI) |
+| [10.5281/zenodo.21285777](https://doi.org/10.5281/zenodo.21285777) | Dataset only: data files and the dataset paper | Newest version (concept DOI) |
 
 
 See also [`CITATION.cff`](CITATION.cff); a new DOI is issued for each tagged release.
