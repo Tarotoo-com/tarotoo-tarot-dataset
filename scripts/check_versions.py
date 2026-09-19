@@ -1,7 +1,12 @@
-"""Fail if the version is not identical everywhere it is declared.
+"""Fail if the package version is not identical everywhere it is declared.
 
-Two releases' worth of drift went unnoticed once: the published 2.0.0 PyPI package
-reported __version__ == "1.7.1" and CITATION.cff still cited 1.7.1. Run in CI.
+Drift went unnoticed once: the published 2.0.0 PyPI package reported
+__version__ == "1.7.1", because the literal was never updated with the release.
+
+The npm manifest, the Python manifest and the source-checkout fallback describe the
+same software and must agree. CITATION.cff is reported but not compared: it cites
+the archived dataset release on Zenodo, which does not move when only the packages
+get a patch. Run in CI.
 
     python3 scripts/check_versions.py
 """
@@ -23,9 +28,10 @@ def found() -> dict[str, str]:
         (ROOT / "packages/npm/package.json").read_text())["version"]
     out["packages/python/pyproject.toml"] = tomllib.loads(
         (ROOT / "packages/python/pyproject.toml").read_text())["project"]["version"]
+    # Reported for context; not part of the comparison (see the module docstring).
     cff = re.search(r"^version:\s*(\S+)\s*$",
                     (ROOT / "CITATION.cff").read_text(), re.M)
-    out["CITATION.cff"] = cff.group(1) if cff else "MISSING"
+    out["CITATION.cff (dataset release, not compared)"] = cff.group(1) if cff else "MISSING"
     # A literal __version__ would be drift waiting to happen; the package reads its
     # own metadata instead, so only its source-checkout fallback is checked here.
     init = (ROOT / "packages/python/src/tarotoo_tarot/__init__.py").read_text()
@@ -43,7 +49,7 @@ def main() -> int:
     versions = found()
     for where, v in sorted(versions.items()):
         print(f"  {v:10} {where}")
-    unique = set(versions.values())
+    unique = {v for k, v in versions.items() if "not compared" not in k}
     if len(unique) != 1:
         print(f"\nFAIL: {len(unique)} different versions declared: {sorted(unique)}")
         return 1
