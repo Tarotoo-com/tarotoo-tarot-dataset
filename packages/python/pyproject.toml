@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 requires-python = ">=3.9"
 authors = [{ name = "Tarotoo" }]
-keywords = ["tarot", "tarot-cards", "card-meanings", "rider-waite-smith", "dataset", "divination"]
+keywords = ["tarot", "tarot-cards", "tarot-deck", "card-meanings", "tarot-meanings", "reversed-meanings", "major-arcana", "minor-arcana", "rider-waite", "rider-waite-smith", "78-cards", "yes-no-tarot", "love-tarot", "career-tarot", "tarot-reading", "divination", "oracle", "fortune-telling", "astrology", "zodiac", "numerology", "esoteric", "dataset", "open-data", "json-dataset", "structured-data", "tarotoo"]
 classifiers = [
   "Development Status :: 5 - Production/Stable",
   "Intended Audience :: Developers",

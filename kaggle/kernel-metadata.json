@@ -1,0 +1,15 @@
+{
+  "id": "tarotoo/notebook534badde6f",
+  "title": "Tarot Card Meanings - Starter Notebook",
+  "code_file": "tarot-card-meanings-starter.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "false",
+  "enable_gpu": "false",
+  "enable_internet": "false",
+  "dataset_sources": [
+    "tarotoo/tarotoo-tarot-card-meanings"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}
