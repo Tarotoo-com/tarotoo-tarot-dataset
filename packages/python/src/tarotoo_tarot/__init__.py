@@ -5,10 +5,14 @@ same card meanings that ground the AI readings on tarotoo.com. MIT licensed.
 """
 
 import json
+from importlib.metadata import PackageNotFoundError, version as _pkg_version
 from importlib.resources import files
 from typing import Optional
 
-__version__ = "1.7.1"
+try:  # the single source of truth is pyproject.toml
+    __version__ = _pkg_version("tarotoo-tarot")
+except PackageNotFoundError:  # running from a source checkout
+    __version__ = "2.0.0"
 
 #: All 78 cards, ordered by id (0-21 Major Arcana, then Wands, Cups, Swords, Pentacles).
 cards = json.loads(files(__package__).joinpath("cards.json").read_text(encoding="utf-8"))

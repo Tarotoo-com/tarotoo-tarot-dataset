@@ -15,6 +15,8 @@ jobs:
           python-version: "3.12"
       - name: Build and validate (78 cards, schema, enums)
         run: python3 scripts/build.py
+      - name: Check the version is the same everywhere it is declared
+        run: python3 scripts/check_versions.py
       - name: Check generated artifacts are in sync with sources
         run: git diff --exit-code
       - name: Test python package
